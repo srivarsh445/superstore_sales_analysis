@@ -16,6 +16,7 @@ superstore-sales-analysis/
 2. SQL: Generated query results (sales by region, profit by category, top customers)
 3. Power BI: Created interactive dashboard, added visuals and slicers
 ## dashboard
+https://github.com/srivarsh445/superstore_sales_analysis/blob/main/superstore%20sales%20analysis/power%20bi/image/Screenshot%202025-10-05%20024447.png
 ## Insights
 - 2017 had highest sales
 - Furniture category generated highest profit
