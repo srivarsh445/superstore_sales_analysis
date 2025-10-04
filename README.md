@@ -15,6 +15,7 @@ superstore-sales-analysis/
 1. Excel: Cleaned dataset, removed duplicates, standardized dates
 2. SQL: Generated query results (sales by region, profit by category, top customers)
 3. Power BI: Created interactive dashboard, added visuals and slicers
+## dashboard
 ## Insights
 - 2017 had highest sales
 - Furniture category generated highest profit
