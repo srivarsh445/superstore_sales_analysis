@@ -1,0 +1,2584 @@
+order_id,customer_id,year(order_date),country,category,sales,discount,profit
+CA-2016-158568,RB-19465,2016,"United States",Technology,95.98,0,-10.80
+CA-2016-152156,CG-12520,2016,"United States",Furniture,261.96,0,41.91
+CA-2016-152156,CG-12520,2016,"United States",Furniture,731.94,0,219.58
+CA-2016-138688,DV-13045,2016,"United States","Office Supplies",14.62,0,6.87
+CA-2016-117590,GH-14485,2016,"United States",Technology,1097.54,0,123.47
+CA-2016-117590,GH-14485,2016,"United States",Furniture,190.92,1,-147.96
+CA-2016-158568,RB-19465,2016,"United States","Office Supplies",1.79,1,-3.04
+CA-2016-129903,GZ-14470,2016,"United States","Office Supplies",23.92,0,11.72
+CA-2016-101343,RA-19885,2016,"United States","Office Supplies",77.88,0,3.89
+CA-2016-118255,ON-18715,2016,"United States",Technology,45.98,0,19.77
+CA-2016-118255,ON-18715,2016,"United States","Office Supplies",17.46,0,8.21
+CA-2016-128867,CL-12565,2016,"United States","Office Supplies",75.96,0,22.79
+CA-2016-128867,CL-12565,2016,"United States","Office Supplies",27.24,0,13.35
+CA-2016-169194,LH-16900,2016,"United States",Technology,45.00,0,4.95
+CA-2016-169194,LH-16900,2016,"United States",Technology,21.80,0,6.10
+CA-2016-103730,SC-20725,2016,"United States",Furniture,47.04,0,18.35
+CA-2016-161389,IM-15070,2016,"United States","Office Supplies",407.98,0,132.59
+CA-2016-103730,SC-20725,2016,"United States","Office Supplies",30.84,0,13.88
+CA-2016-103730,SC-20725,2016,"United States","Office Supplies",226.56,0,63.44
+CA-2016-103730,SC-20725,2016,"United States","Office Supplies",115.02,0,51.76
+CA-2016-103730,SC-20725,2016,"United States",Technology,68.04,0,19.73
+CA-2016-105816,JM-15265,2016,"United States","Office Supplies",15.26,0,6.26
+CA-2016-105816,JM-15265,2016,"United States",Technology,1029.95,0,298.69
+CA-2016-111682,TB-21055,2016,"United States","Office Supplies",208.56,0,52.14
+US-2016-125969,LS-16975,2016,"United States",Furniture,81.42,0,-9.16
+CA-2016-111682,TB-21055,2016,"United States","Office Supplies",32.40,0,15.55
+CA-2016-111682,TB-21055,2016,"United States",Furniture,319.41,0,7.10
+CA-2016-111682,TB-21055,2016,"United States","Office Supplies",14.56,0,6.99
+US-2016-125969,LS-16975,2016,"United States",Furniture,238.56,0,26.24
+CA-2016-111682,TB-21055,2016,"United States",Technology,30.00,0,3.30
+CA-2016-111682,TB-21055,2016,"United States","Office Supplies",48.48,0,16.36
+CA-2016-137330,KB-16585,2016,"United States","Office Supplies",19.46,0,5.06
+CA-2016-111682,TB-21055,2016,"United States","Office Supplies",1.68,0,0.84
+CA-2016-137330,KB-16585,2016,"United States","Office Supplies",60.34,0,15.69
+CA-2016-145583,LC-16885,2016,"United States","Office Supplies",20.04,0,9.62
+CA-2016-145583,LC-16885,2016,"United States","Office Supplies",35.44,0,16.66
+CA-2016-145583,LC-16885,2016,"United States","Office Supplies",11.52,0,3.46
+CA-2016-145583,LC-16885,2016,"United States","Office Supplies",4.02,0,1.97
+CA-2016-105018,SK-19990,2016,"United States","Office Supplies",7.16,0,3.44
+CA-2016-145583,LC-16885,2016,"United States","Office Supplies",76.18,0,26.66
+CA-2016-145583,LC-16885,2016,"United States","Office Supplies",65.88,0,18.45
+CA-2016-121755,EH-13945,2016,"United States","Office Supplies",11.65,0,4.22
+CA-2016-145583,LC-16885,2016,"United States",Furniture,43.12,0,20.70
+CA-2016-110366,JD-15895,2016,"United States",Furniture,82.80,0,10.35
+CA-2016-121755,EH-13945,2016,"United States",Technology,90.57,0,11.77
+CA-2016-157000,AM-10360,2016,"United States","Office Supplies",37.22,0,3.72
+CA-2016-157000,AM-10360,2016,"United States","Office Supplies",20.02,0,6.26
+CA-2016-119823,KD-16270,2016,"United States","Office Supplies",75.88,0,35.66
+CA-2016-106075,HM-14980,2016,"United States","Office Supplies",4.62,0,1.73
+CA-2016-114489,JE-16165,2016,"United States",Technology,384.45,0,103.80
+CA-2016-114489,JE-16165,2016,"United States",Technology,149.97,0,6.00
+CA-2016-114489,JE-16165,2016,"United States",Furniture,1951.84,0,585.55
+CA-2016-157749,KL-16645,2016,"United States","Office Supplies",25.92,0,9.40
+CA-2016-114489,JE-16165,2016,"United States","Office Supplies",171.55,0,80.63
+CA-2016-157749,KL-16645,2016,"United States",Furniture,419.68,1,-356.73
+CA-2016-158834,TW-21025,2016,"United States","Office Supplies",157.92,0,17.77
+CA-2016-158834,TW-21025,2016,"United States",Technology,203.18,0,15.24
+CA-2016-157749,KL-16645,2016,"United States",Furniture,11.69,1,-4.68
+CA-2016-157749,KL-16645,2016,"United States",Technology,31.98,0,11.19
+CA-2016-157749,KL-16645,2016,"United States",Furniture,177.23,1,-120.51
+CA-2016-157749,KL-16645,2016,"United States",Furniture,4.04,1,-2.83
+CA-2016-157749,KL-16645,2016,"United States","Office Supplies",7.41,0,1.20
+CA-2016-127208,SC-20770,2016,"United States","Office Supplies",208.16,0,56.20
+CA-2016-114104,NP-18670,2016,"United States","Office Supplies",14.62,0,6.87
+CA-2016-114104,NP-18670,2016,"United States",Technology,944.93,0,236.23
+CA-2016-162733,TT-21070,2016,"United States","Office Supplies",5.98,0,2.69
+CA-2016-154508,RD-19900,2016,"United States","Office Supplies",28.40,0,13.35
+CA-2016-113817,MJ-17740,2016,"United States","Office Supplies",27.68,0,9.69
+CA-2016-154739,LH-17155,2016,"United States",Furniture,321.57,0,28.14
+CA-2016-145625,KC-16540,2016,"United States","Office Supplies",7.61,0,3.58
+CA-2016-145625,KC-16540,2016,"United States",Technology,3347.37,0,636.00
+CA-2016-146941,DL-13315,2016,"United States","Office Supplies",80.58,0,22.56
+CA-2016-146941,DL-13315,2016,"United States","Office Supplies",361.92,0,162.86
+CA-2016-127208,SC-20770,2016,"United States","Office Supplies",16.74,0,8.04
+CA-2016-142545,JD-15895,2016,"United States","Office Supplies",14.28,0,6.57
+CA-2016-125318,RC-19825,2016,"United States",Technology,328.22,0,28.72
+CA-2016-130162,JH-15910,2016,"United States","Office Supplies",93.06,0,26.06
+CA-2016-130162,JH-15910,2016,"United States",Technology,302.38,0,22.68
+CA-2016-159695,GM-14455,2016,"United States","Office Supplies",158.37,0,13.86
+CA-2016-109806,JS-15685,2016,"United States","Office Supplies",20.10,0,6.63
+CA-2016-142902,BP-11185,2016,"United States",Furniture,15.14,0,3.59
+CA-2016-142902,BP-11185,2016,"United States",Furniture,466.77,0,52.51
+CA-2016-142902,BP-11185,2016,"United States",Furniture,15.23,0,1.71
+CA-2016-142902,BP-11185,2016,"United States","Office Supplies",6.26,0,2.04
+CA-2016-109806,JS-15685,2016,"United States",Technology,73.58,0,8.28
+CA-2016-109806,JS-15685,2016,"United States","Office Supplies",6.48,0,3.11
+CA-2016-111010,PG-18895,2016,"United States","Office Supplies",7.56,0,0.30
+CA-2016-149223,ER-13855,2016,"United States","Office Supplies",77.88,0,22.59
+CA-2016-158568,RB-19465,2016,"United States","Office Supplies",64.62,0,22.62
+CA-2016-115756,PK-19075,2016,"United States",Furniture,12.22,0,3.67
+CA-2016-115756,PK-19075,2016,"United States","Office Supplies",194.94,0,23.39
+CA-2016-162138,GK-14620,2016,"United States","Office Supplies",251.52,0,81.74
+CA-2016-115756,PK-19075,2016,"United States","Office Supplies",70.95,0,20.58
+CA-2016-115756,PK-19075,2016,"United States","Office Supplies",91.36,0,42.03
+CA-2016-115756,PK-19075,2016,"United States",Furniture,242.94,0,29.15
+CA-2016-115756,PK-19075,2016,"United States","Office Supplies",22.05,0,10.58
+CA-2016-166674,RB-19360,2016,"United States","Office Supplies",59.52,0,15.48
+CA-2016-166674,RB-19360,2016,"United States","Office Supplies",161.94,0,9.72
+CA-2016-162138,GK-14620,2016,"United States",Technology,99.99,0,35.00
+CA-2016-166674,RB-19360,2016,"United States","Office Supplies",263.88,0,71.25
+CA-2016-166674,RB-19360,2016,"United States","Office Supplies",30.48,0,7.92
+CA-2016-166674,RB-19360,2016,"United States","Office Supplies",9.84,0,2.85
+US-2016-141544,PO-18850,2016,"United States",Technology,290.90,0,-67.88
+CA-2016-166674,RB-19360,2016,"United States",Technology,35.12,0,9.13
+US-2016-141544,PO-18850,2016,"United States","Office Supplies",54.22,0,3.39
+US-2016-141544,PO-18850,2016,"United States",Furniture,786.74,0,-258.50
+US-2016-141544,PO-18850,2016,"United States","Office Supplies",100.24,0,33.83
+CA-2016-100153,KH-16630,2016,"United States",Technology,63.88,0,24.91
+US-2016-134656,MM-18280,2016,"United States","Office Supplies",99.14,0,30.98
+US-2016-157945,NF-18385,2016,"United States",Furniture,747.56,0,-96.11
+US-2016-157945,NF-18385,2016,"United States","Office Supplies",8.93,0,3.35
+US-2016-141544,PO-18850,2016,"United States","Office Supplies",37.76,1,-27.69
+US-2016-150147,JL-15850,2016,"United States",Technology,82.80,0,-20.70
+CA-2016-109869,TN-21040,2016,"United States",Furniture,23.56,0,7.07
+CA-2016-109869,TN-21040,2016,"United States",Furniture,1272.63,1,-814.48
+CA-2016-134775,AS-10285,2016,"United States","Office Supplies",50.96,0,25.48
+US-2016-150147,JL-15850,2016,"United States","Office Supplies",20.72,1,-13.82
+CA-2016-109869,TN-21040,2016,"United States","Office Supplies",28.49,1,-20.89
+CA-2016-134775,AS-10285,2016,"United States","Office Supplies",49.54,0,17.34
+US-2016-150147,JL-15850,2016,"United States","Office Supplies",4.90,1,-3.43
+CA-2016-112697,AH-10195,2016,"United States","Office Supplies",254.06,1,-169.37
+CA-2016-109869,TN-21040,2016,"United States","Office Supplies",185.38,0,-34.76
+CA-2016-109869,TN-21040,2016,"United States","Office Supplies",78.27,0,5.87
+CA-2016-112697,AH-10195,2016,"United States","Office Supplies",194.53,0,24.32
+CA-2016-112697,AH-10195,2016,"United States","Office Supplies",961.48,0,-204.31
+US-2016-100419,CC-12670,2016,"United States","Office Supplies",4.79,1,-7.90
+CA-2016-110772,NZ-18565,2016,"United States","Office Supplies",19.10,0,6.68
+CA-2016-110772,NZ-18565,2016,"United States","Office Supplies",18.50,0,6.24
+CA-2016-110772,NZ-18565,2016,"United States",Technology,255.98,0,54.40
+CA-2016-110772,NZ-18565,2016,"United States",Furniture,86.97,1,-48.70
+CA-2016-103891,KH-16690,2016,"United States",Technology,95.76,0,7.18
+CA-2016-152632,JE-15475,2016,"United States",Furniture,40.20,0,19.30
+CA-2016-100790,JG-15805,2016,"United States","Office Supplies",14.70,0,6.62
+CA-2016-100790,JG-15805,2016,"United States","Office Supplies",704.25,0,84.51
+CA-2016-142545,JD-15895,2016,"United States","Office Supplies",32.40,0,15.55
+CA-2016-129714,AB-10060,2016,"United States",Technology,6.79,0,2.31
+CA-2016-129714,AB-10060,2016,"United States","Office Supplies",24.56,0,11.54
+CA-2016-108987,AG-10675,2016,"United States","Office Supplies",35.95,0,3.60
+CA-2016-129714,AB-10060,2016,"United States","Office Supplies",3.05,0,1.07
+CA-2016-142545,JD-15895,2016,"United States","Office Supplies",1082.48,0,10.82
+CA-2016-108987,AG-10675,2016,"United States",Furniture,2396.27,0,-317.15
+CA-2016-142545,JD-15895,2016,"United States","Office Supplies",56.91,0,27.32
+CA-2016-129714,AB-10060,2016,"United States","Office Supplies",4355.17,0,1415.43
+CA-2016-108987,AG-10675,2016,"United States","Office Supplies",131.14,0,-32.78
+CA-2016-108987,AG-10675,2016,"United States",Technology,57.58,0,0.72
+CA-2016-138520,JL-15505,2016,"United States",Furniture,388.70,0,-4.86
+CA-2016-138520,JL-15505,2016,"United States","Office Supplies",8.26,0,3.80
+CA-2016-138520,JL-15505,2016,"United States","Office Supplies",17.04,0,6.99
+CA-2016-142545,JD-15895,2016,"United States",Furniture,77.60,0,38.02
+CA-2016-106341,LF-17185,2016,"United States","Office Supplies",7.15,0,0.72
+CA-2016-138520,JL-15505,2016,"United States","Office Supplies",34.40,0,15.82
+CA-2016-169166,SS-20590,2016,"United States",Technology,93.98,0,13.16
+US-2016-120929,RO-19780,2016,"United States",Furniture,189.88,0,-94.94
+CA-2016-130001,HK-14890,2016,"United States","Office Supplies",36.24,0,11.33
+US-2016-139486,LH-17155,2016,"United States",Technology,55.18,0,-12.41
+CA-2016-126158,SC-20095,2016,"United States","Office Supplies",119.62,0,40.37
+CA-2016-148796,PB-19150,2016,"United States",Furniture,383.80,0,38.38
+CA-2016-126158,SC-20095,2016,"United States",Furniture,255.76,0,81.84
+CA-2016-126158,SC-20095,2016,"United States",Furniture,241.57,0,18.12
+CA-2016-126158,SC-20095,2016,"United States",Furniture,69.30,0,22.87
+US-2016-105578,MY-17380,2016,"United States","Office Supplies",22.62,1,-15.08
+US-2016-105578,MY-17380,2016,"United States","Office Supplies",14.95,1,-11.96
+US-2016-105578,MY-17380,2016,"United States",Furniture,801.57,0,50.10
+US-2016-139486,LH-17155,2016,"United States",Technology,66.26,0,27.17
+US-2016-105578,MY-17380,2016,"United States","Office Supplies",2.38,1,-1.90
+US-2016-105578,MY-17380,2016,"United States","Office Supplies",32.79,0,11.89
+CA-2016-155516,MK-17905,2016,"United States","Office Supplies",23.20,0,10.44
+CA-2016-155516,MK-17905,2016,"United States","Office Supplies",7.36,0,0.15
+CA-2016-155516,MK-17905,2016,"United States","Office Supplies",104.79,0,29.34
+CA-2016-127250,SF-20200,2016,"United States","Office Supplies",8.82,0,2.38
+CA-2016-155516,MK-17905,2016,"United States",Furniture,1043.92,0,271.42
+CA-2016-168753,RL-19615,2016,"United States",Technology,979.95,0,274.39
+CA-2016-147067,JD-16150,2016,"United States",Furniture,18.84,0,6.03
+CA-2016-168753,RL-19615,2016,"United States","Office Supplies",22.75,0,11.38
+CA-2016-126613,AA-10375,2016,"United States","Office Supplies",16.77,0,1.47
+US-2016-156986,ZC-21910,2016,"United States",Technology,84.78,0,-20.14
+US-2016-156986,ZC-21910,2016,"United States","Office Supplies",20.74,0,7.26
+CA-2016-136924,ES-14080,2016,"United States",Technology,380.86,0,38.09
+US-2016-156986,ZC-21910,2016,"United States","Office Supplies",16.82,1,-12.90
+US-2016-156986,ZC-21910,2016,"United States","Office Supplies",10.37,0,3.63
+US-2016-123750,RB-19795,2016,"United States","Office Supplies",189.59,1,-145.35
+CA-2016-103947,BB-10990,2016,"United States","Office Supplies",31.56,0,9.86
+CA-2016-103947,BB-10990,2016,"United States","Office Supplies",30.14,0,3.01
+US-2016-123750,RB-19795,2016,"United States",Technology,408.74,0,76.64
+US-2016-123750,RB-19795,2016,"United States","Office Supplies",4.77,0,-0.77
+CA-2016-120180,TP-21130,2016,"United States","Office Supplies",11.63,0,1.02
+US-2016-100720,CK-12205,2016,"United States",Technology,143.98,0,-28.80
+US-2016-100720,CK-12205,2016,"United States",Technology,494.38,0,-115.35
+CA-2016-127369,DB-13060,2016,"United States","Office Supplies",714.30,0,207.15
+US-2016-100720,CK-12205,2016,"United States","Office Supplies",5.84,0,0.73
+CA-2016-160745,AR-10825,2016,"United States",Furniture,14.80,0,6.07
+CA-2016-160745,AR-10825,2016,"United States",Technology,302.38,0,22.68
+CA-2016-160745,AR-10825,2016,"United States",Technology,316.00,0,31.60
+CA-2016-132661,SR-20740,2016,"United States","Office Supplies",379.40,0,178.32
+CA-2016-147375,PO-19180,2016,"United States",Technology,1007.98,0,43.20
+CA-2016-147375,PO-19180,2016,"United States","Office Supplies",313.49,0,113.64
+CA-2016-161816,NB-18655,2016,"United States",Technology,369.58,0,41.58
+CA-2016-161816,NB-18655,2016,"United States","Office Supplies",15.71,0,5.70
+CA-2016-137239,CR-12730,2016,"United States","Office Supplies",113.55,0,8.52
+CA-2016-137239,CR-12730,2016,"United States","Office Supplies",3.32,1,-2.65
+CA-2016-121223,GD-14590,2016,"United States","Office Supplies",8.45,0,2.64
+CA-2016-137239,CR-12730,2016,"United States","Office Supplies",134.29,0,45.32
+CA-2016-121223,GD-14590,2016,"United States",Technology,728.95,0,-157.94
+US-2016-156097,EH-14125,2016,"United States",Furniture,701.37,0,-50.10
+US-2016-156097,EH-14125,2016,"United States","Office Supplies",2.31,1,-3.46
+CA-2016-123666,SP-20545,2016,"United States","Office Supplies",459.95,0,18.40
+CA-2016-143308,RC-19825,2016,"United States","Office Supplies",10.74,0,5.26
+CA-2016-164511,DJ-13630,2016,"United States","Office Supplies",14.35,0,4.66
+CA-2016-164511,DJ-13630,2016,"United States","Office Supplies",64.96,0,2.60
+CA-2016-112942,RD-19810,2016,"United States","Office Supplies",146.82,0,73.41
+CA-2016-164511,DJ-13630,2016,"United States","Office Supplies",68.60,0,18.52
+CA-2016-136406,BD-11320,2016,"United States",Furniture,1121.57,0,0.00
+CA-2016-142335,MP-17965,2016,"United States",Furniture,1652.94,0,231.41
+CA-2016-142335,MP-17965,2016,"United States","Office Supplies",296.37,0,80.02
+US-2016-135720,FM-14380,2016,"United States","Office Supplies",243.38,0,-51.72
+US-2016-135720,FM-14380,2016,"United States",Technology,119.80,0,29.95
+CA-2016-114713,SC-20695,2016,"United States","Office Supplies",45.58,0,5.13
+US-2016-135720,FM-14380,2016,"United States",Technology,300.77,0,30.08
+US-2016-123470,ME-17725,2016,"United States","Office Supplies",18.88,1,-13.85
+US-2016-123470,ME-17725,2016,"United States","Office Supplies",122.33,0,12.23
+CA-2016-115917,RB-19465,2016,"United States",Furniture,1049.20,0,272.79
+CA-2016-115917,RB-19465,2016,"United States","Office Supplies",15.42,0,5.01
+US-2016-150861,EG-13900,2016,"United States","Office Supplies",182.72,0,84.05
+CA-2016-113243,OT-18730,2016,"United States","Office Supplies",20.70,0,9.94
+US-2016-150861,EG-13900,2016,"United States",Furniture,400.03,0,-153.35
+US-2016-150861,EG-13900,2016,"United States","Office Supplies",33.63,0,10.09
+CA-2016-113243,OT-18730,2016,"United States",Furniture,1335.68,0,-217.05
+US-2016-150861,EG-13900,2016,"United States",Furniture,542.65,0,102.50
+CA-2016-113243,OT-18730,2016,"United States","Office Supplies",32.40,0,15.55
+US-2016-150861,EG-13900,2016,"United States","Office Supplies",6.30,0,3.02
+CA-2016-163755,AS-10285,2016,"United States",Furniture,209.88,0,35.68
+US-2016-146710,SS-20875,2016,"United States","Office Supplies",51.52,0,-10.95
+US-2016-146710,SS-20875,2016,"United States","Office Supplies",3.53,0,1.15
+US-2016-146710,SS-20875,2016,"United States","Office Supplies",4.62,0,1.68
+US-2016-146710,SS-20875,2016,"United States","Office Supplies",55.17,0,6.21
+CA-2016-161669,EM-14095,2016,"United States","Office Supplies",37.44,0,11.70
+CA-2016-161669,EM-14095,2016,"United States","Office Supplies",26.98,0,8.77
+CA-2016-161669,EM-14095,2016,"United States","Office Supplies",11.36,0,3.29
+CA-2016-150889,PB-19105,2016,"United States",Technology,11.99,0,0.90
+CA-2016-161669,EM-14095,2016,"United States","Office Supplies",14.62,0,6.87
+CA-2016-152534,DP-13105,2016,"United States","Office Supplies",5.16,0,1.34
+CA-2016-110499,YC-21895,2016,"United States",Technology,1199.98,0,374.99
+CA-2016-140928,NB-18655,2016,"United States",Furniture,383.44,0,-167.32
+CA-2016-165218,RW-19630,2016,"United States","Office Supplies",149.35,0,50.41
+CA-2016-165218,RW-19630,2016,"United States","Office Supplies",12.99,0,-0.81
+CA-2016-149797,AH-10075,2016,"United States","Office Supplies",841.57,0,294.55
+CA-2016-140081,CG-12040,2016,"United States","Office Supplies",45.06,0,15.21
+CA-2016-140081,CG-12040,2016,"United States","Office Supplies",29.72,1,-21.79
+CA-2016-140081,CG-12040,2016,"United States","Office Supplies",15.55,0,5.44
+CA-2016-140081,CG-12040,2016,"United States","Office Supplies",447.70,0,33.58
+CA-2016-105760,KC-16255,2016,"United States","Office Supplies",17.12,0,8.05
+CA-2016-142958,RW-19630,2016,"United States","Office Supplies",6.10,0,2.21
+CA-2016-142958,RW-19630,2016,"United States",Furniture,1114.27,0,41.79
+CA-2016-157245,LE-16810,2016,"United States",Furniture,641.96,0,179.75
+CA-2016-145499,RW-19690,2016,"United States","Office Supplies",3.28,1,-2.63
+CA-2016-144939,EB-13870,2016,"United States",Furniture,599.29,0,93.22
+CA-2016-110023,TS-21610,2016,"United States","Office Supplies",14.62,0,5.48
+CA-2016-105585,RF-19735,2016,"United States","Office Supplies",10.23,0,4.91
+CA-2016-105585,RF-19735,2016,"United States","Office Supplies",154.90,0,69.71
+CA-2016-152534,DP-13105,2016,"United States","Office Supplies",38.88,0,18.66
+CA-2016-113747,VD-21670,2016,"United States","Office Supplies",185.88,0,50.19
+CA-2016-123274,GT-14710,2016,"United States",Furniture,44.46,0,14.67
+CA-2016-123274,GT-14710,2016,"United States","Office Supplies",242.94,0,9.72
+CA-2016-155488,FM-14290,2016,"United States","Office Supplies",44.02,0,11.45
+CA-2016-120859,CV-12805,2016,"United States","Office Supplies",21.88,0,10.94
+CA-2016-134474,AJ-10795,2016,"United States",Technology,191.47,0,40.69
+CA-2016-134474,AJ-10795,2016,"United States","Office Supplies",5.25,0,0.59
+CA-2016-134474,AJ-10795,2016,"United States",Technology,59.18,0,5.18
+CA-2016-105256,JK-15730,2016,"United States",Technology,1363.96,0,85.25
+CA-2016-134362,LS-16945,2016,"United States","Office Supplies",15.94,0,5.18
+CA-2016-158099,PK-18910,2016,"United States","Office Supplies",1141.47,1,-760.98
+CA-2016-158099,PK-18910,2016,"United States",Technology,280.78,0,-46.80
+CA-2016-136133,HW-14935,2016,"United States","Office Supplies",355.32,0,99.49
+CA-2016-115504,MC-18130,2016,"United States","Office Supplies",12.96,0,6.22
+CA-2016-116736,CC-12430,2016,"United States",Furniture,322.59,0,64.52
+CA-2016-126529,DE-13255,2016,"United States","Office Supplies",15.55,0,5.44
+CA-2016-126529,DE-13255,2016,"United States","Office Supplies",63.31,0,20.58
+CA-2016-116736,CC-12430,2016,"United States",Technology,29.99,0,13.20
+CA-2016-126529,DE-13255,2016,"United States",Technology,15.59,0,-9.87
+CA-2016-116736,CC-12430,2016,"United States",Technology,371.97,0,66.95
+CA-2016-109820,AG-10390,2016,"United States","Office Supplies",15.70,0,5.10
+CA-2016-165148,PM-19135,2016,"United States",Furniture,31.40,0,10.05
+CA-2016-169103,ZC-21910,2016,"United States",Technology,1363.96,0,85.25
+CA-2016-109820,AG-10390,2016,"United States","Office Supplies",2.63,1,-1.93
+CA-2016-169103,ZC-21910,2016,"United States",Furniture,102.36,0,-3.84
+CA-2016-149370,DB-13210,2016,"United States","Office Supplies",5.34,0,1.87
+CA-2016-109820,AG-10390,2016,"United States","Office Supplies",14.43,1,-10.58
+CA-2016-113061,EL-13735,2016,"United States",Furniture,86.62,0,8.66
+CA-2016-127670,RD-19660,2016,"United States",Furniture,697.16,0,146.40
+CA-2016-102981,MO-17500,2016,"United States",Technology,31.86,0,11.15
+CA-2016-102981,MO-17500,2016,"United States",Furniture,722.35,0,90.29
+CA-2016-105494,PC-18745,2016,"United States","Office Supplies",155.82,0,42.07
+CA-2016-105494,PC-18745,2016,"United States","Office Supplies",70.01,0,24.50
+CA-2016-140634,HL-15040,2016,"United States","Office Supplies",15.65,0,5.09
+CA-2016-105284,MG-17650,2016,"United States","Office Supplies",4.42,0,1.60
+CA-2016-165316,JB-15400,2016,"United States","Office Supplies",35.22,0,2.64
+US-2016-110156,EH-13945,2016,"United States","Office Supplies",10.37,0,3.63
+CA-2016-165316,JB-15400,2016,"United States","Office Supplies",23.70,0,6.52
+US-2016-114622,JR-16210,2016,"United States","Office Supplies",8.90,1,-6.53
+CA-2016-165316,JB-15400,2016,"United States",Technology,265.48,1,-111.50
+US-2016-110156,EH-13945,2016,"United States","Office Supplies",1.19,1,-2.03
+US-2016-137547,EB-13705,2016,"United States",Technology,21.07,0,1.58
+CA-2016-130477,LC-17140,2016,"United States","Office Supplies",20.04,0,9.62
+CA-2016-144855,DL-13495,2016,"United States","Office Supplies",6.30,0,3.02
+CA-2016-130477,LC-17140,2016,"United States","Office Supplies",64.96,0,2.60
+CA-2016-157686,BD-11620,2016,"United States",Furniture,194.85,0,12.18
+CA-2016-130477,LC-17140,2016,"United States","Office Supplies",12.96,0,6.22
+CA-2016-152814,EH-14005,2016,"United States","Office Supplies",29.47,0,9.95
+CA-2016-113621,JE-15745,2016,"United States",Technology,179.97,0,44.99
+CA-2016-134348,MS-17710,2016,"United States","Office Supplies",6.27,1,-4.60
+CA-2016-168081,CA-12055,2016,"United States",Technology,258.70,0,64.67
+CA-2016-134348,MS-17710,2016,"United States","Office Supplies",4.37,1,-3.35
+CA-2016-134348,MS-17710,2016,"United States",Technology,31.98,0,2.00
+CA-2016-161781,CC-12100,2016,"United States","Office Supplies",40.88,0,10.63
+US-2016-143819,KD-16270,2016,"United States",Furniture,836.59,0,-264.92
+CA-2016-112102,BD-11605,2016,"United States",Furniture,343.92,0,75.66
+US-2016-143819,KD-16270,2016,"United States","Office Supplies",26.38,0,12.13
+CA-2016-112102,BD-11605,2016,"United States","Office Supplies",40.99,0,20.09
+US-2016-143819,KD-16270,2016,"United States","Office Supplies",362.92,0,105.25
+CA-2016-112102,BD-11605,2016,"United States","Office Supplies",63.90,0,28.76
+US-2016-143819,KD-16270,2016,"United States",Technology,4899.93,0,2400.97
+US-2016-114776,GG-14650,2016,"United States","Office Supplies",19.44,0,9.33
+CA-2016-167584,LC-16870,2016,"United States","Office Supplies",6.48,0,3.11
+CA-2016-166163,CY-12745,2016,"United States",Technology,71.98,0,7.20
+US-2016-134908,JS-15940,2016,"United States","Office Supplies",124.61,0,-23.36
+CA-2016-166163,CY-12745,2016,"United States","Office Supplies",3.15,0,1.51
+US-2016-134908,JS-15940,2016,"United States","Office Supplies",7.56,0,2.65
+US-2016-148803,LR-16915,2016,"United States","Office Supplies",85.22,0,7.46
+CA-2016-152170,FH-14275,2016,"United States","Office Supplies",287.52,0,129.38
+CA-2016-152170,FH-14275,2016,"United States","Office Supplies",37.68,0,10.55
+CA-2016-152170,FH-14275,2016,"United States","Office Supplies",19.98,0,8.99
+US-2016-168620,RB-19795,2016,"United States","Office Supplies",27.88,1,-20.45
+CA-2016-152170,FH-14275,2016,"United States","Office Supplies",20.58,0,5.56
+US-2016-168620,RB-19795,2016,"United States","Office Supplies",540.05,0,-47.25
+CA-2016-152170,FH-14275,2016,"United States","Office Supplies",17.38,0,8.69
+US-2016-168620,RB-19795,2016,"United States",Technology,255.68,0,76.70
+US-2016-144393,SM-20950,2016,"United States","Office Supplies",17.62,1,-14.09
+CA-2016-130946,ZC-21910,2016,"United States",Technology,431.93,0,64.79
+CA-2016-107216,PV-18985,2016,"United States","Office Supplies",7.04,0,2.04
+CA-2016-130946,ZC-21910,2016,"United States",Furniture,95.98,0,-4.11
+CA-2016-155992,CC-12220,2016,"United States",Technology,69.90,0,18.87
+CA-2016-130946,ZC-21910,2016,"United States","Office Supplies",1088.79,1,-1850.95
+CA-2016-155992,CC-12220,2016,"United States",Furniture,41.85,0,10.88
+CA-2016-107216,PV-18985,2016,"United States",Furniture,8.73,0,4.10
+CA-2016-114727,LS-16945,2016,"United States",Furniture,544.01,0,40.80
+CA-2016-107216,PV-18985,2016,"United States",Technology,29.29,0,9.67
+CA-2016-114727,LS-16945,2016,"United States","Office Supplies",1.87,1,-1.44
+CA-2016-107216,PV-18985,2016,"United States","Office Supplies",8.64,0,2.51
+CA-2016-114727,LS-16945,2016,"United States",Furniture,854.35,0,10.68
+CA-2016-114727,LS-16945,2016,"United States","Office Supplies",593.57,0,0.00
+CA-2016-114727,LS-16945,2016,"United States","Office Supplies",338.04,0,-33.80
+US-2016-103646,SP-20545,2016,"United States","Office Supplies",102.34,0,-12.79
+CA-2016-137050,SW-20755,2016,"United States","Office Supplies",11.21,0,3.36
+US-2016-103646,SP-20545,2016,"United States","Office Supplies",48.79,1,-126.86
+CA-2016-137050,SW-20755,2016,"United States","Office Supplies",9.14,0,3.20
+US-2016-103646,SP-20545,2016,"United States","Office Supplies",44.85,1,-67.27
+CA-2016-137050,SW-20755,2016,"United States","Office Supplies",14.07,0,6.89
+CA-2016-119186,MS-17710,2016,"United States","Office Supplies",10.37,0,3.63
+CA-2016-137050,SW-20755,2016,"United States","Office Supplies",41.86,0,10.47
+CA-2016-119186,MS-17710,2016,"United States",Furniture,388.43,0,-88.78
+CA-2016-137050,SW-20755,2016,"United States","Office Supplies",8.54,0,2.88
+CA-2016-137050,SW-20755,2016,"United States",Furniture,579.14,0,21.72
+CA-2016-119186,MS-17710,2016,"United States","Office Supplies",14.35,0,5.20
+CA-2017-160395,KL-16555,2016,"United States","Office Supplies",3.64,0,1.64
+CA-2016-112340,NM-18520,2016,"United States","Office Supplies",22.92,0,11.23
+CA-2016-119186,MS-17710,2016,"United States",Technology,63.99,0,-7.20
+CA-2017-160395,KL-16555,2016,"United States","Office Supplies",159.77,0,53.92
+CA-2016-148698,BD-11770,2016,"United States","Office Supplies",86.35,0,5.40
+US-2016-110156,EH-13945,2016,"United States","Office Supplies",100.70,0,-16.36
+US-2016-110156,EH-13945,2016,"United States",Furniture,2.33,1,-0.76
+US-2016-110156,EH-13945,2016,"United States","Office Supplies",10.78,1,-17.25
+US-2016-110156,EH-13945,2016,"United States","Office Supplies",58.37,0,21.89
+CA-2016-160815,TR-21325,2016,"United States",Technology,278.40,0,80.74
+US-2016-110156,EH-13945,2016,"United States","Office Supplies",40.97,0,13.83
+CA-2016-149314,GB-14530,2016,"United States",Furniture,195.18,0,19.52
+US-2016-110156,EH-13945,2016,"United States",Technology,71.96,0,25.19
+CA-2016-126004,BM-11140,2016,"United States",Furniture,113.79,0,20.48
+CA-2016-126004,BM-11140,2016,"United States",Technology,78.15,0,34.39
+CA-2016-145919,HG-14965,2016,"United States","Office Supplies",38.88,0,18.66
+CA-2016-126004,BM-11140,2016,"United States","Office Supplies",1.73,0,0.60
+CA-2016-145919,HG-14965,2016,"United States",Furniture,183.84,0,62.51
+CA-2016-126004,BM-11140,2016,"United States","Office Supplies",40.56,0,19.87
+CA-2016-145919,HG-14965,2016,"United States","Office Supplies",579.30,0,28.97
+CA-2016-119445,GM-14500,2016,"United States","Office Supplies",14.90,0,1.04
+CA-2016-126004,BM-11140,2016,"United States","Office Supplies",182.94,0,3.66
+CA-2016-126004,BM-11140,2016,"United States","Office Supplies",193.86,0,11.63
+CA-2016-154711,TB-21355,2016,"United States",Furniture,39.88,0,11.17
+CA-2016-154711,TB-21355,2016,"United States","Office Supplies",12.19,0,4.11
+CA-2016-154711,TB-21355,2016,"United States","Office Supplies",20.82,0,7.50
+CA-2016-163384,CC-12430,2016,"United States","Office Supplies",13.22,0,4.46
+CA-2016-163384,CC-12430,2016,"United States","Office Supplies",32.40,0,15.55
+CA-2016-153682,BG-11695,2016,"United States",Technology,839.99,0,70.00
+CA-2016-144344,PG-18820,2016,"United States",Furniture,47.95,0,13.79
+CA-2016-144344,PG-18820,2016,"United States","Office Supplies",37.43,1,-29.94
+CA-2016-161207,AB-10060,2016,"United States","Office Supplies",27.93,0,8.10
+CA-2016-134425,QJ-19255,2016,"United States",Technology,114.95,0,2.30
+CA-2016-144344,PG-18820,2016,"United States",Furniture,63.97,0,0.00
+CA-2016-144344,PG-18820,2016,"United States",Furniture,165.05,0,41.26
+CA-2016-113621,JE-15745,2016,"United States",Furniture,172.50,0,51.75
+CA-2016-128727,MO-17800,2016,"United States",Technology,22.00,0,5.50
+CA-2016-137043,LC-17140,2016,"United States",Furniture,572.76,0,166.10
+US-2016-162859,PG-18820,2016,"United States","Office Supplies",398.35,0,124.49
+US-2016-162859,PG-18820,2016,"United States","Office Supplies",8.72,0,3.58
+US-2016-100566,JK-16120,2016,"United States",Furniture,83.95,1,-90.25
+CA-2016-128258,CP-12085,2016,"United States","Office Supplies",11.34,0,5.56
+US-2016-108504,PP-18955,2016,"United States","Office Supplies",80.98,0,1.62
+US-2016-108504,PP-18955,2016,"United States","Office Supplies",348.84,0,170.93
+CA-2016-101966,BM-11785,2016,"United States",Technology,419.94,0,52.49
+CA-2016-142762,LD-17005,2016,"United States",Furniture,37.05,0,16.30
+CA-2016-141397,RC-19825,2016,"United States","Office Supplies",46.76,0,22.44
+CA-2016-141397,RC-19825,2016,"United States","Office Supplies",17.71,0,6.42
+CA-2016-141397,RC-19825,2016,"United States","Office Supplies",21.78,0,5.66
+CA-2016-141397,RC-19825,2016,"United States","Office Supplies",161.94,0,9.72
+CA-2016-133711,MC-17425,2016,"United States","Office Supplies",70.98,0,34.78
+CA-2016-141397,RC-19825,2016,"United States",Furniture,161.57,0,-8.08
+CA-2016-133711,MC-17425,2016,"United States","Office Supplies",91.68,0,45.84
+CA-2016-141082,FM-14380,2016,"United States","Office Supplies",3.69,0,1.73
+US-2016-108504,PP-18955,2016,"United States","Office Supplies",9.45,0,0.19
+CA-2016-133711,MC-17425,2016,"United States","Office Supplies",33.75,0,16.88
+CA-2016-141082,FM-14380,2016,"United States","Office Supplies",122.12,0,56.18
+US-2016-108504,PP-18955,2016,"United States",Furniture,18.84,0,7.16
+CA-2016-133711,MC-17425,2016,"United States",Technology,3040.00,0,1459.20
+CA-2016-122133,JR-15670,2016,"United States","Office Supplies",552.56,0,0.00
+US-2016-108504,PP-18955,2016,"United States",Furniture,239.98,0,52.80
+US-2016-134488,PK-19075,2016,"United States",Furniture,155.37,0,-13.32
+US-2016-108504,PP-18955,2016,"United States","Office Supplies",167.96,0,78.94
+US-2016-108504,PP-18955,2016,"United States",Technology,104.85,0,28.31
+US-2016-108504,PP-18955,2016,"United States",Technology,484.83,0,126.06
+US-2016-108504,PP-18955,2016,"United States","Office Supplies",122.97,0,60.26
+US-2016-108504,PP-18955,2016,"United States","Office Supplies",154.44,0,1.54
+US-2016-108504,PP-18955,2016,"United States","Office Supplies",342.37,0,160.91
+CA-2016-123722,NH-18610,2016,"United States","Office Supplies",15.94,0,5.18
+CA-2016-124485,NC-18340,2016,"United States","Office Supplies",17.22,0,6.03
+US-2016-128902,MB-18085,2016,"United States",Furniture,244.01,0,-31.37
+CA-2016-124485,NC-18340,2016,"United States","Office Supplies",11.56,0,5.66
+CA-2016-152289,LC-16930,2016,"United States",Technology,159.98,0,44.00
+CA-2016-124485,NC-18340,2016,"United States",Technology,88.40,0,11.49
+CA-2016-152289,LC-16930,2016,"United States",Furniture,1024.72,0,-29.28
+CA-2016-124485,NC-18340,2016,"United States","Office Supplies",6.48,0,3.11
+CA-2016-159212,KM-16375,2016,"United States",Technology,21.80,0,6.10
+CA-2016-122392,CJ-12010,2016,"United States","Office Supplies",4.16,0,0.36
+CA-2016-162901,AS-10045,2016,"United States","Office Supplies",31.40,0,7.85
+CA-2016-122392,CJ-12010,2016,"United States",Furniture,11.65,0,3.35
+US-2016-104794,KD-16495,2016,"United States","Office Supplies",3.68,0,1.80
+CA-2016-139885,EB-13840,2016,"United States","Office Supplies",212.88,0,0.00
+CA-2016-159212,KM-16375,2016,"United States","Office Supplies",251.79,0,118.34
+US-2016-161396,GM-14455,2016,"United States",Furniture,205.18,0,-58.13
+US-2016-161396,GM-14455,2016,"United States","Office Supplies",419.40,0,146.79
+CA-2016-112389,JM-15655,2016,"United States","Office Supplies",40.74,0,0.41
+CA-2016-145247,ND-18370,2016,"United States","Office Supplies",79.14,0,36.40
+CA-2016-112389,JM-15655,2016,"United States","Office Supplies",11.67,0,3.03
+CA-2016-130407,KD-16270,2016,"United States","Office Supplies",75.48,0,19.62
+CA-2016-130407,KD-16270,2016,"United States",Furniture,39.98,0,10.00
+US-2016-122245,AB-10105,2016,"United States",Furniture,393.17,1,-204.45
+CA-2016-113138,NP-18685,2016,"United States","Office Supplies",17.28,0,5.01
+CA-2016-113138,NP-18685,2016,"United States","Office Supplies",17.71,0,6.42
+CA-2016-136329,JD-15895,2016,"United States",Furniture,408.01,0,72.53
+CA-2016-136329,JD-15895,2016,"United States",Furniture,165.28,0,14.88
+CA-2016-121958,CS-12505,2016,"United States","Office Supplies",52.14,0,5.87
+US-2016-108455,MK-18160,2016,"United States","Office Supplies",25.92,0,12.44
+US-2016-108455,MK-18160,2016,"United States","Office Supplies",40.46,0,19.83
+US-2016-108455,MK-18160,2016,"United States","Office Supplies",33.87,0,8.81
+CA-2016-159345,IG-15085,2016,"United States","Office Supplies",111.96,0,54.86
+US-2016-108098,CP-12340,2016,"United States",Technology,177.00,0,30.09
+CA-2016-109176,JW-16075,2016,"United States","Office Supplies",9.34,0,3.50
+CA-2016-109176,JW-16075,2016,"United States","Office Supplies",79.36,0,9.92
+CA-2016-126809,EB-13750,2016,"United States","Office Supplies",35.35,0,12.82
+CA-2016-141586,NK-18490,2016,"United States","Office Supplies",18.16,0,6.58
+CA-2016-100468,AT-10435,2016,"United States",Technology,33.52,0,3.35
+US-2016-153129,FP-14320,2016,"United States","Office Supplies",33.90,0,15.59
+CA-2016-100468,AT-10435,2016,"United States",Furniture,9.94,0,3.08
+CA-2016-109911,VG-21805,2016,"United States","Office Supplies",10.96,0,2.96
+CA-2016-134208,CS-12505,2016,"United States",Technology,396.00,0,190.08
+US-2016-132423,MY-18295,2016,"United States","Office Supplies",33.49,0,5.86
+US-2016-132423,MY-18295,2016,"United States","Office Supplies",8.04,0,2.91
+CA-2016-133725,KL-16645,2016,"United States",Technology,1979.93,0,148.49
+CA-2016-109057,TT-21460,2016,"United States","Office Supplies",23.95,0,2.40
+CA-2016-164672,GB-14530,2016,"United States",Furniture,211.96,0,42.39
+CA-2016-154403,AP-10720,2016,"United States","Office Supplies",4.98,0,2.44
+CA-2016-102456,DL-12865,2016,"United States","Office Supplies",170.88,0,49.56
+US-2016-132857,CA-12775,2016,"United States","Office Supplies",6.67,0,1.67
+US-2016-115819,JO-15280,2016,"United States",Technology,39.96,0,12.99
+US-2016-115819,JO-15280,2016,"United States","Office Supplies",5.46,0,1.53
+CA-2016-169943,BN-11515,2016,"United States",Furniture,39.76,0,12.33
+US-2016-115819,JO-15280,2016,"United States","Office Supplies",73.20,0,21.23
+US-2016-115819,JO-15280,2016,"United States","Office Supplies",5.84,0,1.97
+CA-2016-169943,BN-11515,2016,"United States","Office Supplies",47.74,0,14.92
+US-2016-115819,JO-15280,2016,"United States","Office Supplies",22.72,0,10.22
+US-2016-115819,JO-15280,2016,"United States","Office Supplies",9.34,0,3.27
+CA-2016-106894,CA-12265,2016,"United States",Technology,100.00,0,21.00
+CA-2016-128531,NS-18505,2016,"United States","Office Supplies",41.92,0,3.67
+CA-2016-106894,CA-12265,2016,"United States","Office Supplies",7.83,0,3.60
+CA-2016-128531,NS-18505,2016,"United States",Technology,297.58,0,-7.44
+CA-2016-128531,NS-18505,2016,"United States","Office Supplies",4.34,0,0.87
+US-2016-113509,PL-18925,2016,"United States",Technology,83.98,0,-13.65
+US-2016-131149,LH-17155,2016,"United States","Office Supplies",338.04,0,-33.80
+US-2016-131149,LH-17155,2016,"United States","Office Supplies",154.24,0,17.35
+CA-2016-140774,BE-11455,2016,"United States","Office Supplies",107.94,0,26.99
+US-2016-118780,PN-18775,2016,"United States","Office Supplies",59.48,0,8.92
+US-2016-118780,PN-18775,2016,"United States","Office Supplies",6.69,0,3.08
+CA-2016-100965,RM-19375,2016,"United States",Furniture,215.65,0,73.32
+CA-2016-121034,JF-15565,2016,"United States","Office Supplies",11.17,0,3.63
+CA-2016-106530,CL-12565,2016,"United States","Office Supplies",1006.06,0,88.03
+CA-2016-106530,CL-12565,2016,"United States","Office Supplies",10.69,0,3.74
+CA-2016-106530,CL-12565,2016,"United States","Office Supplies",10.37,0,3.63
+CA-2016-106530,CL-12565,2016,"United States","Office Supplies",25.12,0,1.57
+CA-2016-106530,CL-12565,2016,"United States",Technology,58.11,0,7.26
+CA-2016-121034,JF-15565,2016,"United States","Office Supplies",53.95,0,17.53
+CA-2016-128531,NS-18505,2016,"United States",Technology,94.99,0,-2.37
+CA-2016-128531,NS-18505,2016,"United States","Office Supplies",74.35,0,23.24
+CA-2016-128531,NS-18505,2016,"United States","Office Supplies",14.04,0,1.58
+CA-2016-107615,RB-19645,2016,"United States",Technology,58.58,0,19.33
+CA-2016-122728,EB-13930,2016,"United States","Office Supplies",104.28,0,26.07
+CA-2016-122728,EB-13930,2016,"United States","Office Supplies",17.94,0,8.79
+US-2016-101497,PS-18760,2016,"United States","Office Supplies",18.97,0,9.11
+CA-2016-147585,CB-12535,2016,"United States",Furniture,14.82,0,6.22
+CA-2016-157266,TB-21280,2016,"United States","Office Supplies",19.44,0,9.33
+CA-2016-157266,TB-21280,2016,"United States","Office Supplies",9.64,0,4.43
+CA-2016-157266,TB-21280,2016,"United States","Office Supplies",12.70,0,5.84
+US-2016-154361,HZ-14950,2016,"United States",Furniture,21.88,0,6.29
+CA-2016-155670,EM-14065,2016,"United States","Office Supplies",11.23,1,-8.24
+CA-2016-157266,TB-21280,2016,"United States",Furniture,41.37,0,17.38
+CA-2016-155670,EM-14065,2016,"United States","Office Supplies",10.27,0,3.21
+US-2016-158708,AB-10255,2016,"United States",Technology,13.62,0,3.57
+CA-2016-149461,AS-10135,2016,"United States",Furniture,4.18,0,1.50
+CA-2016-106306,PG-18820,2016,"United States","Office Supplies",9.70,1,-7.11
+US-2016-116729,GK-14620,2016,"United States",Technology,2575.94,0,257.59
+US-2016-116729,GK-14620,2016,"United States","Office Supplies",45.36,0,21.77
+CA-2016-110254,ML-17755,2016,"United States","Office Supplies",35.06,0,10.52
+US-2016-116729,GK-14620,2016,"United States",Technology,254.24,0,76.27
+CA-2016-110254,ML-17755,2016,"United States","Office Supplies",4.13,0,1.90
+CA-2016-164938,PB-19210,2016,"United States",Technology,69.93,0,0.70
+CA-2016-110254,ML-17755,2016,"United States",Furniture,109.80,0,46.12
+CA-2016-165484,HK-14890,2016,"United States",Furniture,16.16,1,-12.12
+CA-2016-110254,ML-17755,2016,"United States","Office Supplies",9.82,0,4.81
+CA-2016-165484,HK-14890,2016,"United States","Office Supplies",54.82,0,17.82
+CA-2016-129686,GG-14650,2016,"United States","Office Supplies",97.98,0,-24.50
+CA-2016-129686,GG-14650,2016,"United States",Technology,62.40,0,19.50
+CA-2016-154788,JL-15835,2016,"United States","Office Supplies",7.71,0,2.80
+CA-2016-169943,BN-11515,2016,"United States","Office Supplies",242.90,0,70.44
+CA-2016-169943,BN-11515,2016,"United States","Office Supplies",454.90,0,0.00
+CA-2016-169943,BN-11515,2016,"United States",Furniture,35.92,0,15.09
+CA-2016-124667,BD-11770,2016,"United States",Technology,59.97,0,14.99
+CA-2016-124667,BD-11770,2016,"United States","Office Supplies",83.36,0,20.84
+US-2016-100839,NC-18625,2016,"United States",Furniture,727.45,1,-465.57
+US-2016-100839,NC-18625,2016,"United States",Furniture,24.96,0,4.37
+CA-2016-156685,SC-20230,2016,"United States",Technology,863.64,0,107.96
+CA-2016-156685,SC-20230,2016,"United States","Office Supplies",47.62,0,3.57
+CA-2016-168956,EA-14035,2016,"United States","Office Supplies",92.06,1,-225.56
+CA-2016-168956,EA-14035,2016,"United States","Office Supplies",6.98,0,1.83
+CA-2016-168956,EA-14035,2016,"United States",Furniture,62.96,0,-2.70
+US-2016-139710,GM-14680,2016,"United States",Technology,177.48,0,19.97
+CA-2016-168956,EA-14035,2016,"United States","Office Supplies",5.18,0,1.81
+CA-2016-167507,SA-20830,2016,"United States","Office Supplies",31.32,1,-25.06
+CA-2016-167507,SA-20830,2016,"United States",Furniture,11.84,0,3.11
+CA-2016-167507,SA-20830,2016,"United States",Furniture,22.78,0,4.84
+CA-2016-152121,CC-12670,2016,"United States",Technology,271.99,0,23.80
+CA-2016-109344,CH-12070,2016,"United States",Technology,1127.98,0,126.90
+CA-2016-112109,JE-15715,2016,"United States","Office Supplies",19.97,1,-13.31
+CA-2016-112109,JE-15715,2016,"United States","Office Supplies",33.49,0,-1.26
+CA-2016-112109,JE-15715,2016,"United States","Office Supplies",8.74,1,-6.12
+CA-2016-148201,CC-12145,2016,"United States","Office Supplies",6.48,0,3.11
+CA-2016-112109,JE-15715,2016,"United States",Furniture,662.88,0,74.57
+CA-2016-108581,EA-14035,2016,"United States",Technology,95.97,0,26.39
+CA-2016-108581,EA-14035,2016,"United States","Office Supplies",10.37,0,3.63
+CA-2016-157763,KH-16330,2016,"United States",Furniture,140.81,0,39.43
+US-2016-112977,CJ-12010,2016,"United States",Furniture,176.78,0,-22.10
+CA-2016-118570,CC-12430,2016,"United States","Office Supplies",217.06,0,78.68
+CA-2016-147578,PG-18895,2016,"United States",Furniture,31.56,0,10.41
+CA-2016-100083,CD-11980,2016,"United States","Office Supplies",24.78,0,7.75
+CA-2016-140543,Co-12640,2016,"United States","Office Supplies",191.88,0,19.19
+CA-2016-151141,DW-13480,2016,"United States",Technology,14.78,0,3.99
+CA-2016-145905,AM-10705,2016,"United States",Furniture,350.98,0,84.24
+CA-2016-145905,AM-10705,2016,"United States","Office Supplies",13.08,0,6.02
+CA-2016-145905,AM-10705,2016,"United States","Office Supplies",900.08,0,117.01
+US-2016-150567,RP-19855,2016,"United States","Office Supplies",2.95,1,-2.16
+US-2016-150567,RP-19855,2016,"United States","Office Supplies",27.02,1,-21.61
+CA-2016-168354,RH-19510,2016,"United States","Office Supplies",1606.23,0,481.87
+CA-2016-105963,SC-20770,2016,"United States",Technology,99.39,0,40.75
+CA-2016-168354,RH-19510,2016,"United States","Office Supplies",17.04,0,7.67
+CA-2016-168354,RH-19510,2016,"United States","Office Supplies",49.53,0,23.77
+CA-2016-168354,RH-19510,2016,"United States",Furniture,872.32,0,244.25
+CA-2016-112669,KT-16465,2016,"United States",Furniture,933.54,0,105.02
+CA-2016-113516,VM-21685,2016,"United States","Office Supplies",33.02,0,11.56
+CA-2016-112669,KT-16465,2016,"United States","Office Supplies",42.98,0,4.30
+CA-2016-113516,VM-21685,2016,"United States","Office Supplies",67.14,0,23.50
+CA-2016-146521,CC-12610,2016,"United States","Office Supplies",1.94,1,-1.29
+CA-2016-147417,CB-12415,2016,"United States",Technology,1439.98,0,192.00
+CA-2016-129693,TC-20980,2016,"United States","Office Supplies",7.31,0,2.56
+CA-2016-118913,AS-10240,2016,"United States","Office Supplies",60.81,0,17.03
+CA-2016-128412,AP-10915,2016,"United States","Office Supplies",153.55,0,51.82
+CA-2016-128412,AP-10915,2016,"United States","Office Supplies",65.34,0,22.87
+CA-2016-128923,GB-14530,2016,"United States","Office Supplies",9.39,0,3.29
+CA-2016-128412,AP-10915,2016,"United States","Office Supplies",123.92,0,55.76
+CA-2016-128923,GB-14530,2016,"United States","Office Supplies",9.33,0,0.82
+CA-2016-128412,AP-10915,2016,"United States","Office Supplies",35.10,0,12.29
+CA-2016-128412,AP-10915,2016,"United States",Technology,44.75,0,8.50
+CA-2016-136483,AG-10390,2016,"United States","Office Supplies",4.70,0,0.41
+CA-2016-140501,IM-15070,2016,"United States","Office Supplies",122.12,0,56.18
+CA-2016-140501,IM-15070,2016,"United States","Office Supplies",18.45,0,8.67
+CA-2016-140501,IM-15070,2016,"United States","Office Supplies",324.90,0,38.99
+CA-2016-140501,IM-15070,2016,"United States","Office Supplies",146.73,0,68.96
+CA-2016-155481,DK-13225,2016,"United States","Office Supplies",30.48,0,9.91
+CA-2016-155481,DK-13225,2016,"United States",Technology,23.99,0,-4.80
+CA-2016-164350,CG-12040,2016,"United States","Office Supplies",67.56,0,8.45
+CA-2016-140501,IM-15070,2016,"United States","Office Supplies",3.96,0,1.47
+CA-2016-131835,MC-17590,2016,"United States","Office Supplies",162.64,0,45.54
+CA-2016-155481,DK-13225,2016,"United States","Office Supplies",16.69,0,5.42
+US-2016-152051,TS-21160,2016,"United States",Furniture,422.06,0,-18.09
+US-2016-152051,TS-21160,2016,"United States","Office Supplies",38.09,1,-27.93
+US-2016-152051,TS-21160,2016,"United States","Office Supplies",254.35,0,-50.87
+CA-2016-131835,MC-17590,2016,"United States",Technology,597.00,0,280.59
+CA-2016-131835,MC-17590,2016,"United States","Office Supplies",55.48,0,26.63
+US-2016-146570,SN-20710,2016,"United States","Office Supplies",511.84,0,240.56
+US-2016-146570,SN-20710,2016,"United States","Office Supplies",91.96,0,25.75
+US-2016-146570,SN-20710,2016,"United States","Office Supplies",8.34,0,2.17
+CA-2016-162313,VB-21745,2016,"United States","Office Supplies",167.29,0,29.74
+CA-2016-117282,DR-12880,2016,"United States","Office Supplies",14.16,0,5.13
+US-2016-120460,BF-11170,2016,"United States",Furniture,22.61,1,-10.17
+CA-2016-111115,LB-16735,2016,"United States","Office Supplies",21.48,0,10.74
+CA-2016-136434,RD-19480,2016,"United States",Furniture,17.31,0,5.19
+CA-2016-159737,CS-11950,2016,"United States","Office Supplies",8.81,1,-14.97
+CA-2016-164091,LA-16780,2016,"United States",Furniture,109.48,0,33.94
+CA-2016-141019,LH-17155,2016,"United States",Furniture,79.38,0,29.77
+CA-2016-106383,BT-11440,2016,"United States",Furniture,72.29,1,-98.80
+CA-2016-101938,DW-13480,2016,"United States","Office Supplies",34.58,0,10.03
+CA-2016-131065,AA-10375,2016,"United States",Technology,499.98,0,115.00
+CA-2016-131065,AA-10375,2016,"United States","Office Supplies",5.28,0,2.38
+CA-2016-139157,GM-14680,2016,"United States",Furniture,330.59,0,-115.71
+CA-2016-154018,HA-14920,2016,"United States",Technology,191.98,0,24.00
+CA-2016-154018,HA-14920,2016,"United States","Office Supplies",8.29,0,3.00
+CA-2016-130267,SW-20245,2016,"United States","Office Supplies",159.88,0,73.54
+CA-2016-131065,AA-10375,2016,"United States","Office Supplies",8.26,0,3.88
+CA-2016-154018,HA-14920,2016,"United States",Furniture,139.92,1,-150.41
+CA-2016-154018,HA-14920,2016,"United States","Office Supplies",15.87,0,1.19
+CA-2016-154018,HA-14920,2016,"United States","Office Supplies",6.29,1,-11.00
+CA-2016-122322,RH-19510,2016,"United States","Office Supplies",44.40,0,12.43
+CA-2016-146633,TG-21310,2016,"United States","Office Supplies",1016.79,0,381.30
+CA-2016-146633,TG-21310,2016,"United States","Office Supplies",38.14,0,13.35
+US-2016-126893,CT-11995,2016,"United States",Technology,494.98,0,-115.50
+CA-2016-112025,LS-16975,2016,"United States","Office Supplies",9.26,1,-13.90
+CA-2016-125738,PB-18805,2016,"United States","Office Supplies",45.68,0,21.01
+CA-2016-125738,PB-18805,2016,"United States","Office Supplies",60.12,0,28.86
+CA-2016-155187,LA-16780,2016,"United States","Office Supplies",41.96,0,2.94
+CA-2016-125738,PB-18805,2016,"United States","Office Supplies",41.72,0,13.04
+CA-2016-155187,LA-16780,2016,"United States","Office Supplies",41.70,0,20.85
+CA-2016-125738,PB-18805,2016,"United States","Office Supplies",71.60,0,32.94
+CA-2016-128818,CJ-12010,2016,"United States","Office Supplies",85.23,0,30.90
+CA-2016-132143,FM-14215,2016,"United States","Office Supplies",48.16,0,22.15
+CA-2016-112676,PJ-18835,2016,"United States","Office Supplies",14.35,0,5.20
+CA-2016-117849,JK-16120,2016,"United States","Office Supplies",143.70,0,68.98
+CA-2016-128818,CJ-12010,2016,"United States","Office Supplies",44.40,0,22.20
+CA-2016-128818,CJ-12010,2016,"United States",Furniture,442.76,0,59.04
+CA-2016-164091,LA-16780,2016,"United States",Technology,437.85,0,131.36
+CA-2016-128818,CJ-12010,2016,"United States",Technology,3999.95,0,1159.99
+CA-2016-128818,CJ-12010,2016,"United States",Technology,199.95,0,21.99
+CA-2016-128818,CJ-12010,2016,"United States",Furniture,63.68,0,28.02
+CA-2016-137736,DC-13285,2016,"United States","Office Supplies",41.86,0,10.47
+CA-2016-101378,RH-19600,2016,"United States",Technology,29.00,0,7.25
+CA-2016-119025,PV-18985,2016,"United States","Office Supplies",490.32,0,137.29
+CA-2016-159373,LT-17110,2016,"United States","Office Supplies",70.08,0,24.53
+CA-2016-159373,LT-17110,2016,"United States","Office Supplies",1.27,1,-2.16
+CA-2016-159373,LT-17110,2016,"United States",Furniture,557.59,0,0.00
+CA-2016-128111,CS-12355,2016,"United States","Office Supplies",39.68,0,10.32
+US-2016-108637,AB-10060,2016,"United States",Furniture,127.88,0,40.92
+CA-2016-106558,DL-13495,2016,"United States",Technology,316.00,0,31.60
+US-2016-135923,CM-11935,2016,"United States",Furniture,14.27,0,4.28
+US-2016-108637,AB-10060,2016,"United States","Office Supplies",160.32,0,44.89
+US-2016-135923,CM-11935,2016,"United States",Furniture,451.14,0,-67.67
+US-2016-108637,AB-10060,2016,"United States","Office Supplies",46.00,0,20.70
+US-2016-135923,CM-11935,2016,"United States","Office Supplies",64.86,0,6.49
+CA-2016-115574,BP-11185,2016,"United States",Furniture,141.37,0,-14.14
+CA-2016-114972,PF-19225,2016,"United States",Furniture,217.58,0,-29.92
+CA-2016-114972,PF-19225,2016,"United States",Technology,82.95,0,29.03
+US-2016-110170,HM-14860,2016,"United States",Furniture,956.66,0,-225.10
+CA-2016-114972,PF-19225,2016,"United States","Office Supplies",87.71,0,41.22
+CA-2016-114972,PF-19225,2016,"United States","Office Supplies",1101.48,0,429.58
+US-2016-129469,KL-16555,2016,"United States",Furniture,532.70,0,-26.64
+US-2016-129469,KL-16555,2016,"United States","Office Supplies",4.91,0,0.31
+CA-2016-159940,BF-11020,2016,"United States",Furniture,60.29,1,-27.13
+CA-2016-159940,BF-11020,2016,"United States","Office Supplies",2.63,0,0.82
+CA-2016-159940,BF-11020,2016,"United States","Office Supplies",23.69,0,7.70
+CA-2016-159940,BF-11020,2016,"United States",Furniture,253.37,0,-14.48
+CA-2016-118052,BE-11455,2016,"United States","Office Supplies",7.22,0,1.71
+CA-2016-118052,BE-11455,2016,"United States","Office Supplies",49.57,0,15.49
+CA-2016-118052,BE-11455,2016,"United States",Furniture,54.71,0,11.63
+CA-2016-146206,KT-16480,2016,"United States",Furniture,300.93,0,-34.39
+CA-2016-146206,KT-16480,2016,"United States",Technology,719.96,0,54.00
+CA-2016-126935,BT-11395,2016,"United States","Office Supplies",9.58,0,3.35
+US-2016-115455,SE-20110,2016,"United States",Furniture,601.47,1,-300.74
+CA-2016-149482,RR-19315,2016,"United States","Office Supplies",7.38,0,3.47
+CA-2016-165848,EN-13780,2016,"United States","Office Supplies",14.94,0,7.02
+CA-2016-165848,EN-13780,2016,"United States",Technology,1349.85,0,364.46
+CA-2016-165848,EN-13780,2016,"United States",Furniture,136.78,0,5.13
+CA-2016-136812,AW-10930,2016,"United States","Office Supplies",1117.92,0,55.90
+CA-2016-165848,EN-13780,2016,"United States",Furniture,61.12,0,20.78
+CA-2016-154053,MG-17890,2016,"United States","Office Supplies",16.99,0,4.93
+CA-2016-144792,KD-16615,2016,"United States",Furniture,111.89,0,22.38
+CA-2016-124506,BB-11545,2016,"United States",Technology,95.97,0,1.20
+US-2016-114174,AP-10720,2016,"United States",Furniture,173.94,0,13.92
+US-2016-114174,AP-10720,2016,"United States","Office Supplies",14.76,0,6.94
+CA-2016-137204,BO-11350,2016,"United States",Furniture,41.57,0,2.60
+CA-2016-156300,TB-21595,2016,"United States",Furniture,754.45,0,60.36
+CA-2016-107202,LC-16930,2016,"United States",Technology,2396.40,0,179.73
+CA-2016-155551,CR-12580,2016,"United States","Office Supplies",230.38,0,-48.95
+CA-2016-155551,CR-12580,2016,"United States","Office Supplies",9.66,0,3.26
+CA-2016-169922,MZ-17515,2016,"United States","Office Supplies",1.34,1,-2.15
+CA-2016-169922,MZ-17515,2016,"United States","Office Supplies",8.27,1,-13.65
+CA-2016-169922,MZ-17515,2016,"United States",Furniture,12.54,1,-9.09
+CA-2016-146934,AF-10870,2016,"United States",Technology,345.00,0,86.25
+CA-2016-146934,AF-10870,2016,"United States",Furniture,174.29,0,-19.92
+CA-2016-146934,AF-10870,2016,"United States","Office Supplies",662.84,0,172.34
+CA-2016-146934,AF-10870,2016,"United States",Technology,95.10,0,30.43
+CA-2016-146934,AF-10870,2016,"United States","Office Supplies",26.88,0,12.90
+CA-2016-146934,AF-10870,2016,"United States",Technology,257.98,0,74.81
+CA-2016-119165,BD-11320,2016,"United States",Furniture,492.84,0,-14.08
+CA-2016-140207,CS-12400,2016,"United States","Office Supplies",29.12,0,9.83
+CA-2016-124506,BB-11545,2016,"United States",Furniture,47.99,0,-2.06
+CA-2016-124352,CD-12790,2016,"United States","Office Supplies",20.16,0,9.88
+CA-2016-124352,CD-12790,2016,"United States","Office Supplies",29.46,0,14.44
+CA-2016-124352,CD-12790,2016,"United States","Office Supplies",868.59,0,251.89
+CA-2016-150343,PK-19075,2016,"United States","Office Supplies",10.86,0,5.10
+CA-2016-164784,HF-14995,2016,"United States","Office Supplies",3.98,0,1.29
+CA-2016-164784,HF-14995,2016,"United States",Furniture,370.62,0,-142.07
+CA-2016-164784,HF-14995,2016,"United States","Office Supplies",2.74,1,-2.01
+CA-2016-124352,CD-12790,2016,"United States","Office Supplies",12.96,0,6.22
+CA-2016-124352,CD-12790,2016,"United States",Technology,5.50,0,1.38
+CA-2016-124352,CD-12790,2016,"United States","Office Supplies",121.60,0,55.94
+CA-2016-155439,PN-18775,2016,"United States","Office Supplies",25.92,0,12.44
+CA-2016-118626,JC-15775,2016,"United States",Technology,705.54,0,70.55
+CA-2016-111794,HG-15025,2016,"United States",Technology,79.51,0,20.87
+US-2016-126844,BW-11110,2016,"United States",Furniture,51.71,1,-32.32
+CA-2016-111794,HG-15025,2016,"United States","Office Supplies",28.35,0,9.57
+CA-2016-133123,KB-16315,2016,"United States","Office Supplies",95.95,0,29.99
+CA-2016-133123,KB-16315,2016,"United States","Office Supplies",3.20,1,-2.46
+US-2016-128195,RA-19285,2016,"United States","Office Supplies",3.98,1,-6.57
+CA-2016-124051,KA-16525,2016,"United States","Office Supplies",186.05,0,67.44
+CA-2016-149111,BF-11170,2016,"United States",Technology,36.79,0,4.14
+CA-2016-165015,BD-11725,2016,"United States","Office Supplies",46.72,0,17.52
+CA-2016-155845,CM-12235,2016,"United States",Technology,1399.94,0,52.50
+CA-2016-149111,BF-11170,2016,"United States",Furniture,18.62,0,6.29
+US-2016-144211,CS-12130,2016,"United States","Office Supplies",15.48,0,5.61
+US-2016-144211,CS-12130,2016,"United States",Technology,108.58,0,8.14
+CA-2016-138079,AJ-10795,2016,"United States",Furniture,109.90,0,37.37
+CA-2016-161662,BE-11410,2016,"United States","Office Supplies",30.35,0,10.62
+US-2016-146794,SH-19975,2016,"United States",Furniture,424.96,0,20.00
+CA-2016-127775,ES-14020,2016,"United States",Technology,239.97,0,71.99
+CA-2016-146171,JP-16135,2016,"United States",Furniture,76.92,0,31.54
+CA-2016-146171,JP-16135,2016,"United States","Office Supplies",481.32,0,125.14
+CA-2016-137729,BF-11005,2016,"United States","Office Supplies",5.98,0,1.02
+CA-2016-137729,BF-11005,2016,"United States",Technology,246.17,0,21.54
+US-2016-115455,SE-20110,2016,"United States",Furniture,14.14,1,-7.77
+CA-2016-153318,JS-15595,2016,"United States",Technology,783.96,0,78.40
+CA-2016-115588,AF-10885,2016,"United States","Office Supplies",14.72,0,-3.31
+CA-2016-163986,JJ-15445,2016,"United States","Office Supplies",54.50,0,14.17
+CA-2016-115588,AF-10885,2016,"United States","Office Supplies",38.98,0,-2.44
+CA-2016-131576,RD-19585,2016,"United States","Office Supplies",49.44,0,24.23
+CA-2016-144729,JE-15745,2016,"United States","Office Supplies",154.44,0,1.54
+CA-2016-164735,TB-21400,2016,"United States","Office Supplies",81.20,0,12.18
+US-2016-167339,TD-20995,2016,"United States",Furniture,153.57,0,-5.76
+US-2016-167339,TD-20995,2016,"United States",Furniture,1013.49,0,76.01
+CA-2016-152072,Dp-13240,2016,"United States","Office Supplies",52.34,0,24.60
+CA-2016-152072,Dp-13240,2016,"United States","Office Supplies",4.66,0,1.35
+CA-2016-152072,Dp-13240,2016,"United States",Technology,254.97,0,91.79
+CA-2016-102932,SD-20485,2016,"United States","Office Supplies",25.44,0,12.72
+CA-2016-139878,LD-17005,2016,"United States",Technology,257.98,0,74.81
+CA-2016-102932,SD-20485,2016,"United States","Office Supplies",27.93,0,8.10
+US-2016-106677,AS-10285,2016,"United States",Technology,23.99,0,-15.99
+CA-2016-116974,MP-17965,2016,"United States",Technology,23.98,0,-15.58
+CA-2016-160500,DM-13015,2016,"United States","Office Supplies",6.72,0,2.35
+CA-2016-130799,BK-11260,2016,"United States",Furniture,6.96,0,2.23
+CA-2016-160500,DM-13015,2016,"United States",Furniture,298.78,0,7.47
+CA-2016-164483,JF-15490,2016,"United States","Office Supplies",17.46,0,5.89
+CA-2017-100202,BD-11620,2016,"United States",Technology,302.38,0,22.68
+US-2016-159856,EP-13915,2016,"United States",Furniture,307.92,0,-34.64
+US-2016-169040,GT-14710,2016,"United States",Technology,156.79,0,13.72
+US-2016-169040,GT-14710,2016,"United States",Technology,431.98,0,27.00
+US-2016-169040,GT-14710,2016,"United States","Office Supplies",35.89,0,16.15
+US-2016-169040,GT-14710,2016,"United States","Office Supplies",47.21,0,15.34
+US-2016-169040,GT-14710,2016,"United States","Office Supplies",248.08,0,116.60
+US-2016-169040,GT-14710,2016,"United States","Office Supplies",189.70,0,89.16
+US-2016-169040,GT-14710,2016,"United States","Office Supplies",59.81,0,19.44
+CA-2016-112893,AT-10735,2016,"United States","Office Supplies",55.36,0,18.68
+US-2016-164630,EB-13975,2016,"United States",Technology,959.97,0,120.00
+CA-2016-166443,LH-17020,2016,"United States",Furniture,38.29,0,16.46
+CA-2016-124149,MJ-17740,2016,"United States","Office Supplies",108.34,0,37.92
+CA-2016-124149,MJ-17740,2016,"United States","Office Supplies",55.92,0,6.29
+CA-2016-164035,CR-12730,2016,"United States","Office Supplies",23.12,0,8.38
+CA-2016-153577,KH-16330,2016,"United States","Office Supplies",37.46,0,12.18
+CA-2016-153577,KH-16330,2016,"United States",Furniture,539.66,0,-7.71
+CA-2016-131499,MG-17875,2016,"United States","Office Supplies",207.48,0,62.24
+CA-2016-153353,GG-14650,2016,"United States",Technology,39.99,0,11.60
+CA-2016-124772,JG-15160,2016,"United States",Furniture,191.82,0,74.81
+CA-2016-115525,RR-19525,2016,"United States","Office Supplies",243.88,0,27.44
+US-2016-160528,MH-18115,2016,"United States","Office Supplies",727.30,0,-172.73
+US-2016-160528,MH-18115,2016,"United States",Furniture,22.61,1,-10.17
+US-2016-160528,MH-18115,2016,"United States",Technology,666.40,0,-33.32
+CA-2016-160129,LS-17200,2016,"United States","Office Supplies",15.80,0,2.37
+CA-2016-160129,LS-17200,2016,"United States",Furniture,14.37,0,3.95
+CA-2016-124149,MJ-17740,2016,"United States","Office Supplies",78.30,0,29.36
+CA-2016-160129,LS-17200,2016,"United States",Furniture,70.45,0,12.33
+CA-2016-147368,TC-21295,2016,"United States",Technology,695.70,1,-27.83
+US-2016-164189,DR-12880,2016,"United States",Technology,403.17,0,25.20
+CA-2016-144554,DM-13345,2016,"United States",Technology,119.98,0,22.50
+US-2016-162852,BG-11695,2016,"United States",Furniture,845.49,0,-12.08
+US-2016-114293,JH-16180,2016,"United States",Furniture,195.14,0,-12.20
+CA-2016-123617,AJ-10780,2016,"United States","Office Supplies",7.43,1,-5.70
+CA-2016-125206,LR-16915,2016,"United States","Office Supplies",114.46,0,28.62
+US-2016-128293,KC-16255,2016,"United States","Office Supplies",64.78,0,-12.96
+US-2016-147991,ZD-21925,2016,"United States",Furniture,16.72,0,3.34
+CA-2016-136371,SV-20935,2016,"United States",Furniture,14.98,0,6.89
+CA-2016-136371,SV-20935,2016,"United States",Furniture,20.32,0,6.91
+CA-2016-139269,JB-16045,2016,"United States",Furniture,24.96,0,6.24
+CA-2016-139269,JB-16045,2016,"United States","Office Supplies",19.36,0,9.29
+CA-2016-139269,JB-16045,2016,"United States","Office Supplies",1267.65,0,152.12
+CA-2016-139010,MC-17635,2016,"United States",Technology,12.99,0,0.78
+CA-2016-139010,MC-17635,2016,"United States","Office Supplies",18.56,0,6.50
+CA-2016-128594,DJ-13510,2016,"United States",Furniture,1603.14,0,100.20
+CA-2016-139010,MC-17635,2016,"United States","Office Supplies",449.15,0,8.98
+CA-2016-154690,CC-12370,2016,"United States",Furniture,225.30,0,22.53
+CA-2016-139010,MC-17635,2016,"United States","Office Supplies",31.25,0,10.94
+CA-2016-134376,TT-21265,2016,"United States","Office Supplies",61.44,0,16.59
+CA-2016-169026,CM-12655,2016,"United States","Office Supplies",23.34,0,0.23
+CA-2016-128517,SW-20350,2016,"United States",Technology,517.90,0,134.65
+CA-2016-128517,SW-20350,2016,"United States","Office Supplies",5.28,0,2.43
+CA-2016-112123,BH-11710,2016,"United States","Office Supplies",447.86,0,219.45
+CA-2016-112123,BH-11710,2016,"United States",Technology,479.95,0,129.59
+CA-2016-112123,BH-11710,2016,"United States","Office Supplies",166.44,0,79.89
+US-2016-148110,AR-10825,2016,"United States",Furniture,347.80,0,-24.84
+CA-2016-108882,LA-16780,2016,"United States",Technology,349.95,0,118.98
+CA-2016-108882,LA-16780,2016,"United States",Technology,377.93,0,141.72
+CA-2016-120558,RD-19810,2016,"United States","Office Supplies",32.40,0,15.55
+CA-2016-132409,TH-21235,2016,"United States","Office Supplies",1.50,0,0.17
+CA-2016-132409,TH-21235,2016,"United States","Office Supplies",34.85,0,6.53
+CA-2016-122518,RF-19345,2016,"United States","Office Supplies",10.08,0,3.53
+CA-2016-124562,JP-16135,2016,"United States","Office Supplies",12.96,1,-9.50
+CA-2016-103037,KH-16630,2016,"United States","Office Supplies",15.71,0,5.70
+CA-2016-138933,JL-15130,2016,"United States","Office Supplies",3.98,0,1.39
+CA-2016-140746,RC-19825,2016,"United States",Furniture,181.80,0,-15.58
+CA-2016-146836,CC-12475,2016,"United States","Office Supplies",44.94,0,12.58
+CA-2016-146836,CC-12475,2016,"United States","Office Supplies",45.58,0,15.95
+US-2016-127971,DW-13195,2016,"United States",Furniture,318.43,0,-77.33
+CA-2016-121671,AA-10480,2016,"United States","Office Supplies",21.93,0,10.09
+US-2016-127971,DW-13195,2016,"United States",Technology,122.92,0,46.10
+CA-2016-121671,AA-10480,2016,"United States","Office Supplies",242.94,0,4.86
+US-2016-127971,DW-13195,2016,"United States",Furniture,7.07,1,-2.83
+CA-2016-121671,AA-10480,2016,"United States","Office Supplies",7.64,0,3.74
+US-2016-140809,CK-12760,2016,"United States","Office Supplies",56.45,0,14.68
+CA-2016-121671,AA-10480,2016,"United States","Office Supplies",51.84,0,25.40
+CA-2016-121671,AA-10480,2016,"United States","Office Supplies",265.17,0,47.73
+CA-2016-150350,MS-17770,2016,"United States",Technology,837.60,0,62.82
+CA-2016-150350,MS-17770,2016,"United States","Office Supplies",135.90,0,63.87
+CA-2016-150350,MS-17770,2016,"United States","Office Supplies",34.68,0,16.99
+CA-2016-150350,MS-17770,2016,"United States",Furniture,532.70,0,-39.95
+CA-2016-159730,SJ-20125,2016,"United States",Furniture,113.89,0,9.97
+CA-2016-159730,SJ-20125,2016,"United States",Technology,105.58,0,7.92
+CA-2016-157868,MC-17590,2016,"United States","Office Supplies",24.85,0,11.68
+CA-2016-150350,MS-17770,2016,"United States","Office Supplies",43.10,0,11.21
+CA-2016-167290,JF-15295,2016,"United States","Office Supplies",11.68,0,3.50
+CA-2016-150350,MS-17770,2016,"United States","Office Supplies",15.88,0,0.16
+CA-2016-155474,CC-12220,2016,"United States",Technology,107.98,0,9.45
+CA-2016-155474,CC-12220,2016,"United States","Office Supplies",19.30,0,6.03
+US-2016-161844,DK-12835,2016,"United States",Furniture,79.97,0,-29.32
+US-2016-161844,DK-12835,2016,"United States","Office Supplies",2.95,1,-2.06
+US-2016-162103,LB-16795,2016,"United States","Office Supplies",3.14,1,-4.70
+CA-2016-111416,LW-17215,2016,"United States","Office Supplies",232.40,0,78.44
+CA-2016-162747,AH-10030,2016,"United States",Furniture,86.45,0,38.04
+CA-2016-100244,GM-14695,2016,"United States","Office Supplies",65.79,0,30.26
+CA-2016-100244,GM-14695,2016,"United States","Office Supplies",271.98,0,88.39
+CA-2016-145982,TB-21055,2016,"United States","Office Supplies",122.97,0,60.26
+CA-2016-100244,GM-14695,2016,"United States","Office Supplies",11.76,0,3.18
+CA-2016-145982,TB-21055,2016,"United States",Furniture,244.62,0,20.97
+CA-2016-100244,GM-14695,2016,"United States","Office Supplies",77.52,0,37.98
+CA-2016-100244,GM-14695,2016,"United States","Office Supplies",48.64,0,15.81
+CA-2016-116540,SS-20590,2016,"United States","Office Supplies",1.81,0,0.65
+CA-2016-116540,SS-20590,2016,"United States","Office Supplies",8.26,0,3.88
+CA-2016-145982,TB-21055,2016,"United States",Technology,59.97,0,28.79
+CA-2016-134803,CL-12565,2016,"United States","Office Supplies",262.24,0,78.67
+CA-2016-145982,TB-21055,2016,"United States","Office Supplies",81.54,0,36.69
+CA-2016-134803,CL-12565,2016,"United States","Office Supplies",182.72,0,84.05
+CA-2016-145982,TB-21055,2016,"United States","Office Supplies",11.68,0,5.26
+CA-2016-134803,CL-12565,2016,"United States",Technology,131.60,0,7.90
+CA-2016-145982,TB-21055,2016,"United States","Office Supplies",29.00,0,13.92
+CA-2016-134803,CL-12565,2016,"United States","Office Supplies",22.72,0,7.38
+CA-2016-134803,CL-12565,2016,"United States",Technology,558.40,0,41.88
+US-2016-157308,NM-18520,2016,"United States","Office Supplies",15.71,0,5.70
+CA-2016-147536,AR-10510,2016,"United States",Technology,89.97,0,18.89
+CA-2016-139234,AF-10870,2016,"United States","Office Supplies",3.21,1,-5.29
+CA-2016-139234,AF-10870,2016,"United States",Technology,26.18,0,-3.27
+US-2016-162677,DB-13210,2016,"United States","Office Supplies",67.64,0,5.92
+US-2016-162677,DB-13210,2016,"United States",Technology,119.98,0,-18.00
+CA-2016-146682,KW-16435,2016,"United States",Furniture,67.00,0,32.16
+CA-2016-138695,KC-16675,2016,"United States",Furniture,390.27,0,-24.39
+CA-2016-138695,KC-16675,2016,"United States","Office Supplies",62.19,0,19.44
+US-2016-133879,KT-16465,2016,"United States","Office Supplies",3.17,1,-4.75
+US-2016-133879,KT-16465,2016,"United States",Furniture,528.43,0,0.00
+US-2016-133879,KT-16465,2016,"United States","Office Supplies",13.39,0,1.51
+CA-2016-146143,MC-17845,2016,"United States",Furniture,133.38,0,58.69
+US-2016-150035,CL-11890,2016,"United States",Furniture,16.74,0,4.35
+CA-2016-144911,RW-19630,2016,"United States",Technology,34.95,0,15.38
+CA-2016-144911,RW-19630,2016,"United States","Office Supplies",152.00,0,69.92
+CA-2016-131289,SP-20620,2016,"United States","Office Supplies",8.56,0,2.48
+CA-2016-131289,SP-20620,2016,"United States","Office Supplies",45.36,0,21.77
+CA-2016-131289,SP-20620,2016,"United States",Furniture,1421.66,0,-195.48
+CA-2016-151169,MY-18295,2016,"United States","Office Supplies",7.92,0,3.56
+US-2016-134761,DB-13210,2016,"United States",Technology,36.19,0,2.71
+CA-2016-107328,CA-12055,2016,"United States",Furniture,513.02,0,12.83
+CA-2016-107328,CA-12055,2016,"United States","Office Supplies",487.92,0,136.62
+CA-2016-107328,CA-12055,2016,"United States","Office Supplies",15.24,0,5.33
+CA-2016-108616,JK-15730,2016,"United States",Technology,209.97,0,71.39
+CA-2016-108616,JK-15730,2016,"United States","Office Supplies",62.94,0,30.21
+CA-2016-108616,JK-15730,2016,"United States","Office Supplies",25.92,0,7.78
+CA-2016-145842,FM-14380,2016,"United States","Office Supplies",40.74,0,0.41
+CA-2016-150945,JK-16120,2016,"United States","Office Supplies",900.08,0,117.01
+CA-2016-116344,JO-15145,2016,"United States","Office Supplies",84.78,0,-16.96
+CA-2016-158869,AH-10690,2016,"United States","Office Supplies",70.88,0,33.31
+CA-2016-157511,SV-20365,2016,"United States",Furniture,5.35,0,1.61
+CA-2016-168536,SC-20800,2016,"United States",Technology,66.30,0,8.62
+CA-2016-157511,SV-20365,2016,"United States",Furniture,99.37,0,-7.10
+US-2016-113649,HA-14920,2016,"United States","Office Supplies",30.82,0,9.63
+CA-2016-162614,TB-21250,2016,"United States","Office Supplies",27.26,0,8.86
+CA-2016-157511,SV-20365,2016,"United States","Office Supplies",2.67,0,0.37
+US-2016-113649,HA-14920,2016,"United States",Technology,44.78,0,4.48
+US-2016-113649,HA-14920,2016,"United States","Office Supplies",569.54,0,64.07
+CA-2016-114482,DM-13345,2016,"United States","Office Supplies",40.46,0,19.83
+CA-2016-114482,DM-13345,2016,"United States",Technology,404.94,0,109.33
+CA-2016-137673,ML-17395,2016,"United States",Technology,116.00,0,29.00
+CA-2016-166485,AH-10210,2016,"United States","Office Supplies",16.50,0,5.57
+CA-2016-132731,GA-14515,2016,"United States",Technology,657.55,0,49.32
+CA-2016-130680,BD-11320,2016,"United States",Technology,38.24,0,-9.56
+CA-2016-130050,MC-17425,2016,"United States",Furniture,9.55,1,-3.82
+US-2016-152835,RP-19855,2016,"United States","Office Supplies",21.40,0,6.21
+CA-2016-155565,EH-13765,2016,"United States","Office Supplies",54.90,0,15.37
+CA-2016-152555,ME-17320,2016,"United States","Office Supplies",45.53,0,15.93
+CA-2016-165470,HJ-14875,2016,"United States","Office Supplies",5.08,0,1.65
+CA-2016-152555,ME-17320,2016,"United States",Furniture,844.12,0,-36.18
+CA-2016-152555,ME-17320,2016,"United States",Technology,812.74,0,60.96
+CA-2016-134887,TB-21280,2016,"United States",Technology,1287.45,0,244.62
+CA-2016-104969,EH-14125,2016,"United States","Office Supplies",8.87,0,3.22
+CA-2016-119683,CK-12595,2016,"United States","Office Supplies",29.34,0,13.50
+CA-2016-104969,EH-14125,2016,"United States","Office Supplies",121.10,1,-100.92
+CA-2016-130029,GT-14755,2016,"United States","Office Supplies",12.96,0,6.22
+CA-2016-130029,GT-14755,2016,"United States","Office Supplies",3.96,0,0.08
+CA-2016-100671,CS-12490,2016,"United States","Office Supplies",111.67,0,6.98
+US-2016-131674,NC-18535,2016,"United States",Technology,58.42,0,16.79
+CA-2016-137176,DB-12910,2016,"United States",Furniture,15.01,1,-12.01
+CA-2016-154536,JC-15340,2016,"United States","Office Supplies",9.56,1,-7.33
+CA-2016-102792,JC-15340,2016,"United States","Office Supplies",9.84,0,3.25
+CA-2016-108567,DB-13210,2016,"United States","Office Supplies",2.69,1,-2.25
+CA-2016-103163,FM-14290,2016,"United States","Office Supplies",4.78,0,1.55
+CA-2016-103163,FM-14290,2016,"United States","Office Supplies",4.73,0,2.32
+CA-2016-109743,SH-19975,2016,"United States","Office Supplies",40.78,0,4.59
+CA-2016-104157,MT-17815,2016,"United States","Office Supplies",7.89,0,0.32
+CA-2016-142097,QJ-19255,2016,"United States","Office Supplies",232.96,0,116.48
+CA-2016-109743,SH-19975,2016,"United States",Technology,63.94,0,5.59
+CA-2016-104157,MT-17815,2016,"United States","Office Supplies",65.50,0,32.10
+CA-2016-142097,QJ-19255,2016,"United States","Office Supplies",66.54,0,32.60
+CA-2016-104157,MT-17815,2016,"United States",Furniture,2430.08,0,388.81
+CA-2016-142097,QJ-19255,2016,"United States","Office Supplies",43.26,0,14.28
+CA-2016-115476,VM-21835,2016,"United States",Technology,129.98,0,62.39
+CA-2016-115476,VM-21835,2016,"United States","Office Supplies",32.54,0,15.94
+CA-2016-133340,LH-17155,2016,"United States",Technology,10.90,0,3.05
+CA-2016-133340,LH-17155,2016,"United States",Technology,59.98,0,25.19
+CA-2016-133340,LH-17155,2016,"United States","Office Supplies",61.93,0,23.40
+CA-2016-137848,WB-21850,2016,"United States","Office Supplies",16.52,0,7.60
+CA-2016-137848,WB-21850,2016,"United States","Office Supplies",60.12,0,28.86
+CA-2016-137848,WB-21850,2016,"United States","Office Supplies",49.54,0,17.34
+CA-2016-108434,JG-15160,2016,"United States","Office Supplies",465.18,0,120.95
+CA-2016-126543,MF-17665,2016,"United States",Furniture,15.17,0,3.79
+CA-2016-164154,NZ-18565,2016,"United States","Office Supplies",22.43,1,-17.94
+CA-2016-149979,RA-19915,2016,"United States","Office Supplies",118.25,0,34.29
+CA-2016-164154,NZ-18565,2016,"United States","Office Supplies",37.52,0,3.75
+CA-2016-149979,RA-19915,2016,"United States",Furniture,368.97,0,81.17
+CA-2016-145177,PP-18955,2016,"United States","Office Supplies",9.22,0,3.34
+CA-2016-145177,PP-18955,2016,"United States",Technology,41.96,0,-9.79
+CA-2016-145177,PP-18955,2016,"United States","Office Supplies",89.57,0,32.47
+CA-2016-116799,JG-15310,2016,"United States","Office Supplies",42.78,0,15.51
+CA-2016-145177,PP-18955,2016,"United States","Office Supplies",22.25,0,7.51
+CA-2016-116799,JG-15310,2016,"United States",Furniture,563.43,0,-56.34
+CA-2016-145177,PP-18955,2016,"United States","Office Supplies",334.88,0,29.30
+CA-2016-111283,LC-16870,2016,"United States","Office Supplies",111.10,0,8.33
+CA-2016-145177,PP-18955,2016,"United States",Furniture,148.29,0,29.66
+CA-2016-145177,PP-18955,2016,"United States","Office Supplies",4.62,0,1.68
+CA-2016-145177,PP-18955,2016,"United States",Technology,178.92,0,-29.07
+CA-2016-145177,PP-18955,2016,"United States","Office Supplies",69.89,1,-46.59
+CA-2016-142370,TP-21130,2016,"United States","Office Supplies",5.04,0,0.15
+CA-2016-142370,TP-21130,2016,"United States",Technology,249.95,0,107.48
+CA-2016-156503,NC-18415,2016,"United States","Office Supplies",93.02,0,33.72
+CA-2016-156251,TS-21160,2016,"United States",Furniture,241.96,0,24.20
+CA-2016-105900,BS-11590,2016,"United States","Office Supplies",33.40,0,12.36
+CA-2016-156503,NC-18415,2016,"United States","Office Supplies",12.77,0,1.44
+CA-2016-156251,TS-21160,2016,"United States","Office Supplies",8.52,0,4.17
+CA-2016-156503,NC-18415,2016,"United States","Office Supplies",35.01,0,13.13
+CA-2016-163153,DM-12955,2016,"United States",Furniture,99.37,0,-1.42
+CA-2016-156503,NC-18415,2016,"United States","Office Supplies",39.15,0,14.68
+CA-2016-163153,DM-12955,2016,"United States","Office Supplies",1.34,0,0.50
+CA-2016-151155,AB-10255,2016,"United States",Furniture,18.92,0,7.38
+CA-2016-151155,AB-10255,2016,"United States","Office Supplies",15.42,0,6.94
+CA-2016-155530,CM-12160,2016,"United States",Furniture,2003.52,0,-325.57
+US-2016-101196,FM-14215,2016,"United States","Office Supplies",82.37,0,-19.56
+CA-2016-151512,SH-19975,2016,"United States","Office Supplies",18.72,0,3.51
+CA-2016-165169,JL-15235,2016,"United States","Office Supplies",360.38,0,93.70
+CA-2016-165169,JL-15235,2016,"United States","Office Supplies",11.16,0,2.79
+CA-2016-165169,JL-15235,2016,"United States","Office Supplies",14.94,0,6.87
+CA-2016-152471,ZD-21925,2016,"United States",Technology,823.96,0,51.50
+CA-2016-152471,ZD-21925,2016,"United States","Office Supplies",15.98,0,5.00
+CA-2016-144218,JD-15895,2016,"United States","Office Supplies",1085.42,0,282.21
+CA-2016-169971,IL-15100,2016,"United States","Office Supplies",3.91,0,1.03
+CA-2016-169971,IL-15100,2016,"United States","Office Supplies",62.38,0,7.02
+US-2016-133508,SW-20350,2016,"United States","Office Supplies",29.05,0,9.01
+CA-2016-136231,DM-13015,2016,"United States","Office Supplies",23.47,0,7.63
+CA-2016-136231,DM-13015,2016,"United States","Office Supplies",86.06,1,-63.11
+CA-2016-136231,DM-13015,2016,"United States",Technology,108.78,0,6.80
+CA-2016-136231,DM-13015,2016,"United States","Office Supplies",10.27,0,3.21
+CA-2016-140641,EP-13915,2016,"United States","Office Supplies",38.19,1,-26.73
+CA-2016-161676,JP-15460,2016,"United States","Office Supplies",33.80,0,4.23
+CA-2016-156503,NC-18415,2016,"United States",Furniture,102.59,0,10.26
+CA-2016-167759,CC-12670,2016,"United States",Technology,134.85,0,37.76
+CA-2016-155005,SC-20050,2016,"United States",Technology,377.97,0,94.49
+CA-2016-156503,NC-18415,2016,"United States",Technology,22.70,0,5.96
+US-2016-163881,SP-20860,2016,"United States",Technology,659.90,0,217.77
+US-2016-163881,SP-20860,2016,"United States",Furniture,1684.75,0,210.59
+US-2016-163881,SP-20860,2016,"United States",Technology,559.92,0,190.37
+US-2016-144547,MS-17770,2016,"United States",Technology,279.94,0,48.99
+CA-2016-145730,CC-12220,2016,"United States","Office Supplies",36.60,0,11.90
+US-2016-143448,MH-17455,2016,"United States",Furniture,1424.90,0,356.23
+US-2016-142685,MG-17695,2016,"United States","Office Supplies",835.17,0,16.70
+CA-2016-133144,DO-13435,2016,"United States","Office Supplies",17.34,0,8.50
+CA-2016-119963,SN-20710,2016,"United States","Office Supplies",6.37,0,1.03
+CA-2016-119963,SN-20710,2016,"United States","Office Supplies",48.85,0,15.88
+CA-2016-119963,SN-20710,2016,"United States","Office Supplies",19.65,0,6.63
+CA-2016-119963,SN-20710,2016,"United States",Furniture,255.11,0,-18.22
+US-2016-151862,ON-18715,2016,"United States",Technology,159.98,0,14.00
+CA-2016-114951,DN-13690,2016,"United States",Furniture,22.14,0,6.42
+CA-2016-156573,RB-19360,2016,"United States","Office Supplies",11.28,1,-8.65
+CA-2016-156573,RB-19360,2016,"United States","Office Supplies",4.45,0,0.33
+CA-2016-156573,RB-19360,2016,"United States",Furniture,44.76,0,14.55
+CA-2016-169957,SN-20710,2016,"United States","Office Supplies",236.88,0,66.33
+CA-2016-120257,PW-19240,2016,"United States","Office Supplies",7.87,0,0.89
+CA-2016-169957,SN-20710,2016,"United States","Office Supplies",29.90,0,14.65
+CA-2016-149902,DW-13540,2016,"United States","Office Supplies",88.04,0,22.89
+CA-2016-146010,EH-14125,2016,"United States","Office Supplies",40.64,1,-32.51
+CA-2016-169957,SN-20710,2016,"United States",Technology,100.00,0,21.00
+CA-2016-167556,JM-15250,2016,"United States","Office Supplies",13.48,0,6.74
+US-2016-108777,JM-15655,2016,"United States","Office Supplies",18.69,1,-14.33
+CA-2016-167556,JM-15250,2016,"United States","Office Supplies",29.80,0,9.31
+US-2016-108777,JM-15655,2016,"United States",Technology,383.95,0,76.79
+CA-2016-167556,JM-15250,2016,"United States",Furniture,414.00,0,124.20
+CA-2016-167556,JM-15250,2016,"United States","Office Supplies",41.33,0,14.98
+US-2016-116400,EB-13930,2016,"United States",Furniture,39.92,0,11.18
+CA-2016-145303,TP-21415,2016,"United States",Furniture,156.37,0,-52.89
+CA-2016-140417,KE-16420,2016,"United States","Office Supplies",60.05,0,22.52
+CA-2016-135265,CC-12370,2016,"United States",Furniture,287.97,0,-3.60
+CA-2016-140417,KE-16420,2016,"United States","Office Supplies",5.02,1,-3.52
+CA-2016-135265,CC-12370,2016,"United States",Technology,2799.96,0,944.99
+CA-2016-135265,CC-12370,2016,"United States","Office Supplies",48.94,0,24.47
+CA-2016-108735,JM-15535,2016,"United States",Furniture,257.50,0,24.24
+CA-2016-111913,LC-16930,2016,"United States",Technology,302.38,0,30.24
+CA-2016-111913,LC-16930,2016,"United States","Office Supplies",20.95,0,7.07
+US-2016-159415,CS-12175,2016,"United States",Furniture,79.12,0,13.85
+CA-2016-111913,LC-16930,2016,"United States","Office Supplies",11.78,0,3.98
+CA-2016-161473,TB-21175,2016,"United States","Office Supplies",20.70,0,9.94
+CA-2016-161473,TB-21175,2016,"United States","Office Supplies",10.95,0,3.29
+CA-2016-161473,TB-21175,2016,"United States","Office Supplies",14.35,0,4.66
+CA-2016-129196,XP-21865,2016,"United States",Technology,68.11,0,17.88
+US-2016-122182,BD-11770,2016,"United States",Technology,39.99,0,7.50
+CA-2016-145730,CC-12220,2016,"United States",Furniture,637.90,0,-127.58
+CA-2016-145730,CC-12220,2016,"United States",Technology,287.91,0,33.59
+US-2016-148334,DD-13570,2016,"United States","Office Supplies",4.31,1,-6.90
+CA-2016-145303,TP-21415,2016,"United States","Office Supplies",13.14,1,-21.68
+CA-2016-145303,TP-21415,2016,"United States","Office Supplies",10.02,1,-16.54
+CA-2016-117226,KD-16495,2016,"United States","Office Supplies",6.92,1,-10.39
+CA-2016-136287,SS-20590,2016,"United States","Office Supplies",18.90,0,8.69
+CA-2016-163573,AC-10450,2016,"United States","Office Supplies",1219.96,0,381.24
+CA-2016-164637,RD-19480,2016,"United States","Office Supplies",128.40,0,64.20
+CA-2016-110044,RF-19735,2016,"United States",Technology,359.98,0,36.00
+CA-2016-139689,MP-17965,2016,"United States","Office Supplies",38.09,1,-27.93
+CA-2016-139689,MP-17965,2016,"United States","Office Supplies",2.81,1,-1.97
+CA-2016-108644,SJ-20215,2016,"United States","Office Supplies",1.96,1,-3.24
+US-2016-164588,AP-10915,2016,"United States","Office Supplies",12.84,0,3.72
+CA-2016-162082,JS-15880,2016,"United States",Furniture,241.33,0,-14.20
+CA-2016-162082,JS-15880,2016,"United States","Office Supplies",5.18,0,1.88
+CA-2016-113803,VG-21805,2016,"United States","Office Supplies",22.48,0,10.34
+CA-2016-162082,JS-15880,2016,"United States","Office Supplies",145.54,0,16.37
+CA-2016-132094,VG-21805,2016,"United States","Office Supplies",5.47,0,1.64
+CA-2016-132094,VG-21805,2016,"United States",Technology,47.98,0,13.20
+CA-2016-162404,NF-18475,2016,"United States","Office Supplies",11.42,1,-18.84
+CA-2016-152163,JF-15355,2016,"United States","Office Supplies",14.20,0,6.53
+CA-2016-152163,JF-15355,2016,"United States","Office Supplies",12.96,0,6.22
+CA-2016-152163,JF-15355,2016,"United States","Office Supplies",58.34,0,28.00
+US-2016-107440,BS-11365,2016,"United States",Technology,9099.93,0,2365.98
+CA-2016-159142,ME-17320,2016,"United States",Technology,149.97,0,6.00
+US-2016-107440,BS-11365,2016,"United States",Furniture,9.96,0,3.29
+CA-2016-159142,ME-17320,2016,"United States","Office Supplies",27.81,0,13.07
+US-2016-107440,BS-11365,2016,"United States","Office Supplies",25.30,0,11.89
+CA-2016-121601,MO-17500,2016,"United States","Office Supplies",59.75,0,19.42
+CA-2016-161095,CS-12250,2016,"United States","Office Supplies",7.75,0,2.81
+CA-2016-161095,CS-12250,2016,"United States","Office Supplies",33.57,0,11.75
+CA-2016-153346,TB-21355,2016,"United States","Office Supplies",9.21,0,2.30
+CA-2016-153346,TB-21355,2016,"United States","Office Supplies",18.00,0,8.28
+CA-2016-100041,BF-10975,2016,"United States","Office Supplies",314.55,0,150.98
+CA-2016-100041,BF-10975,2016,"United States","Office Supplies",4.91,0,2.31
+CA-2016-148593,BD-11320,2016,"United States","Office Supplies",46.35,0,21.78
+CA-2016-157336,SJ-20500,2016,"United States","Office Supplies",88.08,0,40.52
+CA-2016-157336,SJ-20500,2016,"United States",Furniture,751.92,0,150.38
+CA-2016-168893,AP-10915,2016,"United States","Office Supplies",20.00,0,9.60
+CA-2016-120355,MM-17260,2016,"United States",Furniture,631.78,0,140.40
+CA-2016-168893,AP-10915,2016,"United States","Office Supplies",7.98,0,2.07
+CA-2016-120355,MM-17260,2016,"United States",Furniture,60.72,0,26.11
+CA-2016-168893,AP-10915,2016,"United States",Furniture,24.10,0,9.16
+CA-2016-168893,AP-10915,2016,"United States","Office Supplies",8.75,0,2.63
+CA-2016-143749,AG-10300,2016,"United States",Furniture,81.94,0,20.49
+CA-2016-168893,AP-10915,2016,"United States",Furniture,842.94,0,160.16
+CA-2016-124793,MM-18280,2016,"United States",Furniture,196.78,0,-22.14
+CA-2016-111493,CM-12160,2016,"United States",Technology,98.16,0,9.82
+CA-2016-163398,CB-12415,2016,"United States","Office Supplies",2.18,1,-3.60
+CA-2016-163398,CB-12415,2016,"United States","Office Supplies",27.38,0,2.74
+CA-2016-163398,CB-12415,2016,"United States","Office Supplies",26.41,1,-71.30
+CA-2016-162726,MT-17815,2016,"United States","Office Supplies",10.37,0,3.63
+CA-2016-157714,CS-12175,2016,"United States","Office Supplies",9.99,0,4.50
+CA-2016-162726,MT-17815,2016,"United States","Office Supplies",23.68,0,7.40
+US-2016-111290,DK-13375,2016,"United States",Technology,109.95,0,36.28
+US-2016-111290,DK-13375,2016,"United States","Office Supplies",965.85,0,135.22
+US-2016-131611,EP-13915,2016,"United States",Furniture,863.13,0,-160.30
+US-2016-111290,DK-13375,2016,"United States","Office Supplies",29.20,0,10.51
+US-2016-131611,EP-13915,2016,"United States","Office Supplies",3.56,1,-6.24
+US-2016-111290,DK-13375,2016,"United States","Office Supplies",32.40,0,15.55
+US-2016-131611,EP-13915,2016,"United States",Furniture,956.66,0,-225.10
+US-2016-131611,EP-13915,2016,"United States","Office Supplies",12.59,1,-20.14
+US-2016-131611,EP-13915,2016,"United States",Technology,171.96,0,45.14
+CA-2016-124233,CK-12595,2016,"United States",Furniture,24.70,0,10.37
+CA-2016-127642,CP-12340,2016,"United States","Office Supplies",111.96,0,54.86
+CA-2016-123806,LA-16780,2016,"United States",Furniture,207.76,0,85.18
+US-2016-161683,CJ-12010,2016,"United States","Office Supplies",394.82,0,93.77
+US-2016-161683,CJ-12010,2016,"United States","Office Supplies",18.19,1,-14.55
+CA-2016-147137,AA-10645,2016,"United States",Furniture,25.40,0,8.64
+CA-2016-147137,AA-10645,2016,"United States","Office Supplies",43.96,0,20.66
+US-2016-165078,MA-17995,2016,"United States","Office Supplies",104.90,0,50.35
+US-2016-165078,MA-17995,2016,"United States","Office Supplies",39.68,0,16.27
+US-2016-165078,MA-17995,2016,"United States","Office Supplies",51.75,0,24.84
+CA-2016-109365,XP-21865,2016,"United States","Office Supplies",15.26,0,5.04
+CA-2016-147137,AA-10645,2016,"United States",Furniture,1279.17,0,225.74
+CA-2016-158575,SB-20290,2016,"United States","Office Supplies",103.97,0,16.89
+CA-2016-109365,XP-21865,2016,"United States","Office Supplies",43.32,0,14.30
+CA-2016-147137,AA-10645,2016,"United States","Office Supplies",27.92,0,0.56
+CA-2016-109365,XP-21865,2016,"United States","Office Supplies",43.58,0,15.80
+CA-2016-109365,XP-21865,2016,"United States","Office Supplies",116.28,0,56.98
+CA-2016-109365,XP-21865,2016,"United States","Office Supplies",9.30,0,3.02
+CA-2016-109365,XP-21865,2016,"United States","Office Supplies",19.44,0,9.33
+CA-2016-109365,XP-21865,2016,"United States","Office Supplies",314.55,0,150.98
+CA-2016-156811,BP-11095,2016,"United States","Office Supplies",43.92,0,11.86
+CA-2016-101448,EB-13930,2016,"United States","Office Supplies",56.82,0,28.41
+CA-2016-156811,BP-11095,2016,"United States","Office Supplies",25.03,0,7.82
+CA-2016-108868,KB-16585,2016,"United States","Office Supplies",70.37,0,6.16
+CA-2016-108868,KB-16585,2016,"United States",Technology,59.96,0,21.74
+CA-2016-124814,FM-14215,2016,"United States","Office Supplies",12.96,0,6.22
+CA-2016-124814,FM-14215,2016,"United States","Office Supplies",23.20,0,8.12
+CA-2016-109407,HG-14965,2016,"United States","Office Supplies",31.36,0,15.68
+CA-2016-148740,AH-10690,2016,"United States",Technology,361.38,0,27.10
+US-2017-165953,EP-13915,2016,"United States","Office Supplies",47.62,0,3.57
+US-2017-165953,EP-13915,2016,"United States","Office Supplies",23.48,0,8.22
+CA-2016-144540,GH-14410,2016,"United States","Office Supplies",62.79,1,-166.39
+CA-2016-131737,GZ-14470,2016,"United States","Office Supplies",199.90,0,89.96
+CA-2016-144540,GH-14410,2016,"United States","Office Supplies",28.44,0,4.27
+CA-2016-131737,GZ-14470,2016,"United States","Office Supplies",901.95,0,297.64
+CA-2016-131737,GZ-14470,2016,"United States",Furniture,971.50,0,252.59
+CA-2016-114538,RC-19825,2016,"United States","Office Supplies",11.33,0,2.55
+CA-2016-139395,MG-17650,2016,"United States",Technology,657.93,0,184.22
+CA-2016-139395,MG-17650,2016,"United States",Furniture,33.48,0,8.70
+CA-2016-139395,MG-17650,2016,"United States","Office Supplies",13.90,0,3.61
+CA-2016-119935,KM-16225,2016,"United States",Furniture,37.30,0,17.16
+CA-2016-119935,KM-16225,2016,"United States","Office Supplies",81.96,0,39.34
+CA-2016-100041,BF-10975,2016,"United States","Office Supplies",9.08,0,4.09
+CA-2016-118969,LP-17095,2016,"United States","Office Supplies",54.79,1,-40.18
+CA-2016-139395,MG-17650,2016,"United States","Office Supplies",26.86,0,6.72
+CA-2016-145240,BG-11740,2016,"United States","Office Supplies",10.78,0,0.81
+CA-2016-120873,BW-11200,2016,"United States",Furniture,290.98,0,75.65
+CA-2016-101336,CK-12760,2016,"United States","Office Supplies",77.55,0,20.16
+US-2016-128678,RB-19570,2016,"United States","Office Supplies",21.40,0,10.06
+CA-2016-101336,CK-12760,2016,"United States","Office Supplies",24.88,0,6.97
+US-2016-128678,RB-19570,2016,"United States","Office Supplies",48.66,0,15.82
+CA-2016-101336,CK-12760,2016,"United States","Office Supplies",140.75,0,39.41
+CA-2016-101385,JW-16075,2016,"United States","Office Supplies",16.56,0,6.96
+CA-2016-101336,CK-12760,2016,"United States","Office Supplies",36.63,0,9.89
+CA-2016-120250,AP-10720,2016,"United States",Furniture,25.63,0,3.84
+CA-2016-121993,JB-16000,2016,"United States","Office Supplies",23.62,0,7.97
+US-2016-100405,TS-21430,2016,"United States","Office Supplies",8.26,0,3.80
+CA-2016-169215,RE-19450,2016,"United States","Office Supplies",29.61,0,13.32
+CA-2016-127698,MV-18190,2016,"United States",Technology,863.93,0,86.39
+CA-2016-159912,GB-14530,2016,"United States",Furniture,241.92,0,-56.45
+CA-2016-159912,GB-14530,2016,"United States",Furniture,163.88,1,-81.94
+CA-2016-129868,MC-18130,2016,"United States","Office Supplies",17.76,0,4.97
+CA-2016-159912,GB-14530,2016,"United States","Office Supplies",3.49,1,-2.79
+CA-2016-102162,JF-15565,2016,"United States",Technology,1599.92,0,751.96
+CA-2016-129868,MC-18130,2016,"United States",Technology,302.38,0,30.24
+CA-2016-159912,GB-14530,2016,"United States","Office Supplies",10.58,0,-2.38
+CA-2016-102162,JF-15565,2016,"United States","Office Supplies",11.09,0,5.43
+CA-2016-129868,MC-18130,2016,"United States",Furniture,146.35,0,-5.49
+CA-2016-101987,HL-15040,2016,"United States",Technology,440.91,0,123.45
+CA-2016-129868,MC-18130,2016,"United States","Office Supplies",7.90,0,2.05
+CA-2016-129868,MC-18130,2016,"United States",Furniture,902.71,0,33.85
+CA-2016-129868,MC-18130,2016,"United States","Office Supplies",53.97,0,15.11
+CA-2016-140564,TC-21475,2016,"United States","Office Supplies",33.92,0,13.23
+CA-2016-143910,BC-11125,2016,"United States",Furniture,145.76,0,-8.10
+CA-2016-134691,KC-16540,2016,"United States","Office Supplies",2.30,1,-3.90
+CA-2016-118759,MB-17305,2016,"United States",Furniture,408.01,0,72.53
+CA-2016-139556,DB-13360,2016,"United States",Furniture,434.65,0,62.78
+CA-2016-118759,MB-17305,2016,"United States","Office Supplies",40.44,0,10.51
+CA-2016-121370,EB-14110,2016,"United States",Furniture,380.06,0,-21.72
+CA-2016-166240,DH-13075,2016,"United States","Office Supplies",8.71,1,-19.60
+CA-2016-120005,TS-21160,2016,"United States","Office Supplies",25.35,0,7.61
+CA-2016-121370,EB-14110,2016,"United States",Technology,1199.98,0,180.00
+CA-2016-158435,AG-10900,2016,"United States","Office Supplies",65.17,0,18.90
+CA-2016-120005,TS-21160,2016,"United States",Furniture,35.28,0,12.00
+CA-2016-121370,EB-14110,2016,"United States",Furniture,48.58,0,9.72
+CA-2016-158435,AG-10900,2016,"United States","Office Supplies",14.62,0,6.87
+CA-2016-123526,BV-11245,2016,"United States","Office Supplies",33.40,0,16.03
+CA-2016-158435,AG-10900,2016,"United States",Furniture,173.24,0,17.32
+CA-2016-127649,DL-13495,2016,"United States",Technology,837.60,0,62.82
+CA-2016-159989,EB-13870,2016,"United States",Technology,40.68,0,-9.15
+CA-2016-111696,TB-21625,2016,"United States","Office Supplies",17.94,0,8.07
+CA-2016-117660,BM-11785,2016,"United States","Office Supplies",5.90,0,1.99
+CA-2016-117660,BM-11785,2016,"United States","Office Supplies",13.71,0,1.03
+US-2016-114888,CC-12430,2016,"United States","Office Supplies",11.95,0,4.18
+US-2016-114888,CC-12430,2016,"United States","Office Supplies",6.24,0,1.87
+CA-2016-159653,JF-15490,2016,"United States","Office Supplies",14.73,0,7.22
+CA-2016-134222,NZ-18565,2016,"United States","Office Supplies",44.86,1,-35.88
+CA-2016-140018,CK-12205,2016,"United States",Technology,30.35,1,-24.28
+CA-2016-131968,LB-16795,2016,"United States","Office Supplies",9.89,1,-6.92
+CA-2016-140018,CK-12205,2016,"United States",Furniture,127.55,0,-9.11
+CA-2016-131968,LB-16795,2016,"United States","Office Supplies",671.54,0,50.37
+CA-2016-140018,CK-12205,2016,"United States",Furniture,77.95,0,15.59
+CA-2016-101630,CK-12760,2016,"United States","Office Supplies",8.67,0,4.07
+CA-2016-101630,CK-12760,2016,"United States","Office Supplies",25.71,0,6.68
+CA-2016-124681,SV-20935,2016,"United States",Technology,15.58,0,3.31
+CA-2016-152408,TT-21220,2016,"United States","Office Supplies",13.78,0,4.48
+CA-2016-120530,Dl-13600,2016,"United States",Furniture,658.75,0,146.39
+CA-2016-136049,NM-18520,2016,"United States","Office Supplies",5.55,1,-4.07
+US-2016-139388,CC-12475,2016,"United States","Office Supplies",14.96,0,0.30
+US-2016-131891,PW-19240,2016,"United States","Office Supplies",2.21,1,-1.48
+CA-2016-163167,RF-19345,2016,"United States",Furniture,182.67,0,52.97
+CA-2016-163167,RF-19345,2016,"United States",Technology,101.70,0,6.10
+CA-2016-163167,RF-19345,2016,"United States","Office Supplies",1126.02,0,56.30
+CA-2016-163167,RF-19345,2016,"United States","Office Supplies",1263.30,0,315.83
+CA-2016-101546,GK-14620,2016,"United States","Office Supplies",1793.98,0,843.17
+CA-2016-135776,EH-13765,2016,"United States","Office Supplies",8.82,0,2.56
+CA-2016-135776,EH-13765,2016,"United States","Office Supplies",37.94,0,18.21
+CA-2016-125164,SH-19975,2016,"United States","Office Supplies",20.37,0,7.38
+CA-2016-135776,EH-13765,2016,"United States","Office Supplies",4.20,0,1.18
+CA-2016-125164,SH-19975,2016,"United States","Office Supplies",49.85,0,16.82
+CA-2016-135776,EH-13765,2016,"United States","Office Supplies",227.28,0,2.27
+CA-2016-135776,EH-13765,2016,"United States","Office Supplies",47.90,0,22.99
+CA-2016-135776,EH-13765,2016,"United States","Office Supplies",61.96,0,30.36
+CA-2016-135776,EH-13765,2016,"United States","Office Supplies",1117.92,0,55.90
+CA-2016-130484,SG-20470,2016,"United States","Office Supplies",26.35,1,-18.45
+US-2016-148901,MK-17905,2016,"United States","Office Supplies",57.58,1,-44.15
+US-2016-148901,MK-17905,2016,"United States","Office Supplies",31.10,0,10.89
+US-2016-148901,MK-17905,2016,"United States",Furniture,30.19,0,8.30
+US-2016-148901,MK-17905,2016,"United States",Technology,43.60,0,4.36
+US-2016-148901,MK-17905,2016,"United States","Office Supplies",4.77,0,0.42
+CA-2016-111409,PO-18850,2016,"United States","Office Supplies",3.00,0,1.05
+US-2016-148901,MK-17905,2016,"United States","Office Supplies",10.38,1,-7.61
+CA-2016-116232,AC-10450,2016,"United States","Office Supplies",7.51,1,-6.00
+US-2016-148901,MK-17905,2016,"United States","Office Supplies",13.39,1,-9.82
+CA-2016-116232,AC-10450,2016,"United States","Office Supplies",16.56,0,5.80
+CA-2016-151372,JH-15985,2016,"United States","Office Supplies",11.68,0,3.94
+CA-2016-116547,KB-16585,2016,"United States",Furniture,79.92,0,34.37
+CA-2016-151372,JH-15985,2016,"United States","Office Supplies",4.36,0,1.79
+CA-2016-116547,KB-16585,2016,"United States",Technology,69.98,0,13.30
+CA-2016-125815,DL-13330,2016,"United States","Office Supplies",12.42,0,5.22
+CA-2016-133550,KL-16645,2016,"United States","Office Supplies",283.14,0,72.36
+CA-2016-133550,KL-16645,2016,"United States",Technology,635.96,0,165.35
+CA-2016-133550,KL-16645,2016,"United States",Technology,118.99,0,33.32
+CA-2016-160304,BM-11575,2016,"United States",Furniture,173.94,0,38.27
+CA-2016-133550,KL-16645,2016,"United States",Furniture,272.94,0,30.02
+CA-2016-160304,BM-11575,2016,"United States",Technology,231.98,0,67.27
+CA-2016-155138,JM-15580,2016,"United States",Technology,35.17,0,8.35
+CA-2016-155138,JM-15580,2016,"United States","Office Supplies",64.70,0,23.46
+CA-2016-108350,SC-20230,2016,"United States","Office Supplies",105.52,0,48.54
+CA-2016-166226,TC-21535,2016,"United States",Technology,61.19,0,6.12
+CA-2016-166226,TC-21535,2016,"United States","Office Supplies",67.84,0,18.32
+CA-2016-141180,DP-13000,2016,"United States","Office Supplies",7.76,1,-5.18
+CA-2016-133795,JE-15475,2016,"United States",Technology,72.64,0,21.79
+CA-2016-133795,JE-15475,2016,"United States",Technology,772.47,0,146.77
+CA-2016-133795,JE-15475,2016,"United States",Furniture,39.92,0,11.18
+US-2016-153815,KL-16555,2016,"United States",Furniture,207.98,0,-28.60
+US-2016-153815,KL-16555,2016,"United States","Office Supplies",36.11,0,12.64
+US-2016-153815,KL-16555,2016,"United States",Furniture,35.57,0,5.78
+US-2016-153815,KL-16555,2016,"United States","Office Supplies",88.77,0,31.07
+CA-2016-164896,PS-19045,2016,"United States","Office Supplies",12.90,0,6.32
+CA-2016-151372,JH-15985,2016,"United States","Office Supplies",96.08,0,46.12
+US-2016-131114,RW-19630,2016,"United States","Office Supplies",20.57,0,1.54
+US-2016-131114,RW-19630,2016,"United States","Office Supplies",4.36,1,-11.76
+US-2016-131114,RW-19630,2016,"United States",Technology,19.04,0,-1.43
+CA-2016-109925,IM-15070,2016,"United States","Office Supplies",84.84,0,22.91
+CA-2016-149279,CL-12700,2016,"United States","Office Supplies",15.55,0,5.44
+CA-2016-149279,CL-12700,2016,"United States",Furniture,1325.76,0,149.15
+CA-2016-155166,BB-11545,2016,"United States",Furniture,212.94,0,25.55
+CA-2016-149279,CL-12700,2016,"United States","Office Supplies",3.11,1,-2.18
+CA-2016-155166,BB-11545,2016,"United States","Office Supplies",26.49,0,7.42
+CA-2016-158694,AI-10855,2016,"United States","Office Supplies",67.71,0,32.50
+CA-2016-147970,AB-10150,2016,"United States","Office Supplies",15.55,0,5.44
+CA-2016-158694,AI-10855,2016,"United States","Office Supplies",129.92,0,38.98
+CA-2016-150658,MS-17365,2016,"United States","Office Supplies",10.78,0,3.37
+CA-2016-158694,AI-10855,2016,"United States",Furniture,467.46,0,191.66
+CA-2016-158694,AI-10855,2016,"United States","Office Supplies",61.40,0,28.86
+CA-2016-158694,AI-10855,2016,"United States","Office Supplies",720.76,0,187.40
+CA-2016-158694,AI-10855,2016,"United States","Office Supplies",5.18,0,1.81
+CA-2016-158694,AI-10855,2016,"United States","Office Supplies",14.70,0,3.97
+CA-2016-151323,AB-10255,2016,"United States","Office Supplies",17.05,0,8.18
+CA-2016-128972,TS-21430,2016,"United States",Furniture,30.36,0,13.05
+CA-2016-111213,FP-14320,2016,"United States",Furniture,1317.49,0,292.78
+CA-2016-111213,FP-14320,2016,"United States","Office Supplies",63.84,0,18.51
+CA-2016-111213,FP-14320,2016,"United States","Office Supplies",3.59,0,1.12
+CA-2016-145898,CM-12445,2016,"United States","Office Supplies",35.40,0,13.45
+CA-2016-145898,CM-12445,2016,"United States","Office Supplies",29.90,0,13.46
+CA-2016-119865,AS-10090,2016,"United States","Office Supplies",36.56,0,12.80
+CA-2016-119865,AS-10090,2016,"United States","Office Supplies",186.14,0,60.50
+CA-2016-119865,AS-10090,2016,"United States",Furniture,353.57,0,-44.20
+CA-2016-111143,TT-21265,2016,"United States","Office Supplies",54.96,0,15.94
+CA-2016-116561,EB-14110,2016,"United States","Office Supplies",332.94,0,6.66
+CA-2016-116561,EB-14110,2016,"United States","Office Supplies",39.87,0,12.96
+CA-2016-110730,CM-11815,2016,"United States","Office Supplies",13.68,0,3.69
+CA-2016-149454,KM-16375,2016,"United States","Office Supplies",10.44,0,4.80
+CA-2016-156265,BF-11020,2016,"United States",Furniture,136.46,0,15.35
+CA-2016-156265,BF-11020,2016,"United States",Technology,333.58,0,33.36
+CA-2016-156265,BF-11020,2016,"United States","Office Supplies",12.54,0,4.70
+US-2016-169369,EC-14050,2016,"United States",Technology,249.95,0,20.00
+US-2016-169369,EC-14050,2016,"United States","Office Supplies",49.12,0,23.09
+CA-2016-115378,AJ-10945,2016,"United States",Furniture,301.96,0,33.22
+CA-2016-130078,CC-12145,2016,"United States","Office Supplies",10.56,0,4.75
+CA-2016-129238,SC-20050,2016,"United States",Technology,109.59,0,8.22
+CA-2016-129238,SC-20050,2016,"United States","Office Supplies",56.70,0,27.78
+CA-2016-122903,LA-16780,2016,"United States",Furniture,3504.90,0,700.98
+CA-2016-136126,EH-14125,2016,"United States","Office Supplies",69.50,0,20.16
+CA-2016-122903,LA-16780,2016,"United States","Office Supplies",144.12,0,69.18
+CA-2016-136126,EH-14125,2016,"United States","Office Supplies",191.60,0,91.97
+CA-2016-122903,LA-16780,2016,"United States","Office Supplies",314.55,0,150.98
+CA-2016-155033,CC-12475,2016,"United States","Office Supplies",10.56,0,5.07
+CA-2016-148908,JH-15985,2016,"United States","Office Supplies",53.25,0,19.97
+CA-2016-123015,AJ-10795,2016,"United States","Office Supplies",4.99,0,1.68
+US-2016-158309,PA-19060,2016,"United States","Office Supplies",3.74,1,-2.62
+CA-2016-103982,AA-10315,2016,"United States","Office Supplies",3930.07,0,-786.01
+CA-2016-106656,DV-13045,2016,"United States","Office Supplies",4.08,0,1.92
+CA-2016-103982,AA-10315,2016,"United States","Office Supplies",2.30,0,0.78
+CA-2016-103982,AA-10315,2016,"United States",Technology,431.98,0,32.40
+CA-2016-106656,DV-13045,2016,"United States","Office Supplies",18.90,0,8.69
+CA-2016-113831,AH-10690,2016,"United States",Furniture,2275.50,0,386.84
+CA-2016-103982,AA-10315,2016,"United States",Technology,41.72,0,5.74
+CA-2016-123932,YC-21895,2016,"United States","Office Supplies",41.92,0,15.20
+CA-2016-120796,CS-11950,2016,"United States","Office Supplies",99.85,1,-83.21
+CA-2016-113831,AH-10690,2016,"United States",Technology,1979.70,0,653.30
+CA-2016-123932,YC-21895,2016,"United States",Technology,329.58,0,37.08
+CA-2016-113831,AH-10690,2016,"United States","Office Supplies",62.10,0,29.81
+CA-2016-109722,TP-21130,2016,"United States",Technology,699.98,0,195.99
+US-2016-101616,CY-12745,2016,"United States","Office Supplies",87.28,0,41.02
+CA-2016-109722,TP-21130,2016,"United States","Office Supplies",584.82,0,70.18
+US-2016-168410,BV-11245,2016,"United States",Furniture,68.95,0,28.96
+CA-2016-138037,AR-10540,2016,"United States","Office Supplies",27.24,0,9.53
+US-2016-168410,BV-11245,2016,"United States","Office Supplies",296.37,0,80.02
+US-2016-168410,BV-11245,2016,"United States",Technology,39.98,0,2.00
+CA-2016-122017,CD-11920,2016,"United States",Furniture,70.56,0,23.99
+CA-2016-122017,CD-11920,2016,"United States","Office Supplies",81.96,0,22.95
+CA-2016-107790,EH-13990,2016,"United States",Technology,151.19,0,13.23
+CA-2016-123414,SU-20665,2016,"United States","Office Supplies",9.22,0,3.34
+CA-2016-123414,SU-20665,2016,"United States","Office Supplies",28.05,0,3.51
+CA-2016-154060,DL-12865,2016,"United States",Furniture,187.06,0,11.69
+CA-2016-145898,CM-12445,2016,"United States","Office Supplies",51.45,0,13.89
+CA-2016-136021,JM-15580,2016,"United States","Office Supplies",15.54,0,7.61
+CA-2016-136021,JM-15580,2016,"United States",Technology,105.55,0,35.62
+CA-2016-145898,CM-12445,2016,"United States","Office Supplies",7.83,0,3.60
+CA-2016-149195,DM-13525,2016,"United States","Office Supplies",25.92,0,9.07
+CA-2016-149195,DM-13525,2016,"United States","Office Supplies",15.81,0,5.34
+CA-2016-149195,DM-13525,2016,"United States","Office Supplies",10.37,0,3.76
+US-2016-151827,CS-11950,2016,"United States",Technology,280.78,0,-60.84
+US-2016-151827,CS-11950,2016,"United States",Technology,31.98,0,1.20
+US-2016-163258,PF-19225,2016,"United States","Office Supplies",11.23,0,3.93
+CA-2016-153598,NM-18520,2016,"United States",Technology,1649.95,0,659.98
+CA-2016-153598,NM-18520,2016,"United States",Furniture,111.90,0,51.47
+US-2016-108497,MH-17290,2016,"United States",Furniture,599.17,0,35.25
+CA-2016-111941,BD-11620,2016,"United States","Office Supplies",33.57,0,11.75
+CA-2016-113096,SZ-20035,2016,"United States","Office Supplies",46.53,0,12.10
+CA-2016-123120,CV-12295,2016,"United States",Furniture,63.94,0,24.94
+CA-2016-123120,CV-12295,2016,"United States","Office Supplies",60.60,0,20.45
+CA-2016-123120,CV-12295,2016,"United States","Office Supplies",22.72,0,6.59
+US-2016-147340,EB-13750,2016,"United States",Furniture,63.20,0,23.38
+CA-2016-145492,MC-17605,2016,"United States","Office Supplies",39.00,0,11.31
+CA-2016-163202,BM-11650,2016,"United States","Office Supplies",2.91,1,-2.03
+CA-2016-117681,HF-14995,2016,"United States",Furniture,556.67,0,6.55
+CA-2016-167115,EH-14185,2016,"United States","Office Supplies",588.78,0,184.00
+CA-2016-128307,BE-11335,2016,"United States","Office Supplies",20.94,0,7.07
+US-2016-127425,DR-12880,2016,"United States",Technology,33.00,0,8.25
+US-2016-127425,DR-12880,2016,"United States",Technology,249.95,0,87.48
+US-2016-162026,JE-15745,2016,"United States","Office Supplies",61.96,0,27.88
+CA-2016-150000,PG-18820,2016,"United States","Office Supplies",17.92,0,8.60
+CA-2016-140613,KN-16705,2016,"United States","Office Supplies",86.20,0,25.00
+US-2016-138408,KC-16255,2016,"United States",Technology,1319.96,0,527.98
+CA-2016-110982,CK-12205,2016,"United States","Office Supplies",21.55,0,7.00
+CA-2016-110982,CK-12205,2016,"United States","Office Supplies",58.24,0,15.72
+CA-2016-147123,SJ-20125,2016,"United States","Office Supplies",80.28,0,36.93
+CA-2016-122448,DB-13210,2016,"United States",Furniture,122.35,0,13.76
+CA-2016-136686,RF-19840,2016,"United States",Furniture,383.64,0,122.76
+CA-2016-158547,JM-16195,2016,"United States","Office Supplies",123.92,0,9.29
+CA-2016-136686,RF-19840,2016,"United States","Office Supplies",56.52,0,15.83
+US-2016-167472,CK-12595,2016,"United States",Technology,179.94,0,75.57
+US-2016-167472,CK-12595,2016,"United States",Technology,26.85,0,5.10
+US-2016-167472,CK-12595,2016,"United States",Technology,323.37,0,129.35
+CA-2016-161158,PS-18970,2016,"United States","Office Supplies",8.00,0,3.44
+US-2016-167472,CK-12595,2016,"United States","Office Supplies",59.94,0,28.17
+US-2016-167472,CK-12595,2016,"United States","Office Supplies",64.14,0,30.79
+US-2016-167472,CK-12595,2016,"United States","Office Supplies",11.67,0,5.60
+CA-2016-121356,SJ-20500,2016,"United States","Office Supplies",128.40,0,62.92
+US-2016-167472,CK-12595,2016,"United States","Office Supplies",12.96,0,6.22
+CA-2016-115224,DB-13615,2016,"United States","Office Supplies",34.05,0,9.53
+CA-2016-115224,DB-13615,2016,"United States","Office Supplies",352.38,0,81.05
+CA-2016-134936,ES-14080,2016,"United States",Furniture,455.97,1,-218.87
+CA-2016-134936,ES-14080,2016,"United States","Office Supplies",10.44,1,-7.66
+US-2016-124163,SC-20695,2016,"United States",Technology,499.95,0,174.98
+US-2016-124163,SC-20695,2016,"United States","Office Supplies",3.04,0,1.03
+US-2016-124163,SC-20695,2016,"United States",Furniture,201.96,0,50.49
+US-2016-124163,SC-20695,2016,"United States",Furniture,68.64,0,17.16
+CA-2016-134936,ES-14080,2016,"United States","Office Supplies",5.21,1,-4.17
+CA-2016-121748,VW-21775,2016,"United States",Technology,100.00,0,21.00
+CA-2016-121748,VW-21775,2016,"United States",Technology,359.98,0,21.60
+CA-2016-117919,TB-21355,2016,"United States","Office Supplies",14.16,0,1.06
+US-2016-146066,RB-19465,2016,"United States",Furniture,815.29,0,-339.71
+CA-2016-117919,TB-21355,2016,"United States","Office Supplies",79.92,0,27.97
+CA-2016-134516,FM-14215,2016,"United States",Furniture,17.09,0,1.07
+CA-2016-101742,CR-12580,2016,"United States","Office Supplies",10.53,0,3.68
+CA-2016-134516,FM-14215,2016,"United States",Furniture,98.39,0,-11.07
+CA-2016-147431,AB-10105,2016,"United States","Office Supplies",117.96,0,5.90
+US-2016-143280,TZ-21580,2016,"United States",Technology,445.96,0,55.75
+CA-2016-126165,AH-10465,2016,"United States",Furniture,71.09,0,-1.78
+CA-2016-158001,JP-15460,2016,"United States","Office Supplies",21.30,0,8.73
+US-2016-143280,TZ-21580,2016,"United States",Technology,36.24,0,15.22
+CA-2016-127985,DB-12910,2016,"United States",Furniture,7.04,0,3.10
+CA-2016-158001,JP-15460,2016,"United States","Office Supplies",1040.80,0,281.02
+US-2016-143280,TZ-21580,2016,"United States","Office Supplies",10.65,0,5.01
+CA-2016-158001,JP-15460,2016,"United States","Office Supplies",29.34,0,7.92
+CA-2016-143441,EB-14170,2016,"United States","Office Supplies",11.84,0,4.44
+CA-2016-125661,CA-12055,2016,"United States","Office Supplies",40.75,0,15.28
+CA-2016-125850,FP-14320,2016,"United States","Office Supplies",20.65,0,9.50
+CA-2016-125661,CA-12055,2016,"United States",Technology,139.96,0,-22.74
+CA-2016-118514,LC-17050,2016,"United States",Furniture,866.40,0,225.26
+CA-2016-153157,TB-21625,2016,"United States",Technology,224.75,0,62.93
+US-2016-111528,JP-16135,2016,"United States","Office Supplies",481.32,0,125.14
+US-2016-111528,JP-16135,2016,"United States","Office Supplies",6.38,0,2.15
+CA-2016-145261,AH-10120,2016,"United States","Office Supplies",45.24,1,-30.16
+CA-2016-145261,AH-10120,2016,"United States","Office Supplies",18.69,0,2.34
+CA-2016-145261,AH-10120,2016,"United States","Office Supplies",11.65,0,3.79
+CA-2016-149685,PM-19135,2016,"United States","Office Supplies",60.14,0,20.30
+CA-2016-145261,AH-10120,2016,"United States",Technology,112.78,0,-8.46
+CA-2016-145261,AH-10120,2016,"United States",Furniture,377.45,1,-264.22
+CA-2016-145261,AH-10120,2016,"United States","Office Supplies",15.94,0,5.18
+CA-2016-145261,AH-10120,2016,"United States",Technology,28.68,0,-7.17
+CA-2016-122063,MM-17920,2016,"United States",Furniture,581.96,0,104.75
+CA-2016-108875,CL-12700,2016,"United States",Furniture,21.44,0,7.50
+CA-2016-122063,MM-17920,2016,"United States",Furniture,29.98,0,8.09
+CA-2016-108875,CL-12700,2016,"United States","Office Supplies",511.06,0,-95.82
+CA-2016-142895,BP-11290,2016,"United States","Office Supplies",6.26,0,2.04
+CA-2016-117408,TP-21130,2016,"United States","Office Supplies",23.97,0,2.40
+CA-2016-142895,BP-11290,2016,"United States",Furniture,363.92,0,0.00
+CA-2016-142398,BP-11290,2016,"United States",Furniture,638.29,0,-31.91
+CA-2016-142398,BP-11290,2016,"United States","Office Supplies",13.21,0,4.62
+CA-2016-105277,LM-17065,2016,"United States","Office Supplies",15.53,0,5.82
+CA-2016-165820,DW-13585,2016,"United States","Office Supplies",12.96,0,6.22
+CA-2016-112060,KT-16465,2016,"United States","Office Supplies",104.85,0,50.33
+CA-2016-141957,JG-15310,2016,"United States","Office Supplies",18.66,0,1.40
+CA-2016-141957,JG-15310,2016,"United States","Office Supplies",11.09,1,-8.13
+CA-2016-141957,JG-15310,2016,"United States","Office Supplies",66.69,0,4.17
+CA-2016-141957,JG-15310,2016,"United States","Office Supplies",99.49,0,8.71
+CA-2016-142405,SE-20110,2016,"United States","Office Supplies",14.62,0,6.87
+CA-2016-142405,SE-20110,2016,"United States","Office Supplies",53.98,0,17.54
+CA-2016-142405,SE-20110,2016,"United States",Technology,389.97,0,132.59
+CA-2016-146318,MC-17275,2016,"United States","Office Supplies",12.96,0,6.22
+CA-2017-156139,BP-11155,2016,"United States","Office Supplies",38.38,0,13.43
+CA-2016-143924,SC-20680,2016,"United States","Office Supplies",20.44,0,9.20
+CA-2016-143924,SC-20680,2016,"United States","Office Supplies",109.92,0,53.86
+CA-2016-141551,BP-11230,2016,"United States","Office Supplies",6.38,0,2.93
+CA-2016-113733,LH-16900,2016,"United States",Technology,249.58,0,31.20
+CA-2016-113733,LH-16900,2016,"United States",Technology,68.11,0,17.88
+CA-2016-141551,BP-11230,2016,"United States","Office Supplies",6.48,0,3.11
+CA-2016-113733,LH-16900,2016,"United States",Technology,16.56,0,-2.48
+CA-2016-125850,FP-14320,2016,"United States","Office Supplies",44.40,0,22.20
+CA-2016-101525,CM-12235,2016,"United States","Office Supplies",109.92,0,53.86
+CA-2016-101525,CM-12235,2016,"United States","Office Supplies",19.44,0,9.33
+CA-2016-101525,CM-12235,2016,"United States","Office Supplies",11.16,0,4.35
+CA-2016-166625,JM-15580,2016,"United States","Office Supplies",25.06,0,11.78
+CA-2016-158211,BP-11185,2016,"United States","Office Supplies",4.67,0,0.58
+CA-2016-127138,DK-13225,2016,"United States","Office Supplies",676.55,0,6.77
+CA-2016-158211,BP-11185,2016,"United States","Office Supplies",104.58,1,-80.18
+CA-2016-152247,MA-17995,2016,"United States",Furniture,1603.14,0,100.20
+CA-2016-127138,DK-13225,2016,"United States","Office Supplies",154.90,0,40.27
+CA-2016-146157,RD-19720,2016,"United States","Office Supplies",38.43,0,13.45
+CA-2016-128223,EB-13705,2016,"United States",Furniture,1293.49,0,80.84
+CA-2016-127138,DK-13225,2016,"United States","Office Supplies",30.56,0,14.97
+CA-2016-146157,RD-19720,2016,"United States","Office Supplies",21.57,0,1.62
+CA-2016-154235,RD-19900,2016,"United States",Furniture,127.95,0,21.75
+CA-2016-127138,DK-13225,2016,"United States",Furniture,770.35,0,77.04
+CA-2016-146157,RD-19720,2016,"United States",Technology,81.58,0,2.04
+CA-2016-167682,ZD-21925,2016,"United States",Furniture,71.12,0,22.05
+CA-2016-167682,ZD-21925,2016,"United States",Technology,259.96,0,124.78
+CA-2016-133319,MV-17485,2016,"United States","Office Supplies",192.16,0,92.24
+CA-2016-166912,BE-11335,2016,"United States","Office Supplies",81.98,0,40.17
+CA-2016-133935,JW-15220,2016,"United States",Furniture,801.57,0,50.10
+CA-2016-159639,PC-18745,2016,"United States",Furniture,31.56,0,10.41
+CA-2016-133935,JW-15220,2016,"United States","Office Supplies",368.91,0,180.77
+CA-2016-133935,JW-15220,2016,"United States",Furniture,885.53,0,-99.62
+CA-2016-136301,EH-13765,2016,"United States",Furniture,28.28,0,7.35
+CA-2016-136301,EH-13765,2016,"United States","Office Supplies",4912.59,0,196.50
+CA-2016-135636,DB-13615,2016,"United States","Office Supplies",387.72,0,-67.85
+CA-2016-114895,MV-18190,2016,"United States","Office Supplies",12.96,0,6.35
+CA-2016-157364,LT-17110,2016,"United States","Office Supplies",18.48,0,6.01
+CA-2016-163776,JS-16030,2016,"United States",Furniture,185.58,0,76.09
+US-2016-112970,TB-21250,2016,"United States","Office Supplies",9.84,0,2.85
+CA-2016-163776,JS-16030,2016,"United States","Office Supplies",77.56,0,35.68
+CA-2016-163776,JS-16030,2016,"United States","Office Supplies",87.92,0,0.88
+CA-2016-101168,SS-20140,2016,"United States",Furniture,21.12,0,6.55
+CA-2016-163776,JS-16030,2016,"United States","Office Supplies",245.94,0,120.51
+CA-2016-163776,JS-16030,2016,"United States","Office Supplies",8.60,0,4.04
+CA-2016-163776,JS-16030,2016,"United States",Furniture,504.90,0,126.23
+CA-2016-131205,AA-10645,2016,"United States",Furniture,42.60,0,16.61
+CA-2016-131205,AA-10645,2016,"United States","Office Supplies",113.94,0,54.69
+CA-2016-162187,NS-18640,2016,"United States","Office Supplies",64.96,0,-4.06
+CA-2016-131205,AA-10645,2016,"United States","Office Supplies",129.92,0,5.20
+CA-2016-131205,AA-10645,2016,"United States","Office Supplies",5.28,0,2.53
+CA-2016-162187,NS-18640,2016,"United States","Office Supplies",13.52,0,1.69
+CA-2016-162187,NS-18640,2016,"United States",Furniture,458.43,0,-137.53
+CA-2016-162187,NS-18640,2016,"United States","Office Supplies",387.14,0,24.20
+CA-2016-162187,NS-18640,2016,"United States",Furniture,328.59,0,-147.87
+CA-2016-117912,TB-21520,2016,"United States",Furniture,14.37,0,3.95
+CA-2016-154662,BF-11215,2016,"United States",Furniture,692.94,0,173.24
+CA-2016-152765,LS-17245,2016,"United States","Office Supplies",173.49,0,54.22
+CA-2016-124016,JS-15940,2016,"United States","Office Supplies",11.95,0,4.03
+CA-2016-124016,JS-15940,2016,"United States",Furniture,28.00,0,7.70
+CA-2016-124016,JS-15940,2016,"United States","Office Supplies",12.20,1,-9.76
+CA-2016-113551,NF-18385,2016,"United States","Office Supplies",2.07,1,-3.41
+CA-2016-113551,NF-18385,2016,"United States","Office Supplies",83.84,0,30.39
+CA-2016-149783,DL-13315,2016,"United States","Office Supplies",12.19,0,4.11
+CA-2016-149783,DL-13315,2016,"United States","Office Supplies",87.17,0,8.72
+CA-2016-149783,DL-13315,2016,"United States","Office Supplies",31.74,0,8.33
+CA-2016-125017,KB-16240,2016,"United States",Furniture,132.22,0,-18.18
+CA-2016-151561,PG-18820,2016,"United States",Technology,468.90,0,206.32
+CA-2016-151561,PG-18820,2016,"United States",Technology,72.48,0,30.44
+CA-2016-151561,PG-18820,2016,"United States","Office Supplies",10.95,0,3.29
+CA-2016-151561,PG-18820,2016,"United States",Furniture,191.82,0,61.38
+US-2016-132577,JE-15475,2016,"United States","Office Supplies",6.22,1,-9.63
+US-2016-132577,JE-15475,2016,"United States","Office Supplies",23.62,0,2.66
+US-2016-132577,JE-15475,2016,"United States",Technology,24.03,0,-0.60
+US-2016-113985,KD-16495,2016,"United States","Office Supplies",24.70,0,9.26
+US-2016-132577,JE-15475,2016,"United States","Office Supplies",2.09,0,0.68
+US-2016-132577,JE-15475,2016,"United States","Office Supplies",4.49,1,-6.73
+CA-2016-104150,AG-10330,2016,"United States","Office Supplies",81.54,0,38.32
+US-2016-113985,KD-16495,2016,"United States","Office Supplies",59.70,0,26.87
+CA-2016-104150,AG-10330,2016,"United States",Technology,167.28,0,23.42
+US-2016-113985,KD-16495,2016,"United States",Furniture,14.52,0,5.66
+CA-2016-161025,GM-14440,2016,"United States","Office Supplies",772.68,0,108.18
+US-2016-113985,KD-16495,2016,"United States","Office Supplies",104.18,0,33.86
+CA-2016-155383,SC-20680,2016,"United States","Office Supplies",46.53,0,13.03
+CA-2016-150007,AS-10090,2016,"United States","Office Supplies",6.00,0,2.10
+CA-2016-150007,AS-10090,2016,"United States","Office Supplies",1.91,1,-3.24
+CA-2016-124590,SP-20920,2016,"United States",Furniture,1474.80,0,-21.07
+CA-2016-141523,MH-17440,2016,"United States","Office Supplies",34.25,0,11.56
+CA-2016-124590,SP-20920,2016,"United States","Office Supplies",110.10,0,33.03
+CA-2016-141523,MH-17440,2016,"United States","Office Supplies",3.52,0,1.02
+CA-2016-124590,SP-20920,2016,"United States","Office Supplies",16.75,0,5.44
+CA-2016-124590,SP-20920,2016,"United States",Furniture,1537.07,0,0.00
+CA-2016-124590,SP-20920,2016,"United States",Furniture,449.37,0,-12.84
+CA-2016-133802,SP-20650,2016,"United States","Office Supplies",41.90,0,14.14
+CA-2016-130288,DK-13225,2016,"United States",Furniture,313.18,0,-120.05
+US-2016-113677,CM-12655,2016,"United States",Technology,2279.96,0,592.79
+US-2016-113677,CM-12655,2016,"United States","Office Supplies",14.94,0,6.87
+CA-2016-124100,EH-13990,2016,"United States",Furniture,328.00,0,54.67
+CA-2016-103107,RB-19465,2016,"United States",Furniture,25.40,0,8.64
+CA-2016-103107,RB-19465,2016,"United States",Technology,177.48,0,19.97
+CA-2016-103107,RB-19465,2016,"United States",Technology,71.98,0,9.00
+CA-2016-148096,AO-10810,2016,"United States",Furniture,161.28,0,12.10
+CA-2016-151092,VG-21790,2016,"United States",Technology,211.17,0,18.48
+CA-2016-146766,TT-21220,2016,"United States","Office Supplies",192.80,0,55.91
+US-2016-142251,FO-14305,2016,"United States","Office Supplies",32.06,0,11.22
+CA-2016-143609,DB-13270,2016,"United States",Furniture,403.92,0,25.25
+CA-2016-157259,JM-15535,2016,"United States",Furniture,799.56,0,207.89
+CA-2016-161928,AC-10660,2016,"United States",Technology,201.58,0,12.60
+US-2016-106600,RM-19375,2016,"United States",Furniture,354.90,0,88.73
+CA-2016-148208,BT-11530,2016,"United States",Technology,110.38,0,-20.24
+CA-2016-148208,BT-11530,2016,"United States",Technology,55.18,0,15.86
+CA-2016-159016,KF-16285,2016,"United States","Office Supplies",14.90,0,7.15
+CA-2016-159016,KF-16285,2016,"United States",Technology,4158.91,0,363.90
+CA-2016-118332,PK-19075,2016,"United States",Furniture,563.92,0,7.05
+CA-2016-144400,AC-10420,2016,"United States","Office Supplies",57.58,0,21.59
+US-2016-155180,TB-21280,2016,"United States","Office Supplies",26.34,0,9.22
+US-2016-156692,HG-15025,2016,"United States","Office Supplies",17.34,0,4.68
+US-2016-131912,LH-17155,2016,"United States","Office Supplies",11.74,0,3.82
+US-2016-156692,HG-15025,2016,"United States",Technology,71.98,0,15.12
+CA-2016-133669,SV-20935,2016,"United States",Technology,235.15,0,-47.03
+CA-2016-165561,CR-12580,2016,"United States","Office Supplies",25.35,0,7.61
+CA-2016-133697,CM-12445,2016,"United States","Office Supplies",51.02,0,15.94
+CA-2016-133697,CM-12445,2016,"United States","Office Supplies",25.25,0,7.89
+CA-2016-133697,CM-12445,2016,"United States",Furniture,56.69,0,-14.58
+CA-2016-163328,TP-21565,2016,"United States","Office Supplies",17.58,0,-4.18
+CA-2016-163328,TP-21565,2016,"United States",Furniture,104.78,0,-14.41
+CA-2016-163328,TP-21565,2016,"United States","Office Supplies",47.95,0,16.78
+CA-2016-103919,TP-21565,2016,"United States",Furniture,38.08,1,-29.51
+CA-2016-113425,JK-16120,2016,"United States",Furniture,113.57,0,12.78
+CA-2016-132479,MK-17905,2016,"United States","Office Supplies",442.37,1,-729.91
+CA-2016-163328,TP-21565,2016,"United States",Furniture,650.35,0,-97.55
+CA-2016-163328,TP-21565,2016,"United States","Office Supplies",629.18,0,228.08
+US-2016-115952,JH-15910,2016,"United States","Office Supplies",28.85,0,14.43
+CA-2016-163328,TP-21565,2016,"United States","Office Supplies",15.18,0,5.31
+CA-2016-163216,AW-10930,2016,"United States","Office Supplies",4.93,0,1.72
+US-2016-116442,BP-11230,2016,"United States",Furniture,14.76,0,4.28
+CA-2016-127236,TB-21595,2016,"United States",Furniture,299.98,1,-167.99
+CA-2016-127236,TB-21595,2016,"United States",Technology,158.38,0,-36.95
+US-2016-139087,DK-13375,2016,"United States",Furniture,12.42,0,4.47
+US-2016-139087,DK-13375,2016,"United States",Technology,428.40,0,89.96
+US-2016-139087,DK-13375,2016,"United States",Furniture,24.75,0,10.89
+CA-2016-129126,PK-19075,2016,"United States","Office Supplies",14.62,0,6.73
+US-2016-139087,DK-13375,2016,"United States","Office Supplies",87.71,0,41.22
+CA-2016-129126,PK-19075,2016,"United States","Office Supplies",5.76,0,2.82
+US-2016-139087,DK-13375,2016,"United States","Office Supplies",69.52,0,17.38
+CA-2016-129126,PK-19075,2016,"United States","Office Supplies",21.48,0,10.53
+US-2016-139087,DK-13375,2016,"United States",Technology,20.78,0,-4.68
+CA-2016-129126,PK-19075,2016,"United States",Furniture,396.92,0,198.46
+US-2016-139087,DK-13375,2016,"United States","Office Supplies",12.82,0,4.17
+CA-2016-129126,PK-19075,2016,"United States","Office Supplies",17.15,0,4.63
+CA-2016-129126,PK-19075,2016,"United States","Office Supplies",23.12,0,7.80
+CA-2016-165995,BG-11740,2016,"United States",Furniture,47.04,0,15.99
+CA-2016-100944,EH-13765,2016,"United States","Office Supplies",304.90,0,143.30
+CA-2016-165995,BG-11740,2016,"United States",Technology,339.96,0,42.50
+CA-2016-100944,EH-13765,2016,"United States",Furniture,563.24,0,56.32
+CA-2016-125080,VW-21775,2016,"United States",Furniture,661.18,0,-231.41
+CA-2016-121020,CG-12040,2016,"United States",Technology,239.98,0,18.00
+US-2017-105830,DB-13660,2016,"United States","Office Supplies",156.51,0,-35.22
+CA-2016-143714,CC-12370,2016,"United States",Technology,8399.98,0,1120.00
+CA-2016-143714,CC-12370,2016,"United States","Office Supplies",6.29,1,-4.20
+CA-2016-143714,CC-12370,2016,"United States","Office Supplies",10.37,0,3.63
+CA-2016-143714,CC-12370,2016,"United States",Technology,122.38,0,-24.48
+CA-2016-113845,FA-14230,2016,"United States","Office Supplies",39.72,0,4.47
+CA-2016-113845,FA-14230,2016,"United States",Technology,244.77,0,24.48
+CA-2016-101161,BW-11110,2016,"United States","Office Supplies",34.70,0,12.49
+CA-2016-101161,BW-11110,2016,"United States","Office Supplies",99.87,0,23.97
+CA-2016-101161,BW-11110,2016,"United States","Office Supplies",37.94,0,18.21
+CA-2016-101161,BW-11110,2016,"United States","Office Supplies",24.90,0,11.45
+CA-2016-101161,BW-11110,2016,"United States",Furniture,82.26,0,33.73
+CA-2016-152331,LD-16855,2016,"United States","Office Supplies",5.30,0,0.46
+US-2016-128909,SP-20545,2016,"United States","Office Supplies",19.14,0,5.98
+CA-2016-111976,BD-11620,2016,"United States",Technology,108.58,0,-25.33
+US-2016-128909,SP-20545,2016,"United States",Furniture,332.83,0,-24.96
+CA-2016-111976,BD-11620,2016,"United States","Office Supplies",5.98,0,-1.35
+CA-2016-140130,HW-14935,2016,"United States","Office Supplies",21.96,0,6.15
+CA-2016-140130,HW-14935,2016,"United States",Furniture,368.97,0,81.17
+CA-2016-140130,HW-14935,2016,"United States","Office Supplies",12.39,0,3.47
+US-2016-155404,AS-10630,2016,"United States",Furniture,13.28,0,6.37
+CA-2016-140130,HW-14935,2016,"United States","Office Supplies",332.94,0,9.99
+CA-2016-163804,DB-13270,2016,"United States","Office Supplies",2079.40,0,582.23
+CA-2016-129308,CC-12100,2016,"United States","Office Supplies",10.08,0,3.28
+CA-2016-163804,DB-13270,2016,"United States",Technology,629.95,0,176.39
+CA-2016-163804,DB-13270,2016,"United States",Furniture,72.42,0,23.90
+CA-2016-129308,CC-12100,2016,"United States",Technology,59.99,0,-13.00
+CA-2016-160220,JS-16030,2016,"United States",Technology,125.70,0,35.20
+CA-2016-129308,CC-12100,2016,"United States","Office Supplies",5.72,1,-4.76
+CA-2016-129308,CC-12100,2016,"United States","Office Supplies",9.42,1,-7.85
+CA-2016-160220,JS-16030,2016,"United States",Technology,191.98,0,51.83
+CA-2016-157791,CA-11965,2016,"United States",Technology,1999.96,0,899.98
+CA-2016-160220,JS-16030,2016,"United States","Office Supplies",20.86,0,1.46
+CA-2016-113292,DB-13060,2016,"United States","Office Supplies",871.80,0,87.18
+CA-2016-160941,DK-12835,2016,"United States","Office Supplies",3.15,0,1.51
+CA-2016-105081,JE-15715,2016,"United States",Furniture,698.35,0,52.38
+CA-2016-105081,JE-15715,2016,"United States",Furniture,1747.25,0,629.01
+US-2016-146857,BE-11455,2016,"United States","Office Supplies",54.48,0,15.25
+CA-2016-166275,SS-20590,2016,"United States",Technology,199.99,0,86.00
+CA-2016-161543,RD-19720,2016,"United States","Office Supplies",11.96,0,5.86
+CA-2016-113845,FA-14230,2016,"United States",Furniture,289.57,0,10.86
+CA-2016-160535,BP-11050,2016,"United States","Office Supplies",563.40,0,67.61
+CA-2016-160535,BP-11050,2016,"United States",Technology,319.92,0,118.37
+US-2016-155103,JF-15190,2016,"United States","Office Supplies",415.18,0,134.93
+US-2016-155103,JF-15190,2016,"United States","Office Supplies",35.23,0,11.45
+US-2016-155103,JF-15190,2016,"United States","Office Supplies",54.96,0,26.93
+CA-2016-169887,MS-17530,2016,"United States","Office Supplies",6.68,0,3.21
+CA-2016-169887,MS-17530,2016,"United States","Office Supplies",8.34,0,2.25
+US-2016-127334,MP-18175,2016,"United States",Furniture,564.20,1,-304.67
+CA-2016-169887,MS-17530,2016,"United States",Furniture,101.94,0,30.58
+US-2016-127334,MP-18175,2016,"United States","Office Supplies",87.17,0,8.72
+CA-2016-148516,DW-13585,2016,"United States",Technology,179.97,0,86.39
+CA-2016-112277,SC-20695,2016,"United States",Technology,519.68,0,58.46
+CA-2016-149503,SP-20650,2016,"United States","Office Supplies",273.92,0,99.30
+CA-2016-126795,GT-14710,2016,"United States","Office Supplies",33.57,0,11.75
+CA-2016-134789,CK-12325,2016,"United States","Office Supplies",30.00,0,14.40
+CA-2016-134789,CK-12325,2016,"United States","Office Supplies",25.92,0,12.70
+CA-2016-134789,CK-12325,2016,"United States",Furniture,159.92,0,31.98
+CA-2016-115483,JS-15880,2016,"United States","Office Supplies",219.84,0,79.69
+CA-2016-148852,SV-20785,2016,"United States","Office Supplies",5.94,0,0.00
+CA-2016-148852,SV-20785,2016,"United States","Office Supplies",45.36,0,21.77
+CA-2016-148852,SV-20785,2016,"United States",Technology,211.17,0,23.76
+CA-2016-148852,SV-20785,2016,"United States",Furniture,484.70,0,-84.82
+CA-2016-148852,SV-20785,2016,"United States",Technology,371.98,0,116.24
+CA-2016-168921,AG-10495,2016,"United States","Office Supplies",19.30,0,6.03
+CA-2016-123512,MV-18190,2016,"United States",Furniture,239.67,0,14.10
+CA-2016-123512,MV-18190,2016,"United States","Office Supplies",22.50,0,10.80
+CA-2016-123512,MV-18190,2016,"United States","Office Supplies",219.84,0,107.72
+US-2016-163538,SS-20515,2016,"United States",Technology,47.97,0,14.87
+CA-2016-144764,RL-19615,2016,"United States","Office Supplies",29.24,0,9.87
+CA-2016-144764,RL-19615,2016,"United States","Office Supplies",35.17,0,-8.35
+CA-2016-144764,RL-19615,2016,"United States",Technology,1362.90,0,-19.47
+CA-2016-118689,TC-20980,2016,"United States","Office Supplies",33.96,0,9.51
+CA-2016-140438,PW-19030,2016,"United States",Technology,197.97,0,53.45
+CA-2016-153101,PJ-19015,2016,"United States",Furniture,146.04,0,-12.78
+CA-2016-142615,BM-11575,2016,"United States",Technology,27.88,0,3.90
+CA-2016-119018,CW-11905,2016,"United States","Office Supplies",7.71,0,2.80
+CA-2016-119018,CW-11905,2016,"United States","Office Supplies",4.18,0,1.31
+CA-2016-119018,CW-11905,2016,"United States","Office Supplies",38.88,0,18.66
+US-2016-152373,PT-19090,2016,"United States","Office Supplies",93.46,0,-17.52
+CA-2016-123946,AJ-10795,2016,"United States",Technology,20.70,0,1.66
+US-2016-147711,HF-14995,2016,"United States",Furniture,344.94,0,31.04
+CA-2016-123946,AJ-10795,2016,"United States","Office Supplies",11.34,0,5.22
+CA-2016-123946,AJ-10795,2016,"United States","Office Supplies",67.90,0,0.68
+CA-2016-123946,AJ-10795,2016,"United States",Furniture,1059.12,0,307.14
+US-2016-159093,RS-19420,2016,"United States","Office Supplies",32.04,0,14.42
+US-2016-147711,HF-14995,2016,"United States",Furniture,14.76,0,4.28
+CA-2016-162110,NP-18670,2016,"United States",Technology,55.99,0,3.50
+US-2016-163461,BT-11440,2016,"United States","Office Supplies",76.86,0,26.90
+US-2016-147711,HF-14995,2016,"United States","Office Supplies",12.76,0,5.87
+US-2016-147711,HF-14995,2016,"United States","Office Supplies",58.48,0,27.49
+US-2016-100461,JO-15145,2016,"United States",Furniture,1565.88,0,407.13
+US-2016-100461,JO-15145,2016,"United States","Office Supplies",106.05,0,49.84
+CA-2016-160941,DK-12835,2016,"United States","Office Supplies",419.90,0,197.35
+US-2016-126452,SC-20230,2016,"United States","Office Supplies",12.67,0,4.75
+US-2016-126452,SC-20230,2016,"United States",Technology,91.96,0,-20.69
+US-2016-126452,SC-20230,2016,"United States",Technology,254.97,0,91.79
+US-2016-126452,SC-20230,2016,"United States",Technology,31.98,0,-8.00
+US-2016-126452,SC-20230,2016,"United States",Furniture,2887.06,0,180.44
+US-2016-126452,SC-20230,2016,"United States","Office Supplies",12.96,0,6.22
+US-2016-126452,SC-20230,2016,"United States","Office Supplies",47.52,0,21.38
+CA-2016-145009,RF-19345,2016,"United States","Office Supplies",11.95,0,3.88
+CA-2016-124527,IM-15055,2016,"United States","Office Supplies",8.32,0,2.81
+CA-2016-162348,BF-11170,2016,"United States",Furniture,9.98,0,2.79
+US-2016-121013,MM-17920,2016,"United States","Office Supplies",25.06,0,11.78
+CA-2016-140249,SW-20455,2016,"United States",Technology,1001.58,0,125.20
+CA-2016-130442,SF-20065,2016,"United States","Office Supplies",34.94,0,3.06
+US-2016-121013,MM-17920,2016,"United States",Furniture,1652.94,0,314.06
+CA-2016-128811,SF-20200,2016,"United States","Office Supplies",10.47,0,4.82
+CA-2016-109827,LW-16825,2016,"United States",Furniture,35.45,1,-24.10
+CA-2016-128811,SF-20200,2016,"United States","Office Supplies",11.07,0,5.20
+CA-2016-109827,LW-16825,2016,"United States",Technology,269.97,1,-386.96
+CA-2016-128811,SF-20200,2016,"United States","Office Supplies",20.70,0,7.76
+CA-2016-109827,LW-16825,2016,"United States",Technology,45.12,0,-7.90
+CA-2016-109827,LW-16825,2016,"United States",Technology,100.80,0,21.42
+CA-2016-165827,MF-17665,2016,"United States",Furniture,50.50,0,8.21
+CA-2016-109827,LW-16825,2016,"United States",Furniture,47.97,0,4.20
+CA-2016-105473,BM-11785,2016,"United States","Office Supplies",28.80,0,0.86
+CA-2016-123358,BT-11680,2016,"United States","Office Supplies",113.76,0,44.37
+CA-2016-123358,BT-11680,2016,"United States","Office Supplies",579.51,0,81.13
+CA-2016-123358,BT-11680,2016,"United States","Office Supplies",150.66,0,6.03
+CA-2016-157161,JD-15895,2016,"United States","Office Supplies",22.32,0,5.58
+CA-2016-123358,BT-11680,2016,"United States","Office Supplies",48.03,0,15.61
+CA-2016-140046,KM-16660,2016,"United States","Office Supplies",18.90,0,8.69
+CA-2016-157161,JD-15895,2016,"United States","Office Supplies",24.10,0,11.09
+CA-2016-140382,RD-19900,2016,"United States","Office Supplies",93.68,0,25.29
+CA-2016-157161,JD-15895,2016,"United States",Technology,75.98,0,18.24
+CA-2016-140382,RD-19900,2016,"United States","Office Supplies",21.93,0,10.31
+CA-2016-157161,JD-15895,2016,"United States","Office Supplies",6.46,0,3.17
+CA-2016-140382,RD-19900,2016,"United States",Technology,862.34,0,97.01
+CA-2016-157161,JD-15895,2016,"United States","Office Supplies",60.12,0,28.86
+CA-2016-140382,RD-19900,2016,"United States","Office Supplies",19.98,0,9.39
+CA-2016-163937,JB-16000,2016,"United States",Furniture,24.85,0,7.70
+CA-2016-129847,TA-21385,2016,"United States",Furniture,84.27,1,-75.84
+CA-2016-154767,BP-11155,2016,"United States",Furniture,121.96,0,20.73
+CA-2016-154767,BP-11155,2016,"United States","Office Supplies",8.74,0,2.27
+US-2016-119298,EP-13915,2016,"United States",Technology,59.98,0,17.99
+CA-2016-154767,BP-11155,2016,"United States","Office Supplies",61.96,0,27.88
+CA-2016-154767,BP-11155,2016,"United States","Office Supplies",7.96,0,3.74
+CA-2016-125094,NP-18700,2016,"United States",Technology,479.72,0,52.77
+CA-2016-154767,BP-11155,2016,"United States","Office Supplies",275.24,0,121.11
+CA-2016-116526,JA-15970,2016,"United States","Office Supplies",24.10,0,11.09
+CA-2016-116526,JA-15970,2016,"United States",Technology,8.78,0,2.28
+CA-2016-116526,JA-15970,2016,"United States","Office Supplies",376.74,0,71.16
+CA-2016-116526,JA-15970,2016,"United States","Office Supplies",29.52,0,14.46
+CA-2016-116526,JA-15970,2016,"United States","Office Supplies",11.96,0,2.99
+CA-2016-106243,GM-14680,2016,"United States",Furniture,523.92,0,-26.20
+CA-2016-116526,JA-15970,2016,"United States","Office Supplies",26.40,0,12.67
+CA-2016-162943,DB-12970,2016,"United States",Furniture,253.76,0,31.02
+CA-2016-145548,EB-13750,2016,"United States",Technology,36.00,0,6.48
+CA-2016-145548,EB-13750,2016,"United States","Office Supplies",92.94,0,25.09
+US-2016-134369,BC-11125,2016,"United States","Office Supplies",12.96,0,6.35
+CA-2016-145548,EB-13750,2016,"United States",Furniture,245.65,0,8.19
+CA-2016-145548,EB-13750,2016,"United States","Office Supplies",55.01,0,17.19
+CA-2016-157588,AR-10570,2016,"United States","Office Supplies",36.40,0,17.11
+CA-2016-145548,EB-13750,2016,"United States","Office Supplies",35.23,0,11.45
+CA-2016-157588,AR-10570,2016,"United States",Furniture,51.75,0,15.53
+CA-2016-157161,JD-15895,2016,"United States","Office Supplies",10.20,0,4.79
+CA-2016-101980,RP-19390,2016,"United States","Office Supplies",25.32,0,9.18
+CA-2016-160136,PJ-18835,2016,"United States","Office Supplies",9.25,0,3.35
+CA-2016-144337,SG-20890,2016,"United States","Office Supplies",19.65,0,6.63
+CA-2016-119515,TR-21325,2016,"United States","Office Supplies",15.55,0,5.44
+CA-2016-165330,WB-21850,2016,"United States","Office Supplies",209.60,0,68.12
+CA-2016-165330,WB-21850,2016,"United States","Office Supplies",23.32,0,6.06
+CA-2016-165330,WB-21850,2016,"United States","Office Supplies",30.98,0,13.94
+CA-2016-165330,WB-21850,2016,"United States",Technology,119.96,0,25.19
+CA-2016-165330,WB-21850,2016,"United States",Furniture,363.92,0,-31.84
+CA-2016-109666,KM-16720,2016,"United States",Technology,25.98,0,0.78
+CA-2016-165330,WB-21850,2016,"United States","Office Supplies",35.81,0,11.19
+CA-2016-109666,KM-16720,2016,"United States","Office Supplies",3.28,0,1.48
+CA-2016-165330,WB-21850,2016,"United States","Office Supplies",122.69,0,39.87
+CA-2016-165330,WB-21850,2016,"United States",Furniture,892.14,0,111.52
+CA-2016-109666,KM-16720,2016,"United States","Office Supplies",459.88,0,13.80
+CA-2016-165330,WB-21850,2016,"United States","Office Supplies",50.22,0,2.01
+CA-2016-109666,KM-16720,2016,"United States","Office Supplies",7.76,0,2.25
+CA-2016-165330,WB-21850,2016,"United States","Office Supplies",83.42,0,24.19
+CA-2016-109666,KM-16720,2016,"United States","Office Supplies",71.96,0,17.99
+CA-2016-165330,WB-21850,2016,"United States","Office Supplies",5.87,0,2.13
+CA-2016-109666,KM-16720,2016,"United States","Office Supplies",54.90,0,15.37
+CA-2016-109666,KM-16720,2016,"United States","Office Supplies",9.28,0,3.25
+CA-2016-157742,KL-16645,2016,"United States","Office Supplies",27.79,0,10.42
+US-2016-102239,LW-16990,2016,"United States",Furniture,1685.88,0,320.32
+US-2016-154256,SM-20005,2016,"United States","Office Supplies",25.83,0,12.14
+CA-2016-147473,NL-18310,2016,"United States","Office Supplies",38.88,0,18.66
+CA-2016-114209,AS-10285,2016,"United States","Office Supplies",1.96,1,-3.24
+CA-2016-114209,AS-10285,2016,"United States","Office Supplies",82.66,0,31.00
+US-2016-102239,LW-16990,2016,"United States","Office Supplies",5.73,0,2.00
+CA-2016-164490,SU-20665,2016,"United States","Office Supplies",9.25,0,3.35
+CA-2016-112256,CK-12205,2016,"United States","Office Supplies",4.45,0,0.33
+CA-2016-112256,CK-12205,2016,"United States","Office Supplies",5.18,0,1.81
+CA-2016-112256,CK-12205,2016,"United States","Office Supplies",175.92,0,15.39
+CA-2016-112256,CK-12205,2016,"United States","Office Supplies",4.75,1,-8.32
+CA-2016-112256,CK-12205,2016,"United States","Office Supplies",13.34,0,1.00
+US-2016-157840,MC-17575,2016,"United States","Office Supplies",33.90,0,15.59
+CA-2016-167416,JM-15580,2016,"United States","Office Supplies",54.90,0,26.90
+CA-2016-145548,EB-13750,2016,"United States","Office Supplies",28.14,0,7.88
+CA-2016-106950,JE-15715,2016,"United States","Office Supplies",22.91,1,-17.57
+CA-2016-106950,JE-15715,2016,"United States","Office Supplies",309.46,0,34.81
+CA-2016-123176,JG-15160,2016,"United States","Office Supplies",17.94,0,8.79
+CA-2016-106950,JE-15715,2016,"United States","Office Supplies",19.46,0,3.40
+CA-2016-123176,JG-15160,2016,"United States","Office Supplies",13.89,0,4.58
+CA-2016-106950,JE-15715,2016,"United States",Furniture,472.52,0,-149.63
+US-2016-117541,JM-16195,2016,"United States","Office Supplies",16.45,0,7.57
+CA-2016-106950,JE-15715,2016,"United States",Technology,1012.68,0,303.80
+US-2016-117541,JM-16195,2016,"United States",Furniture,19.92,0,6.57
+CA-2016-106950,JE-15715,2016,"United States","Office Supplies",17.22,1,-12.63
+CA-2016-166282,PK-19075,2016,"United States",Technology,35.17,0,8.35
+CA-2016-166282,PK-19075,2016,"United States","Office Supplies",123.09,0,40.00
+CA-2016-139941,CB-12415,2016,"United States","Office Supplies",92.94,0,41.82
+CA-2016-139941,CB-12415,2016,"United States","Office Supplies",52.56,0,18.40
+CA-2016-101980,RP-19390,2016,"United States","Office Supplies",146.69,0,55.01
+CA-2016-101980,RP-19390,2016,"United States","Office Supplies",276.78,0,89.95
+CA-2016-131380,CC-12220,2016,"United States","Office Supplies",87.92,0,0.88
+CA-2016-137337,GB-14575,2016,"United States",Furniture,113.60,0,44.30
+CA-2016-131380,CC-12220,2016,"United States","Office Supplies",5.98,0,2.93
+CA-2016-137337,GB-14575,2016,"United States","Office Supplies",12.96,0,6.35
+CA-2016-137337,GB-14575,2016,"United States","Office Supplies",69.46,0,22.57
+CA-2016-164924,EA-14035,2016,"United States",Technology,341.99,1,-319.19
+CA-2016-101651,SC-20305,2016,"United States",Furniture,43.96,0,18.46
+CA-2016-118689,TC-20980,2016,"United States","Office Supplies",32.48,0,4.87
+CA-2016-101651,SC-20305,2016,"United States","Office Supplies",39.76,0,18.69
+CA-2016-118689,TC-20980,2016,"United States",Technology,17499.95,0,8399.98
+CA-2016-118689,TC-20980,2016,"United States","Office Supplies",735.98,0,331.19
+CA-2016-118689,TC-20980,2016,"United States","Office Supplies",34.37,0,16.84
+CA-2016-127243,DS-13180,2016,"United States","Office Supplies",6.89,1,-5.05
+CA-2016-127243,DS-13180,2016,"United States","Office Supplies",32.54,0,-7.73
+CA-2016-127243,DS-13180,2016,"United States",Furniture,347.80,0,-24.84
+CA-2016-116764,EM-13825,2016,"United States","Office Supplies",9.22,0,3.34
+CA-2016-152457,SC-20695,2016,"United States","Office Supplies",68.52,0,31.52
+CA-2016-152730,EM-14140,2016,"United States","Office Supplies",364.74,0,109.42
+CA-2016-152730,EM-14140,2016,"United States",Furniture,47.40,0,21.33
+CA-2016-144092,LH-17155,2016,"United States",Technology,72.00,0,12.96
+CA-2016-152730,EM-14140,2016,"United States","Office Supplies",49.76,0,13.93
+CA-2016-144092,LH-17155,2016,"United States",Furniture,113.89,0,9.97
+CA-2016-152730,EM-14140,2016,"United States","Office Supplies",5.56,0,1.45
+CA-2016-144092,LH-17155,2016,"United States","Office Supplies",158.13,0,77.48
+CA-2016-152730,EM-14140,2016,"United States","Office Supplies",629.10,0,301.97
+CA-2016-152730,EM-14140,2016,"United States","Office Supplies",14.70,0,3.97
+CA-2016-152730,EM-14140,2016,"United States","Office Supplies",45.36,0,21.77
+CA-2016-152730,EM-14140,2016,"United States",Technology,125.99,0,35.28
+CA-2016-105732,AG-10270,2016,"United States","Office Supplies",40.74,0,0.41
+CA-2016-105732,AG-10270,2016,"United States","Office Supplies",14.40,0,7.06
+CA-2016-121377,TN-21040,2016,"United States",Technology,286.40,0,25.06
+CA-2016-105732,AG-10270,2016,"United States",Technology,149.95,0,41.99
+CA-2016-105732,AG-10270,2016,"United States","Office Supplies",16.90,0,5.07
+CA-2016-105732,AG-10270,2016,"United States","Office Supplies",17.61,0,8.45
+CA-2016-105732,AG-10270,2016,"United States","Office Supplies",378.00,0,136.08
+CA-2016-105732,AG-10270,2016,"United States","Office Supplies",17.64,0,8.64
+CA-2016-105732,AG-10270,2016,"United States","Office Supplies",373.08,0,100.73
+CA-2016-105732,AG-10270,2016,"United States",Furniture,1336.44,0,387.57
+CA-2016-133368,AG-10675,2016,"United States","Office Supplies",89.57,0,32.47
+CA-2016-132066,NB-18655,2016,"United States",Furniture,142.18,0,-37.92
+CA-2016-105732,AG-10270,2016,"United States",Technology,29.97,0,0.30
+CA-2016-133368,AG-10675,2016,"United States",Furniture,315.78,0,31.58
+CA-2016-123337,KD-16495,2016,"United States",Furniture,273.67,0,-12.88
+CA-2016-123337,KD-16495,2016,"United States","Office Supplies",17.48,0,4.54
+CA-2016-158610,CK-12595,2016,"United States","Office Supplies",69.52,0,17.38
+US-2016-150357,EB-13975,2016,"United States","Office Supplies",20.61,0,-4.38
+US-2016-150357,EB-13975,2016,"United States","Office Supplies",4.10,1,-2.73
+CA-2016-157217,TC-21535,2016,"United States",Technology,35.98,0,4.50
+CA-2016-157217,TC-21535,2016,"United States",Technology,389.97,0,132.59
+CA-2016-108224,TH-21235,2016,"United States",Technology,185.53,0,48.70
+CA-2016-110975,DB-12970,2016,"United States",Furniture,313.18,0,-120.05
+CA-2016-110975,DB-12970,2016,"United States",Furniture,866.65,0,173.33
+CA-2016-110009,TR-21325,2016,"United States",Furniture,43.13,0,14.66
+CA-2016-110009,TR-21325,2016,"United States","Office Supplies",30.87,0,14.20
+US-2016-144351,RC-19960,2016,"United States",Technology,89.97,0,25.19
+CA-2016-149965,BS-11365,2016,"United States",Technology,6.90,0,0.55
+CA-2016-149965,BS-11365,2016,"United States",Furniture,57.69,0,23.65
+CA-2016-153661,SC-20725,2016,"United States","Office Supplies",305.01,0,76.25
+CA-2016-153661,SC-20725,2016,"United States","Office Supplies",50.78,0,17.77
+CA-2016-153661,SC-20725,2016,"United States","Office Supplies",26.01,0,12.22
+CA-2016-129728,JG-15310,2016,"United States",Furniture,167.84,0,11.75
+CA-2016-113656,CB-12415,2016,"United States",Furniture,59.99,0,21.60
+CA-2016-138667,MW-18220,2016,"United States",Technology,40.00,0,0.50
+US-2016-114013,SC-20770,2016,"United States",Furniture,386.68,0,-5.52
+US-2016-114013,SC-20770,2016,"United States",Technology,379.96,0,47.50
+US-2016-114013,SC-20770,2016,"United States",Technology,539.91,0,-116.98
+US-2016-114013,SC-20770,2016,"United States","Office Supplies",41.24,0,13.92
+US-2016-114013,SC-20770,2016,"United States","Office Supplies",51.90,1,-41.52
+US-2016-114013,SC-20770,2016,"United States","Office Supplies",552.56,0,-138.14
+CA-2016-164399,DW-13480,2016,"United States",Technology,203.98,0,25.50
+CA-2016-164399,DW-13480,2016,"United States",Furniture,674.35,0,-8.43
+US-2016-114013,SC-20770,2016,"United States","Office Supplies",23.16,1,-15.44
+CA-2016-116918,JK-15205,2016,"United States","Office Supplies",5.39,1,-4.49
+US-2016-114013,SC-20770,2016,"United States","Office Supplies",126.08,0,-28.37
+CA-2016-116918,JK-15205,2016,"United States","Office Supplies",30.98,0,5.03
+US-2016-114013,SC-20770,2016,"United States",Technology,449.10,1,-643.71
+CA-2016-110492,JS-15880,2016,"United States","Office Supplies",1350.12,0,175.52
+CA-2016-110492,JS-15880,2016,"United States","Office Supplies",15.92,0,7.48
+CA-2016-101693,LC-17140,2016,"United States",Furniture,85.25,0,-6.09
+CA-2016-147683,PO-19180,2016,"United States",Furniture,19.54,0,7.23
+CA-2016-101693,LC-17140,2016,"United States",Furniture,32.71,1,-26.17
+CA-2016-104276,HF-14995,2016,"United States",Technology,116.76,0,14.60
+CA-2016-104276,HF-14995,2016,"United States",Furniture,331.02,0,-114.35
+CA-2016-120369,VB-21745,2016,"United States",Furniture,756.80,0,75.68
+CA-2016-143476,LC-16930,2016,"United States","Office Supplies",2.91,0,0.91
+CA-2016-149349,SP-20650,2016,"United States",Furniture,22.75,1,-8.53
+CA-2016-143476,LC-16930,2016,"United States","Office Supplies",20.74,0,7.26
+CA-2016-143476,LC-16930,2016,"United States","Office Supplies",9.57,0,2.99
+US-2016-119046,EH-13765,2016,"United States","Office Supplies",30.18,0,13.88
+US-2016-119046,EH-13765,2016,"United States","Office Supplies",51.65,0,18.72
+US-2016-119046,EH-13765,2016,"United States","Office Supplies",11.23,0,3.93
+CA-2016-109953,RB-19360,2016,"United States",Technology,110.38,0,12.42
+CA-2016-109953,RB-19360,2016,"United States","Office Supplies",151.62,0,50.03
+CA-2016-109953,RB-19360,2016,"United States",Furniture,30.80,0,10.16
+CA-2016-137743,KH-16360,2016,"United States","Office Supplies",9.25,0,3.12
+CA-2016-137743,KH-16360,2016,"United States","Office Supplies",1036.62,0,51.83
+CA-2016-103709,LP-17095,2016,"United States","Office Supplies",14.88,0,3.72
+CA-2016-151974,RD-19660,2016,"United States","Office Supplies",16.52,0,5.37
+CA-2016-114748,MZ-17335,2016,"United States","Office Supplies",1.41,0,0.16
+CA-2016-114748,MZ-17335,2016,"United States",Furniture,169.57,0,0.00
+CA-2016-163594,JF-15295,2016,"United States","Office Supplies",19.44,0,9.33
+CA-2016-138597,PN-18775,2016,"United States",Furniture,563.94,0,112.79
+CA-2016-163594,JF-15295,2016,"United States",Furniture,194.35,0,-36.44
+CA-2016-163594,JF-15295,2016,"United States","Office Supplies",36.62,0,13.73
+CA-2016-127243,DS-13180,2016,"United States",Technology,340.18,0,-73.71
+CA-2016-127243,DS-13180,2016,"United States","Office Supplies",12.67,0,2.69
+CA-2016-158778,DB-13210,2016,"United States",Furniture,58.25,0,11.65
+CA-2016-158778,DB-13210,2016,"United States",Furniture,71.25,0,-19.34
+CA-2016-158778,DB-13210,2016,"United States","Office Supplies",7.87,0,0.59
+CA-2016-158778,DB-13210,2016,"United States",Furniture,887.27,0,-63.38
+US-2016-157490,LB-16795,2016,"United States",Technology,703.71,1,-938.28
+US-2016-157490,LB-16795,2016,"United States","Office Supplies",17.90,1,-14.92
+US-2016-157490,LB-16795,2016,"United States","Office Supplies",11.98,1,-9.18
+US-2016-157490,LB-16795,2016,"United States",Technology,67.96,0,0.85
+CA-2016-138968,FC-14335,2016,"United States","Office Supplies",4.54,0,1.65
+CA-2016-138968,FC-14335,2016,"United States",Furniture,1352.03,0,84.50
+CA-2016-152520,TH-21115,2016,"United States","Office Supplies",12.96,0,6.22
+CA-2016-101791,BS-11665,2016,"United States",Furniture,25.18,1,-33.36
+CA-2016-101791,BS-11665,2016,"United States",Furniture,5.58,1,-1.68
+CA-2016-101791,BS-11665,2016,"United States","Office Supplies",1297.37,0,97.30
+CA-2016-158043,JK-15325,2016,"United States","Office Supplies",23.36,0,11.68
+CA-2016-144309,CM-12235,2016,"United States","Office Supplies",18.54,0,8.71
+CA-2016-144309,CM-12235,2016,"United States","Office Supplies",679.96,0,220.99
+US-2016-140158,DR-12940,2016,"United States","Office Supplies",30.40,0,13.98
+US-2016-140158,DR-12940,2016,"United States",Technology,5399.91,0,2591.96
+US-2016-140158,DR-12940,2016,"United States","Office Supplies",119.10,0,34.54
+CA-2016-162383,MD-17350,2016,"United States","Office Supplies",8.95,1,-7.46
+CA-2016-162383,MD-17350,2016,"United States","Office Supplies",8.86,1,-6.49
+CA-2016-162383,MD-17350,2016,"United States",Furniture,85.25,0,-1.22
+CA-2016-103709,LP-17095,2016,"United States","Office Supplies",34.24,0,15.41
+CA-2016-107146,LC-16885,2016,"United States",Furniture,266.35,0,-13.32
+CA-2016-103709,LP-17095,2016,"United States","Office Supplies",261.74,0,65.44
+CA-2016-107146,LC-16885,2016,"United States",Furniture,483.14,0,54.35
+CA-2016-138282,AH-10690,2016,"United States","Office Supplies",87.84,0,23.72
+CA-2016-114601,AA-10480,2016,"United States","Office Supplies",11.56,0,5.66
+CA-2016-114601,AA-10480,2016,"United States",Technology,209.97,0,58.79
+CA-2016-114601,AA-10480,2016,"United States",Furniture,447.84,0,98.52
+CA-2016-114601,AA-10480,2016,"United States",Technology,479.97,0,163.19
+CA-2016-106460,GT-14710,2016,"United States","Office Supplies",70.88,0,33.31
+CA-2016-114601,AA-10480,2016,"United States","Office Supplies",8.64,0,2.51
+CA-2016-139997,EM-14140,2016,"United States",Technology,1499.95,0,449.99
+CA-2016-109652,QJ-19255,2016,"United States","Office Supplies",13.57,0,3.22
+CA-2016-136595,EM-13825,2016,"United States",Furniture,21.20,1,-11.66
+CA-2016-169838,BB-11545,2016,"United States",Furniture,1568.61,0,329.41
+CA-2016-169838,BB-11545,2016,"United States","Office Supplies",17.30,0,8.30
+CA-2016-124583,LB-16795,2016,"United States","Office Supplies",12.78,0,5.75
+CA-2016-169838,BB-11545,2016,"United States",Technology,160.00,0,62.40
+CA-2016-118899,MC-17275,2016,"United States",Furniture,167.89,0,14.69
+CA-2016-113978,TS-21505,2016,"United States","Office Supplies",286.26,0,17.89
+CA-2016-113978,TS-21505,2016,"United States","Office Supplies",24.22,0,-4.84
+CA-2016-113978,TS-21505,2016,"United States","Office Supplies",331.54,0,-82.88
+CA-2016-106915,GA-14515,2016,"United States","Office Supplies",17.86,0,4.24
+US-2016-109260,TN-21040,2016,"United States",Technology,431.98,0,-75.60
+CA-2016-165673,MN-17935,2016,"United States","Office Supplies",15.23,0,5.52
+US-2016-106313,DG-13300,2016,"United States","Office Supplies",19.44,0,9.33
+CA-2016-155978,TS-21205,2016,"United States",Technology,1039.73,0,90.98
+CA-2016-155978,TS-21205,2016,"United States","Office Supplies",45.96,0,13.79
+CA-2016-105746,BD-11605,2016,"United States",Furniture,170.79,0,0.00
+CA-2016-108196,CS-12505,2016,"United States","Office Supplies",456.59,1,-304.39
+US-2016-104815,RB-19570,2016,"United States",Furniture,198.74,0,0.00
+CA-2016-108196,CS-12505,2016,"United States",Technology,4499.99,1,-6599.98
+CA-2016-108196,CS-12505,2016,"United States",Technology,59.98,0,12.00
+US-2016-166660,TB-21250,2016,"United States",Furniture,435.17,0,-59.84
+CA-2016-152800,SP-20920,2016,"United States","Office Supplies",6.12,0,2.88
+US-2016-166660,TB-21250,2016,"United States",Furniture,48.58,0,7.77
+CA-2016-133613,CP-12340,2016,"United States","Office Supplies",7.96,0,3.74
+CA-2016-133613,CP-12340,2016,"United States",Technology,566.97,0,153.08
+CA-2016-116603,AT-10735,2016,"United States","Office Supplies",45.96,0,13.79
+CA-2016-133613,CP-12340,2016,"United States","Office Supplies",9.84,0,2.85
+CA-2016-139381,RF-19840,2016,"United States","Office Supplies",203.92,0,55.06
+CA-2016-139381,RF-19840,2016,"United States",Technology,29.56,0,7.98
+CA-2016-112585,RW-19630,2016,"United States","Office Supplies",715.64,0,178.91
+CA-2016-149762,RD-19720,2016,"United States",Furniture,268.70,0,6.72
+CA-2016-149762,RD-19720,2016,"United States","Office Supplies",21.92,0,5.92
+CA-2016-149762,RD-19720,2016,"United States","Office Supplies",48.72,0,7.31
+CA-2016-149762,RD-19720,2016,"United States",Furniture,205.67,0,-12.10
+CA-2016-167605,RB-19570,2016,"United States",Furniture,30.34,1,-31.86
+CA-2016-158925,JP-15460,2016,"United States","Office Supplies",15.55,0,5.44
+CA-2016-128706,DW-13540,2016,"United States",Furniture,16.19,1,-6.88
+CA-2016-104311,AS-10090,2016,"United States","Office Supplies",18.94,0,-3.79
+CA-2016-104311,AS-10090,2016,"United States","Office Supplies",12.67,0,-3.17
+CA-2016-104311,AS-10090,2016,"United States","Office Supplies",5.04,0,1.76
+CA-2016-125843,RF-19840,2016,"United States","Office Supplies",22.32,0,10.71
+CA-2016-125843,RF-19840,2016,"United States","Office Supplies",103.60,0,51.80
+CA-2016-162236,ER-13855,2016,"United States","Office Supplies",45.25,0,3.96
+CA-2016-162236,ER-13855,2016,"United States",Furniture,876.30,0,-292.10
+CA-2016-162236,ER-13855,2016,"United States","Office Supplies",185.38,0,-34.76
+CA-2016-120082,DK-12835,2016,"United States","Office Supplies",59.52,0,17.86
+US-2016-168095,MC-17425,2016,"United States",Furniture,230.28,0,23.03
+US-2016-168095,MC-17425,2016,"United States","Office Supplies",105.52,0,34.29
+US-2016-117037,LW-17215,2016,"United States","Office Supplies",2.89,1,-4.77
+US-2016-117037,LW-17215,2016,"United States","Office Supplies",7.90,0,2.47
+US-2016-117037,LW-17215,2016,"United States",Furniture,22.61,1,-10.17
+US-2016-117037,LW-17215,2016,"United States","Office Supplies",30.53,0,9.54
+CA-2016-108364,BP-11050,2016,"United States","Office Supplies",1.80,1,-2.88
+CA-2016-146325,DS-13180,2016,"United States",Furniture,81.42,0,-9.16
+CA-2016-136994,LS-17245,2016,"United States","Office Supplies",13.38,0,6.15
+CA-2016-146325,DS-13180,2016,"United States","Office Supplies",134.80,0,35.05
+CA-2016-101672,DB-12910,2016,"United States","Office Supplies",6.16,0,2.96
+CA-2016-101672,DB-12910,2016,"United States",Furniture,915.14,0,102.95
+CA-2016-101672,DB-12910,2016,"United States","Office Supplies",8.56,0,3.85
+CA-2016-101672,DB-12910,2016,"United States","Office Supplies",97.82,0,45.98
+CA-2016-160241,DR-12940,2016,"United States",Furniture,242.18,1,-302.72
+US-2016-137295,VS-21820,2016,"United States","Office Supplies",30.83,1,-24.66
+CA-2016-155747,JS-15685,2016,"United States",Furniture,337.18,0,-118.01
+US-2016-137295,VS-21820,2016,"United States","Office Supplies",47.62,0,5.95
+US-2016-137295,VS-21820,2016,"United States",Technology,108.78,0,10.88
+CA-2016-134334,DK-13090,2016,"United States","Office Supplies",4.77,0,2.15
+CA-2016-134334,DK-13090,2016,"United States","Office Supplies",7.98,0,2.07
+CA-2016-134334,DK-13090,2016,"United States",Furniture,550.43,0,-47.18
+CA-2016-113117,JP-15520,2016,"United States","Office Supplies",32.40,0,15.55
+CA-2016-134334,DK-13090,2016,"United States",Furniture,10.56,0,4.65
+CA-2016-148684,TS-21655,2016,"United States","Office Supplies",19.89,0,5.37
+CA-2016-148684,TS-21655,2016,"United States",Technology,399.98,0,171.99
+CA-2016-138478,DP-13390,2016,"United States","Office Supplies",113.22,0,29.44
+CA-2016-148684,TS-21655,2016,"United States",Furniture,343.85,0,137.54
+CA-2016-138478,DP-13390,2016,"United States","Office Supplies",35.88,0,17.58
+CA-2016-148684,TS-21655,2016,"United States","Office Supplies",106.32,0,49.97
+CA-2016-138478,DP-13390,2016,"United States","Office Supplies",4535.98,0,1644.29
+CA-2016-157707,CC-12610,2016,"United States",Furniture,90.88,1,-190.85
+CA-2016-157707,CC-12610,2016,"United States",Technology,15.99,0,-3.00
+CA-2016-169334,GW-14605,2016,"United States","Office Supplies",111.67,0,6.98
+CA-2016-157707,CC-12610,2016,"United States",Furniture,120.78,0,13.59
+CA-2016-112382,MB-18085,2016,"United States",Technology,19.14,0,1.91
+CA-2016-130393,JM-15865,2016,"United States",Furniture,248.43,0,-17.75
+CA-2016-130393,JM-15865,2016,"United States","Office Supplies",11.65,1,-30.87
+CA-2016-130393,JM-15865,2016,"United States",Furniture,85.25,0,-1.22
+CA-2016-145611,HA-14905,2016,"United States","Office Supplies",393.25,0,129.77
+CA-2016-113600,SH-20395,2016,"United States","Office Supplies",2.21,1,-1.48
+CA-2016-168543,DK-13225,2016,"United States","Office Supplies",706.86,0,197.92
+CA-2016-116722,LP-17080,2016,"United States",Furniture,41.96,0,10.91
+CA-2016-116722,LP-17080,2016,"United States",Furniture,451.15,0,0.00
+CA-2016-116722,LP-17080,2016,"United States","Office Supplies",31.50,0,11.03
+CA-2016-151498,DN-13690,2016,"United States","Office Supplies",8.32,0,2.81
+CA-2016-132997,LW-17215,2016,"United States",Technology,263.96,0,71.27
+CA-2016-137939,PJ-19015,2016,"United States",Technology,89.95,0,43.18
+CA-2016-132997,LW-17215,2016,"United States",Technology,359.97,0,100.79
+US-2016-117793,MA-17560,2016,"United States","Office Supplies",25.20,0,11.59
+CA-2016-132997,LW-17215,2016,"United States","Office Supplies",12.96,0,6.22
+US-2016-117793,MA-17560,2016,"United States","Office Supplies",37.59,0,17.67
+CA-2016-132997,LW-17215,2016,"United States","Office Supplies",116.82,0,5.84
+CA-2016-118073,CS-12490,2016,"United States",Furniture,562.29,0,-255.59
+US-2016-117793,MA-17560,2016,"United States","Office Supplies",14.97,0,4.19
+CA-2016-132997,LW-17215,2016,"United States","Office Supplies",276.78,0,89.95
+US-2016-117793,MA-17560,2016,"United States",Technology,1.98,0,0.89
+CA-2016-133872,VM-21835,2016,"United States","Office Supplies",39.94,1,-26.62
+CA-2016-133872,VM-21835,2016,"United States",Technology,18.46,0,2.31
+CA-2016-102561,NK-18490,2016,"United States","Office Supplies",11.26,0,1.27
+CA-2016-102561,NK-18490,2016,"United States","Office Supplies",284.08,0,24.86
+US-2016-164945,CA-12055,2016,"United States","Office Supplies",134.27,0,47.00
+CA-2016-139808,MC-18100,2016,"United States","Office Supplies",93.36,0,0.93
+CA-2016-102561,NK-18490,2016,"United States","Office Supplies",18.50,0,6.70
+CA-2016-100993,AZ-10750,2016,"United States","Office Supplies",14.73,0,7.22
+CA-2016-100993,AZ-10750,2016,"United States","Office Supplies",186.54,0,50.37
+CA-2016-100993,AZ-10750,2016,"United States",Furniture,557.73,0,6.97
+CA-2016-105753,LC-16960,2016,"United States",Furniture,61.10,0,18.33
+CA-2016-100993,AZ-10750,2016,"United States",Technology,159.97,0,-31.99
+CA-2016-106621,DM-12955,2016,"United States","Office Supplies",10.50,0,1.18
+US-2016-131058,EM-14140,2016,"United States","Office Supplies",20.16,0,9.88
+CA-2016-131296,MS-17830,2016,"United States",Furniture,239.37,0,-23.94
+CA-2016-169663,RH-19510,2016,"United States",Technology,26.85,0,5.10
+CA-2016-103464,PG-18820,2016,"United States",Technology,595.00,0,95.20
+CA-2016-169663,RH-19510,2016,"United States",Technology,3357.60,0,377.73
+CA-2016-166373,JF-15565,2016,"United States",Technology,106.08,0,-9.28
+CA-2016-158806,NM-18520,2016,"United States",Furniture,23.08,1,-10.96
+CA-2016-120803,RB-19465,2016,"United States",Technology,199.75,0,87.89
+CA-2016-158806,NM-18520,2016,"United States","Office Supplies",25.92,0,9.07
+CA-2016-134138,JD-15790,2016,"United States",Furniture,227.96,0,36.47
+CA-2016-114944,HE-14800,2016,"United States","Office Supplies",156.51,0,52.82
+CA-2016-135965,SZ-20035,2016,"United States","Office Supplies",128.34,0,37.22
+CA-2016-166429,TG-21310,2016,"United States",Technology,999.98,0,449.99
+CA-2016-128671,MT-18070,2016,"United States","Office Supplies",77.56,0,35.68
+CA-2016-149335,BC-11125,2016,"United States","Office Supplies",37.17,0,11.15
+CA-2016-144148,AH-10690,2016,"United States",Furniture,863.13,0,-32.37
+CA-2016-133816,CS-12400,2016,"United States",Technology,743.99,0,-124.00
+CA-2016-146150,FM-14380,2016,"United States","Office Supplies",264.18,0,68.69
+CA-2016-118101,SN-20560,2016,"United States","Office Supplies",368.91,0,180.77
+CA-2016-118101,SN-20560,2016,"United States","Office Supplies",8.02,0,3.77
+CA-2016-134544,AC-10660,2016,"United States",Technology,84.78,0,-20.14
+CA-2016-118101,SN-20560,2016,"United States","Office Supplies",171.04,0,44.47
+CA-2016-163048,MH-17440,2016,"United States",Furniture,241.50,0,0.00
+CA-2016-100307,TC-21475,2016,"United States","Office Supplies",19.44,0,9.33
+CA-2016-145135,CD-12790,2016,"United States",Technology,59.97,0,14.99
+CA-2016-145135,CD-12790,2016,"United States","Office Supplies",13.36,0,6.41
+CA-2016-102596,RD-19810,2016,"United States","Office Supplies",17.18,0,6.23
+US-2016-149790,SC-20380,2016,"United States","Office Supplies",15.62,1,-25.00
+CA-2016-130778,ND-18370,2016,"United States","Office Supplies",8.74,0,2.27
+CA-2016-130778,ND-18370,2016,"United States","Office Supplies",44.75,0,20.59
+CA-2016-142594,EJ-14155,2016,"United States",Technology,137.94,0,35.86
+CA-2016-169670,JE-15715,2016,"United States",Furniture,2563.06,0,313.26
+CA-2016-142594,EJ-14155,2016,"United States",Furniture,111.15,0,48.91
+CA-2016-139549,MY-18295,2016,"United States",Furniture,387.14,0,4.84
+CA-2016-142594,EJ-14155,2016,"United States","Office Supplies",901.95,0,297.64
+CA-2016-142594,EJ-14155,2016,"United States",Furniture,366.01,0,-47.06
+US-2016-139262,LC-16960,2016,"United States","Office Supplies",3.76,1,-2.76
+US-2016-139262,LC-16960,2016,"United States","Office Supplies",34.86,1,-26.73
+US-2016-139262,LC-16960,2016,"United States","Office Supplies",432.46,0,32.43
+CA-2016-153269,PS-18760,2016,"United States","Office Supplies",11.21,0,3.36
+CA-2016-153269,PS-18760,2016,"United States",Furniture,354.90,0,88.73
+CA-2016-153269,PS-18760,2016,"United States","Office Supplies",17.94,0,8.79
+CA-2016-153269,PS-18760,2016,"United States","Office Supplies",51.80,0,23.31
+CA-2016-101469,KH-16360,2016,"United States","Office Supplies",7.70,0,3.16
+CA-2016-154067,SM-20950,2016,"United States","Office Supplies",105.52,0,48.54
+CA-2016-132549,JK-15370,2016,"United States","Office Supplies",73.36,0,19.81
+CA-2016-130820,ON-18715,2016,"United States",Furniture,630.02,0,-199.51
+CA-2016-159765,TH-21100,2016,"United States","Office Supplies",27.86,0,9.19
+CA-2016-147109,AH-10075,2016,"United States","Office Supplies",51.84,0,18.14
+CA-2016-163174,XP-21865,2016,"United States",Furniture,186.54,0,41.04
+CA-2016-166380,EB-13750,2016,"United States","Office Supplies",26.55,0,12.74
+CA-2016-166380,EB-13750,2016,"United States",Technology,111.98,0,26.88
+CA-2016-128671,MT-18070,2016,"United States","Office Supplies",32.40,0,15.55
+CA-2016-127194,BW-11110,2016,"United States","Office Supplies",62.82,0,29.53
+CA-2016-128671,MT-18070,2016,"United States","Office Supplies",41.86,0,19.26
+CA-2016-118745,SV-20365,2016,"United States",Furniture,902.71,0,33.85
+US-2016-155173,JB-16045,2016,"United States",Technology,431.94,0,-71.99
+US-2016-155173,JB-16045,2016,"United States","Office Supplies",2.04,1,-1.50
+CA-2016-163972,MG-17890,2016,"United States",Furniture,120.67,0,21.29
+US-2016-155173,JB-16045,2016,"United States",Technology,68.24,0,-12.51
+CA-2016-113726,SC-20680,2016,"United States",Furniture,82.26,0,33.73
+CA-2016-125087,TH-21115,2016,"United States",Furniture,344.37,0,-93.47
+CA-2016-125087,TH-21115,2016,"United States","Office Supplies",1554.94,0,77.75
+CA-2016-125087,TH-21115,2016,"United States",Furniture,127.88,1,-67.14
+CA-2016-154081,JE-15610,2016,"United States",Technology,222.38,0,22.24
+CA-2016-116337,MC-17845,2016,"United States",Furniture,44.46,1,-17.78
+CA-2016-116337,MC-17845,2016,"United States","Office Supplies",314.09,0,19.63
+CA-2016-168557,FH-14275,2016,"United States","Office Supplies",8.93,0,3.12
+US-2016-164196,AS-10285,2016,"United States",Furniture,2678.94,0,241.10
+CA-2016-104633,EA-14035,2016,"United States","Office Supplies",185.88,0,83.65
+CA-2016-104633,EA-14035,2016,"United States","Office Supplies",12.96,0,6.22
+CA-2016-152940,RO-19780,2016,"United States","Office Supplies",29.74,0,4.46
+CA-2016-123050,BC-11125,2016,"United States",Furniture,82.64,0,7.44
+CA-2016-123050,BC-11125,2016,"United States","Office Supplies",31.02,0,8.07
+CA-2016-123050,BC-11125,2016,"United States",Technology,89.97,0,37.79
+CA-2016-162355,PF-19165,2016,"United States","Office Supplies",35.97,0,9.71
+CA-2016-162355,PF-19165,2016,"United States",Furniture,1266.86,0,291.38
+CA-2016-103359,LC-16885,2016,"United States","Office Supplies",25.58,0,8.95
+US-2016-119270,SW-20245,2016,"United States","Office Supplies",19.98,0,8.99
+CA-2016-138583,DP-13390,2016,"United States","Office Supplies",16.66,0,3.33
+CA-2016-144645,NS-18640,2016,"United States",Furniture,73.78,1,-77.47
+CA-2016-126284,EN-13780,2016,"United States","Office Supplies",83.70,0,41.01
+CA-2016-132899,SF-20200,2016,"United States","Office Supplies",3.64,0,0.98
+CA-2016-147109,AH-10075,2016,"United States",Technology,165.60,0,-6.21
+CA-2016-158841,SE-20110,2016,"United States",Technology,8749.95,0,2799.98
+CA-2016-158841,SE-20110,2016,"United States","Office Supplies",36.40,0,18.20
+CA-2016-111605,JW-15955,2016,"United States","Office Supplies",2.61,0,1.20
+CA-2016-158841,SE-20110,2016,"United States",Furniture,18.69,0,7.10
+CA-2016-141887,MP-17470,2016,"United States",Furniture,54.99,0,8.94
+US-2016-160206,MY-18295,2016,"United States",Technology,12.99,0,0.26
+CA-2016-143154,AS-10225,2016,"United States",Technology,165.60,0,-6.21
+CA-2016-156748,BS-11755,2016,"United States","Office Supplies",33.36,0,16.68
+CA-2016-109400,NR-18550,2016,"United States",Furniture,366.74,0,-110.02
+CA-2016-156748,BS-11755,2016,"United States","Office Supplies",13.76,0,6.33
+CA-2016-156748,BS-11755,2016,"United States","Office Supplies",496.86,0,24.84
+CA-2016-130400,SJ-20125,2016,"United States","Office Supplies",8.86,1,-14.17
+CA-2016-156748,BS-11755,2016,"United States",Furniture,389.97,0,35.10
+CA-2016-130400,SJ-20125,2016,"United States",Technology,27.96,0,8.39
+CA-2016-130400,SJ-20125,2016,"United States","Office Supplies",146.35,0,49.39
+CA-2016-137652,EB-13750,2016,"United States","Office Supplies",18.43,1,-12.29
+US-2016-117387,PA-19060,2016,"United States","Office Supplies",67.14,0,25.18
+CA-2016-113341,MH-17455,2016,"United States",Furniture,194.35,0,19.44
+CA-2016-118129,CL-12565,2016,"United States",Furniture,303.92,0,-30.39
+CA-2016-164574,RH-19555,2016,"United States","Office Supplies",704.76,0,26.43
+CA-2016-119074,DS-13180,2016,"United States",Furniture,20.24,0,8.70
+CA-2016-164574,RH-19555,2016,"United States","Office Supplies",27.40,1,-20.09
+US-2016-116365,CA-12310,2016,"United States",Technology,30.08,0,-5.26
+CA-2016-119074,DS-13180,2016,"United States",Furniture,39.92,0,11.18
+US-2016-116365,CA-12310,2016,"United States",Technology,165.60,0,-6.21
+US-2016-116365,CA-12310,2016,"United States",Technology,180.96,0,13.57
+CA-2016-146437,HG-14965,2016,"United States","Office Supplies",39.68,0,10.32
+CA-2016-119074,DS-13180,2016,"United States","Office Supplies",32.54,0,15.94
+CA-2016-168361,KB-16600,2016,"United States","Office Supplies",0.84,1,-1.34
+CA-2016-138233,PF-19165,2016,"United States",Technology,479.97,0,177.59
+CA-2016-158302,JB-16045,2016,"United States","Office Supplies",10.58,0,3.44
+CA-2016-153185,MH-17620,2016,"United States","Office Supplies",30.96,0,11.22
+CA-2016-165918,BD-11770,2016,"United States","Office Supplies",7.38,0,3.47
+CA-2016-165918,BD-11770,2016,"United States","Office Supplies",14.26,0,4.46
+CA-2016-165918,BD-11770,2016,"United States","Office Supplies",81.98,0,40.17
+CA-2016-165918,BD-11770,2016,"United States","Office Supplies",39.62,0,13.87
+CA-2016-102092,PM-18940,2016,"United States",Furniture,1056.86,0,158.53
+CA-2016-132829,LA-16780,2016,"United States",Technology,453.58,0,39.69
+CA-2016-120824,AW-10930,2016,"United States","Office Supplies",64.38,1,-160.96
+CA-2016-132829,LA-16780,2016,"United States","Office Supplies",45.36,0,14.74
+CA-2016-120824,AW-10930,2016,"United States",Furniture,6.98,1,-4.54
+CA-2016-132829,LA-16780,2016,"United States",Technology,287.88,0,35.99
+CA-2016-120824,AW-10930,2016,"United States","Office Supplies",11.26,0,3.94
+CA-2016-132829,LA-16780,2016,"United States",Technology,131.88,0,14.84
+CA-2016-132829,LA-16780,2016,"United States",Furniture,2.33,1,-0.76
+CA-2016-120824,AW-10930,2016,"United States","Office Supplies",15.55,0,5.64
+CA-2016-120824,AW-10930,2016,"United States",Furniture,379.37,0,-119.23
+CA-2016-120824,AW-10930,2016,"United States","Office Supplies",67.54,0,6.75
+US-2016-114230,CM-12235,2016,"United States","Office Supplies",39.81,0,3.98
+CA-2016-120824,AW-10930,2016,"United States","Office Supplies",1.52,1,-2.67
+CA-2016-123540,DJ-13420,2016,"United States",Furniture,1454.90,0,378.27
+US-2016-135209,MH-17290,2016,"United States","Office Supplies",37.41,0,13.09
+US-2016-135209,MH-17290,2016,"United States","Office Supplies",25.34,0,8.87
+CA-2016-134110,BG-11035,2016,"United States",Technology,67.18,0,6.72
+CA-2016-134110,BG-11035,2016,"United States","Office Supplies",15.23,0,5.52
+US-2016-136581,SV-20365,2016,"United States","Office Supplies",31.10,0,10.89
+CA-2016-162390,DP-13105,2016,"United States","Office Supplies",968.74,0,314.84
+CA-2016-162390,DP-13105,2016,"United States","Office Supplies",222.35,0,77.82
+CA-2016-162390,DP-13105,2016,"United States",Technology,479.98,0,90.00
+CA-2016-162222,SR-20740,2016,"United States","Office Supplies",10.27,0,3.21
+CA-2016-107783,OT-18730,2016,"United States",Furniture,177.45,1,-78.08
+CA-2016-168774,RP-19855,2016,"United States","Office Supplies",535.41,0,160.62
+CA-2016-107783,OT-18730,2016,"United States","Office Supplies",1369.76,1,-913.18
+CA-2016-107783,OT-18730,2016,"United States","Office Supplies",9.48,0,0.71
+CA-2016-102498,JG-15160,2016,"United States","Office Supplies",73.20,0,21.23
+CA-2016-116911,JD-16150,2016,"United States","Office Supplies",20.42,0,6.64
+CA-2016-116911,JD-16150,2016,"United States",Furniture,1128.39,0,259.53
+CA-2016-105662,RB-19465,2016,"United States","Office Supplies",93.25,0,31.47
+CA-2016-105662,RB-19465,2016,"United States",Technology,177.48,0,19.97
+CA-2016-106397,MJ-17740,2016,"United States","Office Supplies",12.96,0,6.22
+CA-2016-106397,MJ-17740,2016,"United States","Office Supplies",45.98,0,12.87
+CA-2016-114307,MF-17665,2016,"United States","Office Supplies",37.68,0,10.55
+US-2016-150140,VM-21685,2016,"United States",Technology,1294.75,0,336.64
+CA-2016-114307,MF-17665,2016,"United States","Office Supplies",51.84,0,24.88
+CA-2016-114307,MF-17665,2016,"United States",Furniture,27.42,0,9.32
+CA-2016-114307,MF-17665,2016,"United States","Office Supplies",5.40,0,2.59
+CA-2016-159891,BF-11170,2016,"United States","Office Supplies",1270.99,0,635.50
+CA-2016-159891,BF-11170,2016,"United States","Office Supplies",125.36,0,58.92
+CA-2016-112578,FO-14305,2016,"United States","Office Supplies",14.03,0,4.07
+CA-2016-112578,FO-14305,2016,"United States","Office Supplies",27.96,0,7.27
+CA-2016-140935,AB-10015,2016,"United States",Technology,221.98,0,62.15
+CA-2016-140935,AB-10015,2016,"United States",Furniture,341.96,0,54.71
+CA-2016-151148,PO-19180,2016,"United States",Technology,146.95,0,9.18
+CA-2016-151148,PO-19180,2016,"United States",Furniture,83.14,0,5.20
+CA-2016-113082,MC-17590,2016,"United States",Furniture,40.48,0,14.57
+CA-2016-163636,MP-18175,2016,"United States","Office Supplies",3.54,0,0.31
+CA-2016-158260,CC-12475,2016,"United States",Technology,686.40,0,77.22
+CA-2016-102813,EA-14035,2016,"United States",Furniture,528.43,0,0.00
+CA-2016-102813,EA-14035,2016,"United States","Office Supplies",41.47,0,14.52
+CA-2016-118500,HJ-14875,2016,"United States","Office Supplies",49.50,0,13.37
+CA-2016-163951,CJ-11875,2016,"United States","Office Supplies",16.52,0,1.65
+US-2016-141264,CT-11995,2016,"United States","Office Supplies",185.38,0,-34.76
+CA-2016-149916,ED-13885,2016,"United States","Office Supplies",55.36,0,19.38
+US-2016-141264,CT-11995,2016,"United States","Office Supplies",58.92,1,-153.20
+CA-2016-149916,ED-13885,2016,"United States",Technology,11.56,0,3.76
+US-2016-140172,SP-20650,2016,"United States","Office Supplies",207.14,0,48.33
+US-2016-140172,SP-20650,2016,"United States","Office Supplies",13.90,0,3.75
+US-2016-144057,CV-12805,2016,"United States","Office Supplies",856.66,0,107.08
+CA-2016-135594,AH-10120,2016,"United States",Technology,50.12,0,-0.63
+US-2016-144057,CV-12805,2016,"United States","Office Supplies",13.18,1,-20.44
+US-2016-144057,CV-12805,2016,"United States","Office Supplies",48.78,1,-131.72
+US-2016-144057,CV-12805,2016,"United States","Office Supplies",76.64,0,26.82
+US-2016-144057,CV-12805,2016,"United States","Office Supplies",18.53,1,-27.79
+CA-2016-112739,RD-19810,2016,"United States","Office Supplies",8.61,1,-13.34
+CA-2016-112739,RD-19810,2016,"United States",Technology,159.56,0,33.91
+CA-2016-143805,JD-15895,2016,"United States","Office Supplies",2104.55,0,694.50
+CA-2016-145709,AH-10690,2016,"United States",Technology,52.68,0,19.76
+CA-2016-147256,FC-14245,2016,"United States",Technology,449.97,0,220.49
+CA-2016-145709,AH-10690,2016,"United States",Furniture,11.57,0,2.60
+CA-2016-143805,JD-15895,2016,"United States","Office Supplies",40.70,0,11.80
+CA-2016-147256,FC-14245,2016,"United States","Office Supplies",1927.59,0,751.76
+CA-2016-162159,CR-12625,2016,"United States",Furniture,121.78,0,30.45
+CA-2016-168032,DF-13135,2016,"United States",Technology,1439.97,0,144.00
+CA-2016-168032,DF-13135,2016,"United States","Office Supplies",1.73,1,-2.68
+CA-2016-167241,BD-11320,2016,"United States",Furniture,312.03,0,43.68
+CA-2016-168032,DF-13135,2016,"United States",Furniture,626.10,1,-538.45
+CA-2016-167241,BD-11320,2016,"United States","Office Supplies",17.94,0,3.05
+CA-2016-155446,TN-21040,2016,"United States",Technology,21.21,0,4.45
+CA-2016-167241,BD-11320,2016,"United States",Technology,165.60,0,10.35
+CA-2016-167241,BD-11320,2016,"United States","Office Supplies",37.52,0,18.01
+CA-2016-144015,AH-10075,2016,"United States","Office Supplies",231.72,0,11.59
+CA-2016-144015,AH-10075,2016,"United States","Office Supplies",17.90,0,8.95
+CA-2016-144015,AH-10075,2016,"United States","Office Supplies",12.48,0,5.62
+CA-2016-150483,BP-11290,2016,"United States",Furniture,32.06,1,-12.83
+CA-2016-150483,BP-11290,2016,"United States","Office Supplies",18.50,0,6.70
+CA-2016-136770,SP-20650,2016,"United States",Technology,259.90,0,-56.31
+CA-2016-150483,BP-11290,2016,"United States",Furniture,191.08,0,-38.22
+CA-2016-102134,SP-20545,2016,"United States",Furniture,16.74,0,4.35
+CA-2016-136770,SP-20650,2016,"United States",Technology,247.19,0,-49.44
+CA-2016-150483,BP-11290,2016,"United States","Office Supplies",10.37,0,3.63
+US-2016-126431,SU-20665,2016,"United States","Office Supplies",30.53,0,14.04
+CA-2016-136770,SP-20650,2016,"United States",Technology,279.96,0,48.99
+US-2016-126431,SU-20665,2016,"United States",Technology,30.84,0,6.17
+CA-2016-118311,ED-13885,2016,"United States",Technology,450.00,0,162.00
+US-2016-126431,SU-20665,2016,"United States","Office Supplies",75.06,0,33.78
+CA-2016-139934,AY-10555,2016,"United States",Technology,66.98,0,6.70
+CA-2016-159023,NW-18400,2016,"United States","Office Supplies",4.16,1,-3.47
+CA-2016-159023,NW-18400,2016,"United States",Technology,179.99,1,-251.99
+CA-2016-110898,LC-16870,2016,"United States","Office Supplies",2.33,1,-6.30
+CA-2016-110898,LC-16870,2016,"United States","Office Supplies",1.73,1,-2.76
+CA-2016-110898,LC-16870,2016,"United States",Furniture,159.04,1,-194.82
+CA-2016-111318,IL-15100,2016,"United States",Technology,115.14,0,11.51
+CA-2016-110898,LC-16870,2016,"United States",Furniture,145.98,1,-99.27
+CA-2016-167983,RP-19270,2016,"United States","Office Supplies",33.44,0,11.70
+CA-2016-157280,LW-17125,2016,"United States",Furniture,273.96,0,71.23
+CA-2016-157280,LW-17125,2016,"United States",Technology,89.97,0,18.89
+CA-2016-157280,LW-17125,2016,"United States",Furniture,756.80,0,75.68
+CA-2016-132304,AR-10825,2016,"United States",Furniture,1115.17,0,334.55
+CA-2016-134180,JP-16135,2016,"United States",Technology,72.00,0,14.40
+CA-2016-101623,RR-19525,2016,"United States","Office Supplies",36.48,0,18.24
+CA-2016-134180,JP-16135,2016,"United States",Furniture,470.16,0,-13.43
+US-2016-112396,JR-16210,2016,"United States",Technology,89.97,0,39.59
+US-2016-112396,JR-16210,2016,"United States",Technology,31.86,0,11.15
+CA-2016-150077,MS-17365,2016,"United States",Technology,90.48,0,23.52
+CA-2016-106278,BM-11140,2016,"United States",Furniture,215.98,0,-2.70
+CA-2016-106278,BM-11140,2016,"United States","Office Supplies",65.94,0,30.99
+CA-2016-142524,MB-18085,2016,"United States","Office Supplies",16.56,0,7.78
+CA-2016-142524,MB-18085,2016,"United States",Technology,279.95,0,67.19
+CA-2016-108105,GW-14605,2016,"United States",Furniture,318.08,0,34.99
+US-2016-155971,RB-19795,2016,"United States","Office Supplies",22.05,0,10.58
+CA-2016-108105,GW-14605,2016,"United States","Office Supplies",5.80,0,2.61
+US-2016-155971,RB-19795,2016,"United States","Office Supplies",99.90,0,46.95
+CA-2016-126102,DV-13465,2016,"United States","Office Supplies",276.78,0,89.95
+CA-2016-143406,LR-17035,2016,"United States","Office Supplies",93.03,1,-251.19
+CA-2016-143406,LR-17035,2016,"United States",Furniture,454.97,0,-136.49
+CA-2016-131093,TS-21610,2016,"United States","Office Supplies",295.40,0,-62.77
+CA-2016-152688,NR-18550,2016,"United States",Furniture,120.98,0,12.10
+CA-2016-152688,NR-18550,2016,"United States","Office Supplies",315.98,0,148.51
+CA-2016-153836,EH-13765,2016,"United States","Office Supplies",28.75,0,10.06
+CA-2016-153836,EH-13765,2016,"United States","Office Supplies",114.95,0,32.19
+CA-2016-104689,FH-14365,2016,"United States","Office Supplies",23.04,0,6.91
+CA-2016-146423,BT-11680,2016,"United States","Office Supplies",15.48,0,4.49
+CA-2016-146423,BT-11680,2016,"United States","Office Supplies",51.84,0,24.88
+CA-2016-152646,TH-21235,2016,"United States","Office Supplies",32.40,0,15.55
+CA-2016-135461,EB-13975,2016,"United States",Technology,623.96,0,39.00
+CA-2016-105354,PW-19030,2016,"United States","Office Supplies",115.84,0,54.44
+CA-2016-121447,EA-14035,2016,"United States",Furniture,135.80,0,66.54
+CA-2016-100510,HM-14860,2016,"United States",Furniture,10.02,0,4.41
+CA-2016-131639,NS-18640,2016,"United States","Office Supplies",13.49,0,4.38
+CA-2016-100510,HM-14860,2016,"United States",Technology,631.96,0,303.34
+CA-2016-131639,NS-18640,2016,"United States","Office Supplies",11.42,0,3.85
+CA-2016-161361,MV-17485,2016,"United States","Office Supplies",17.64,0,8.64
+CA-2016-161361,MV-17485,2016,"United States","Office Supplies",17.04,0,5.54
+CA-2016-113236,CP-12085,2016,"United States","Office Supplies",184.70,0,13.85
+CA-2016-113236,CP-12085,2016,"United States",Technology,47.92,0,11.98
+US-2016-141880,TC-21475,2016,"United States",Furniture,98.33,0,9.83
+CA-2016-166772,HJ-14875,2016,"United States",Furniture,163.88,0,40.97
+CA-2016-102127,VP-21760,2016,"United States",Technology,20.97,0,9.02
+US-2016-158288,EH-13945,2016,"United States","Office Supplies",78.76,1,-57.76
+CA-2016-102127,VP-21760,2016,"United States",Technology,139.96,0,9.80
+CA-2016-160486,EH-14185,2016,"United States","Office Supplies",72.22,0,25.28
+CA-2016-102127,VP-21760,2016,"United States",Furniture,37.74,0,12.83
+US-2016-152415,PO-18865,2016,"United States",Furniture,14.82,0,6.22
+US-2016-152415,PO-18865,2016,"United States",Furniture,191.82,0,61.38
+CA-2016-128916,MA-17560,2016,"United States",Furniture,9.55,1,-3.82
+CA-2016-128916,MA-17560,2016,"United States",Furniture,5.34,1,-2.14
+CA-2016-130911,DC-12850,2016,"United States",Furniture,301.47,1,-241.18
+CA-2016-130911,DC-12850,2016,"United States","Office Supplies",18.66,0,1.63
+CA-2016-117121,AB-10105,2016,"United States","Office Supplies",9892.74,0,4946.37
+CA-2016-124254,TB-21175,2016,"United States","Office Supplies",129.55,0,-22.67
+CA-2016-124254,TB-21175,2016,"United States","Office Supplies",51.98,0,-5.20
+CA-2016-168830,ML-17395,2016,"United States",Technology,479.97,0,163.19
+CA-2016-124254,TB-21175,2016,"United States","Office Supplies",10.27,0,3.47
+CA-2016-139409,FW-14395,2016,"United States",Technology,43.60,0,12.21
+US-2016-102141,KD-16615,2016,"United States","Office Supplies",146.69,0,45.84
+US-2016-165505,CB-12535,2016,"United States",Technology,99.98,0,42.99
+US-2016-111563,SM-20005,2016,"United States",Furniture,11.38,1,-5.69
+US-2016-165505,CB-12535,2016,"United States","Office Supplies",8.04,0,2.73
+US-2016-111563,SM-20005,2016,"United States",Furniture,66.11,1,-84.29
+US-2016-165505,CB-12535,2016,"United States","Office Supplies",1564.29,0,406.72
+CA-2016-161907,JH-16180,2016,"United States",Technology,118.78,0,-27.72
+CA-2016-161907,JH-16180,2016,"United States","Office Supplies",769.18,0,-163.45
+CA-2016-108056,ES-14080,2016,"United States",Technology,859.20,0,75.18
+CA-2016-126732,LR-16915,2016,"United States",Furniture,94.68,0,31.24
+CA-2016-126732,LR-16915,2016,"United States","Office Supplies",23.67,0,0.95
+CA-2016-126732,LR-16915,2016,"United States",Technology,1091.17,0,68.20
+CA-2016-119123,DB-13360,2016,"United States","Office Supplies",51.18,0,19.19
+CA-2016-126732,LR-16915,2016,"United States","Office Supplies",18.69,0,5.23
+CA-2016-126732,LR-16915,2016,"United States",Furniture,568.73,0,28.44
+CA-2016-126732,LR-16915,2016,"United States","Office Supplies",7.31,0,2.56
+CA-2016-103128,SC-20845,2016,"United States","Office Supplies",14.11,0,1.23
+CA-2016-114860,DN-13690,2016,"United States",Furniture,842.72,0,202.25
+CA-2016-105459,NP-18700,2016,"United States",Furniture,209.15,0,-66.23
+CA-2016-114860,DN-13690,2016,"United States",Furniture,41.96,0,10.91
+CA-2016-105459,NP-18700,2016,"United States","Office Supplies",1591.02,0,286.38
+CA-2016-159009,DP-13105,2016,"United States","Office Supplies",13.22,0,4.46
+CA-2016-159009,DP-13105,2016,"United States",Furniture,184.75,0,-20.78
+CA-2016-132990,KM-16660,2016,"United States",Furniture,19.31,0,3.14
+CA-2016-118934,GH-14410,2016,"United States","Office Supplies",4.34,1,-3.04
+CA-2016-118934,GH-14410,2016,"United States","Office Supplies",11.88,1,-7.92
+CA-2016-160108,AG-10900,2016,"United States",Furniture,405.86,0,32.47
+CA-2016-127761,SW-20275,2016,"United States","Office Supplies",3.64,0,1.37
+CA-2016-160108,AG-10900,2016,"United States",Furniture,680.01,0,176.80
+CA-2016-127761,SW-20275,2016,"United States",Technology,881.93,0,220.48
+CA-2016-168046,JD-15895,2016,"United States","Office Supplies",43.12,0,15.09
+CA-2016-168046,JD-15895,2016,"United States",Furniture,313.72,0,-99.35
+CA-2016-168046,JD-15895,2016,"United States",Furniture,45.98,0,7.82
+CA-2016-100300,MJ-17740,2016,"United States",Technology,4476.80,0,503.64
+CA-2016-100300,MJ-17740,2016,"United States","Office Supplies",104.85,0,50.33
+CA-2016-168046,JD-15895,2016,"United States","Office Supplies",428.68,0,0.00
+CA-2016-100300,MJ-17740,2016,"United States","Office Supplies",241.44,0,72.43
+CA-2016-140571,SJ-20125,2016,"United States","Office Supplies",319.76,0,147.09
+US-2016-155768,LB-16795,2016,"United States",Furniture,31.96,0,1.60
+US-2016-155768,LB-16795,2016,"United States","Office Supplies",47.90,0,22.99
+CA-2016-140977,JL-15175,2016,"United States",Technology,91.48,1,-1.83
+US-2016-155768,LB-16795,2016,"United States","Office Supplies",1112.94,0,222.59
+CA-2016-154998,ES-14080,2016,"United States","Office Supplies",37.94,0,18.21
+US-2016-155768,LB-16795,2016,"United States","Office Supplies",22.92,0,11.23
+CA-2016-149671,KB-16600,2016,"United States","Office Supplies",61.38,0,15.96
+CA-2016-118178,CC-12610,2016,"United States","Office Supplies",31.09,1,-20.72
+CA-2016-166618,DP-13000,2016,"United States",Technology,13.98,0,3.91
+CA-2016-126858,JM-15265,2016,"United States",Furniture,31.96,0,1.60
+CA-2016-117625,GM-14500,2016,"United States","Office Supplies",7.07,0,2.39
+CA-2016-166618,DP-13000,2016,"United States","Office Supplies",23.65,0,6.15
+CA-2016-108630,BE-11410,2016,"United States","Office Supplies",61.12,0,22.16
+CA-2016-101189,JB-15400,2016,"United States","Office Supplies",93.02,0,3.72
+US-2016-105452,BF-11005,2016,"United States",Furniture,24.70,1,-9.88
+US-2016-105452,BF-11005,2016,"United States",Furniture,302.72,1,-378.40
+CA-2016-164770,MY-18295,2016,"United States",Furniture,781.86,0,-137.98
+CA-2016-164770,MY-18295,2016,"United States","Office Supplies",30.82,0,9.63
+US-2016-102232,MF-17665,2016,"United States","Office Supplies",197.05,0,59.12
+CA-2016-116596,BW-11200,2016,"United States",Furniture,427.64,0,80.78
+CA-2016-117604,JP-15520,2016,"United States","Office Supplies",239.50,0,114.96
+CA-2016-116596,BW-11200,2016,"United States","Office Supplies",40.67,0,12.61
+CA-2016-105207,BO-11350,2016,"United States",Furniture,1592.85,0,350.43
+CA-2016-116596,BW-11200,2016,"United States","Office Supplies",33.48,0,1.34
+CA-2016-129861,DM-13345,2016,"United States",Furniture,376.87,0,-213.56
+CA-2016-105207,BO-11350,2016,"United States","Office Supplies",11.88,0,5.35
+CA-2016-116596,BW-11200,2016,"United States","Office Supplies",9.73,0,3.28
+US-2016-123610,VM-21835,2016,"United States",Technology,120.00,0,46.80
+US-2016-123610,VM-21835,2016,"United States","Office Supplies",8.67,0,2.34
+CA-2016-148747,AS-10045,2016,"United States",Furniture,477.67,0,84.29
+CA-2016-130638,SC-20095,2016,"United States",Furniture,282.84,0,19.80
+CA-2016-130638,SC-20095,2016,"United States","Office Supplies",27.72,0,13.31
+CA-2016-110086,BD-11320,2016,"United States",Technology,239.98,0,24.00
+CA-2016-149237,CM-12235,2016,"United States",Furniture,26.94,0,11.31
+CA-2016-131744,SC-20770,2016,"United States","Office Supplies",6.85,0,2.14
+CA-2016-131744,SC-20770,2016,"United States","Office Supplies",4.63,1,-3.86
+CA-2016-108959,MH-17785,2016,"United States","Office Supplies",104.70,0,6.54
+CA-2016-131744,SC-20770,2016,"United States","Office Supplies",453.60,0,90.72
+CA-2016-101329,MM-17920,2016,"United States","Office Supplies",32.13,0,8.35
+CA-2016-101329,MM-17920,2016,"United States","Office Supplies",2.88,0,0.81
+CA-2016-113607,PW-19030,2016,"United States",Technology,1091.93,0,272.98
+CA-2016-113607,PW-19030,2016,"United States","Office Supplies",111.96,0,54.86
+CA-2016-140256,PW-19030,2016,"United States","Office Supplies",5.76,0,1.67
+CA-2016-132017,MH-17620,2016,"United States","Office Supplies",6.82,1,-11.59
+CA-2016-105263,LM-17065,2016,"United States","Office Supplies",38.34,0,15.72
+CA-2016-125724,SM-20950,2016,"United States",Furniture,68.43,0,8.55
+CA-2016-125220,BE-11410,2016,"United States",Technology,1649.75,0,544.42
+CA-2016-129280,SM-20905,2016,"United States",Technology,132.52,0,34.79
+CA-2016-129280,SM-20905,2016,"United States","Office Supplies",195.64,0,-44.02
+CA-2016-168844,NM-18520,2016,"United States","Office Supplies",7.15,0,2.32
+CA-2016-168844,NM-18520,2016,"United States",Technology,179.70,0,88.05
+CA-2016-129280,SM-20905,2016,"United States",Furniture,51.97,0,10.39
+CA-2016-129280,SM-20905,2016,"United States",Technology,431.98,0,-75.60
+CA-2016-129280,SM-20905,2016,"United States",Technology,224.94,1,-164.95
+CA-2016-160717,ME-17320,2016,"United States",Technology,3023.93,0,226.79
+CA-2016-160717,ME-17320,2016,"United States",Technology,26.96,0,3.77
+CA-2016-160717,ME-17320,2016,"United States",Technology,477.60,0,161.19
+CA-2016-129280,SM-20905,2016,"United States","Office Supplies",6.00,0,2.10
+CA-2016-126270,AF-10870,2016,"United States","Office Supplies",18.09,0,6.56
+CA-2016-126270,AF-10870,2016,"United States","Office Supplies",71.97,0,35.99
+CA-2016-160479,AH-10585,2016,"United States","Office Supplies",35.40,0,13.45
+CA-2016-114867,FM-14290,2016,"United States","Office Supplies",7.97,0,2.69
+CA-2016-114867,FM-14290,2016,"United States",Technology,1499.97,0,-374.99
+CA-2016-137393,GM-14500,2016,"United States",Furniture,41.60,0,14.14
+CA-2016-144785,CS-12490,2016,"United States","Office Supplies",6.99,0,2.03
+CA-2016-144785,CS-12490,2016,"United States","Office Supplies",6.84,0,1.85
+CA-2016-107104,MS-17365,2016,"United States",Furniture,3406.66,0,160.31
+CA-2016-107104,MS-17365,2016,"United States","Office Supplies",37.17,0,10.41
+CA-2016-107104,MS-17365,2016,"United States","Office Supplies",64.96,0,19.49
+CA-2016-107104,MS-17365,2016,"United States",Furniture,595.38,0,297.69
+CA-2016-158617,AC-10660,2016,"United States","Office Supplies",35.88,0,16.15
+CA-2016-107475,RS-19870,2016,"United States","Office Supplies",9.65,0,3.50
+US-2016-148957,CC-12430,2016,"United States","Office Supplies",12.32,0,5.91
+CA-2016-119641,CS-12250,2016,"United States",Furniture,18.96,0,7.58
+CA-2016-105781,JF-15565,2016,"United States",Furniture,326.65,0,39.92
+CA-2016-105781,JF-15565,2016,"United States",Technology,89.97,0,39.59
+CA-2016-160598,SV-20815,2016,"United States","Office Supplies",31.01,0,11.24
+US-2016-151260,SC-20695,2016,"United States","Office Supplies",73.54,0,9.19
+CA-2016-122511,BT-11485,2016,"United States",Furniture,30.34,0,9.48
+CA-2016-105291,SP-20920,2016,"United States","Office Supplies",3.62,0,1.19
+CA-2016-125920,SH-19975,2016,"United States","Office Supplies",3.80,1,-5.89
+CA-2016-161746,CS-11950,2016,"United States",Furniture,242.14,0,12.11
+CA-2016-161746,CS-11950,2016,"United States","Office Supplies",12.39,0,5.70
+CA-2016-161746,CS-11950,2016,"United States",Furniture,19.96,0,5.59
+CA-2016-161746,CS-11950,2016,"United States","Office Supplies",340.92,0,3.41
+CA-2016-136322,AP-10720,2016,"United States",Furniture,45.57,0,9.68
+CA-2016-136322,AP-10720,2016,"United States","Office Supplies",28.75,1,-21.08
+CA-2016-100587,SL-20155,2016,"United States","Office Supplies",6.48,0,3.11
+CA-2016-117583,CB-12025,2016,"United States","Office Supplies",25.92,0,12.44
+CA-2016-117583,CB-12025,2016,"United States","Office Supplies",34.65,0,9.70
+CA-2016-166653,NP-18685,2016,"United States","Office Supplies",63.97,0,19.99
+CA-2016-117583,CB-12025,2016,"United States","Office Supplies",204.95,0,100.43
+CA-2016-117583,CB-12025,2016,"United States","Office Supplies",79.95,0,38.38
+CA-2016-137127,JJ-15445,2016,"United States","Office Supplies",9.45,0,4.54
+CA-2016-116379,LD-17005,2016,"United States","Office Supplies",57.58,0,20.15
+US-2016-144477,DB-13270,2016,"United States","Office Supplies",37.31,0,2.80
+CA-2016-108210,AT-10735,2016,"United States",Technology,79.96,0,8.00
+CA-2016-158358,EM-13810,2016,"United States",Technology,159.98,0,57.59
+CA-2016-108210,AT-10735,2016,"United States",Technology,223.96,0,11.20
+CA-2016-113390,EP-13915,2016,"United States","Office Supplies",5.34,0,0.67
+CA-2016-113390,EP-13915,2016,"United States","Office Supplies",27.72,0,3.47
+US-2016-158680,NZ-18565,2016,"United States","Office Supplies",2.50,0,0.90
+CA-2016-126627,WB-21850,2016,"United States",Furniture,14.00,1,-6.30
+CA-2016-146913,SF-20965,2016,"United States",Furniture,1403.92,0,70.20
+CA-2016-126627,WB-21850,2016,"United States","Office Supplies",16.39,1,-26.23
+US-2016-125402,DL-12865,2016,"United States","Office Supplies",10.90,0,5.12
+US-2016-125402,DL-12865,2016,"United States","Office Supplies",29.60,0,14.80
+US-2016-125402,DL-12865,2016,"United States","Office Supplies",4.98,0,2.29
+US-2016-125402,DL-12865,2016,"United States",Technology,479.98,0,161.99
+US-2016-125402,DL-12865,2016,"United States",Technology,44.74,0,4.47
+US-2016-125402,DL-12865,2016,"United States","Office Supplies",5.76,0,1.67
+US-2016-125402,DL-12865,2016,"United States",Furniture,483.14,0,60.39
+CA-2016-123533,SC-20050,2016,"United States",Furniture,339.92,0,8.50
+CA-2016-123533,SC-20050,2016,"United States","Office Supplies",10.53,0,3.42
+CA-2016-123533,SC-20050,2016,"United States","Office Supplies",42.38,0,4.24
+CA-2016-104983,FM-14215,2016,"United States","Office Supplies",123.92,0,38.73
+CA-2016-129630,IM-15055,2016,"United States",Furniture,24.27,0,8.74
+CA-2016-160234,PF-19225,2016,"United States",Technology,135.95,0,39.43
+CA-2016-129630,IM-15055,2016,"United States",Technology,2799.96,0,944.99
+CA-2016-158155,EH-13765,2016,"United States",Furniture,12.56,0,4.02
+CA-2016-158155,EH-13765,2016,"United States","Office Supplies",90.48,0,33.93
+CA-2016-158155,EH-13765,2016,"United States","Office Supplies",13.08,0,6.02
+CA-2016-158155,EH-13765,2016,"United States",Furniture,214.70,0,83.73
+CA-2016-114405,AS-10240,2016,"United States","Office Supplies",33.53,0,2.51
+CA-2016-114405,AS-10240,2016,"United States","Office Supplies",36.74,0,3.67
+CA-2016-153178,CL-12565,2016,"United States",Technology,437.85,0,131.36
+CA-2016-153178,CL-12565,2016,"United States","Office Supplies",673.57,0,252.59
+CA-2016-164889,CP-12340,2016,"United States",Furniture,71.09,0,-1.78
+CA-2016-169824,NS-18640,2016,"United States",Furniture,60.35,0,19.92
+CA-2016-169824,NS-18640,2016,"United States","Office Supplies",35.52,0,9.95
+CA-2016-169824,NS-18640,2016,"United States","Office Supplies",11.20,0,4.82
+CA-2016-146374,HE-14800,2016,"United States",Furniture,13.40,0,6.43
+CA-2016-146374,HE-14800,2016,"United States","Office Supplies",4.98,0,2.34
+CA-2016-146374,HE-14800,2016,"United States","Office Supplies",109.69,0,51.55
+CA-2016-130225,RC-19960,2016,"United States","Office Supplies",99.57,0,33.60
+US-2016-103674,AP-10720,2016,"United States",Technology,271.96,0,27.20
+US-2016-103674,AP-10720,2016,"United States","Office Supplies",18.69,0,5.23
+US-2016-103674,AP-10720,2016,"United States","Office Supplies",13.36,0,6.41
+US-2016-103674,AP-10720,2016,"United States",Technology,249.58,0,31.20
+US-2016-103674,AP-10720,2016,"United States","Office Supplies",13.86,0,0.00
+CA-2016-122581,JK-15370,2016,"United States",Furniture,573.17,0,63.69
+US-2016-115441,SH-19975,2016,"United States","Office Supplies",20.62,0,9.69
+US-2016-115441,SH-19975,2016,"United States",Technology,124.25,0,48.46
+US-2016-115441,SH-19975,2016,"United States",Technology,297.55,0,83.31
+US-2016-115441,SH-19975,2016,"United States",Furniture,403.56,0,96.85
+US-2016-115441,SH-19975,2016,"United States",Furniture,95.20,0,27.61
+CA-2016-112830,LP-17095,2016,"United States",Furniture,466.32,0,34.97
+CA-2016-112830,LP-17095,2016,"United States",Furniture,82.64,0,0.00
+CA-2016-149272,MY-18295,2016,"United States",Furniture,528.43,0,-143.43
+CA-2016-149272,MY-18295,2016,"United States","Office Supplies",22.39,1,-35.82
+US-2016-103674,AP-10720,2016,"United States","Office Supplies",13.38,0,4.68
+US-2016-103674,AP-10720,2016,"United States","Office Supplies",437.47,0,153.12
+US-2016-157728,RC-19960,2016,"United States","Office Supplies",35.56,0,16.71
+US-2016-157728,RC-19960,2016,"United States",Technology,97.98,0,27.43
+CA-2016-125794,ML-17410,2016,"United States",Technology,36.24,0,15.22
