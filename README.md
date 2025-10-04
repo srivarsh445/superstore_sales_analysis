@@ -20,4 +20,4 @@ https://github.com/srivarsh445/superstore_sales_analysis/blob/main/superstore%20
 ## Insights
 - 2017 had highest sales
 - Furniture category generated highest profit
-- Top customer placed 150+ orders
+- consumer segment covers almost 50% sales
